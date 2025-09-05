@@ -40,6 +40,7 @@ External_repos/*_backup_*/
 !/scripts/analyze_future_predictions.py
 !/scripts/compare_tops.py
 !/scripts/data_quality_check.py
+!/scripts/build_graphs_from_metadatos.py
 
 # validated_results
 !/validated_results/REPORTE_F1_CORREGIDO.md
@@ -57,6 +58,11 @@ External_repos/*_backup_*/
 # baseline_predictions
 !/baseline_predictions/baseline_consolidated_results.csv
 !/baseline_predictions/evaluations/confusion_matrices/**
+
+# Metadatos (source de construcción de redes)
+!/Metadatos/
+!/Metadatos/batch_*_metadata.json
+!/Metadatos/batch_*_summary.txt
 
 # Mantener ignorado todo lo demás (incluye modelos .pth, repos externos, metadatos no usados, __pycache__/, etc.)
 # Ignorar archivos/carpeta archivados
