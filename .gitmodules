@@ -1,0 +1,9 @@
+[submodule "External_repos/tgn"]
+	path = External_repos/tgn
+	url = https://github.com/twitter-research/tgn
+[submodule "External_repos/TDGNN"]
+	path = External_repos/TDGNN
+	url = https://github.com/YuWVandy/TDGNN
+[submodule "External_repos/EvolveGCN"]
+	path = External_repos/EvolveGCN
+	url = https://github.com/IBM/EvolveGCN
