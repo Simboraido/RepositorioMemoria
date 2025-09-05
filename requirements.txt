@@ -1,0 +1,52 @@
+numpy
+pandas
+scikit-learn
+networkx
+matplotlib
+seaborn
+tqdm
+torch
+# Requisitos del proyecto (mínimos y reproducibles)
+# Nota: Para PyTorch y PyG (PyTorch Geometric) en Windows, si hay problemas de wheel,
+# siga las instrucciones oficiales:
+# - PyTorch: https://pytorch.org/get-started/locally/
+# - PyG:     https://pytorch-geometric.readthedocs.io/en/latest/install/installation.html
+
+# Núcleo científico
+numpy==1.26.4
+pandas==2.2.2
+scipy==1.13.1
+scikit-learn==1.5.1
+
+# Redes y grafos
+networkx==3.3
+python-louvain==0.16  # requerido por louvain_communities de NetworkX
+
+# Visualización
+matplotlib==3.9.2
+seaborn==0.13.2
+
+# Utilidades
+tqdm==4.66.5
+
+# Deep Learning
+# (Pin suave para mayor compatibilidad en distintas máquinas)
+torch>=2.4,<3.0
+torchvision>=0.19,<1.0
+torchaudio>=2.4,<3.0
+
+# PyTorch Geometric (coincidir con versión de torch instalada)
+# Si la instalación falla, instale primero las extensiones según la guía de PyG
+# y luego vuelva a ejecutar `pip install -r requirements.txt`.
+torch-geometric==2.6.1
+# Extensiones usadas por PyG (versiones mínimas compatibles)
+torch-scatter>=2.1.2
+torch-sparse>=0.6.18
+torch-cluster>=1.6.3
+torch-spline-conv>=1.2.2
+
+# Modelos temporales basados en PyG
+torch-geometric-temporal>=0.54,<1.0
+
+# IO opcional (acelera GraphML)
+lxml>=4.9.3

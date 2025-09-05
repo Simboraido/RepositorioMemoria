@@ -1,0 +1,72 @@
+# Ignorar todo por defecto
+*
+
+# Permitir archivos raíz esenciales
+!/.gitignore
+!/README.md
+!/requirements.txt
+!/.gitmodules
+
+# Permitir directorios necesarios
+!/scripts/
+!/temporal_networks/
+!/temporal_networks/networks/
+!/validated_results/
+!/validated_results/confusion_matrices/
+!/predictions/
+!/baseline_predictions/
+!/baseline_predictions/evaluations/
+!/baseline_predictions/evaluations/confusion_matrices/
+
+# temporal_networks/networks (datos)
+!/temporal_networks/networks/*.graphml
+!/temporal_networks/networks/*_nodes.csv
+!/temporal_networks/networks/*_edges.csv
+
+# External submodules
+!/External_repos/
+!/External_repos/**/
+
+# scripts (solo los finales)
+!/scripts/train_validated_ai_models.py
+!/scripts/a3tgcn_implementation.py
+!/scripts/evolvegcn_implementation.py
+!/scripts/tdgnn_implementation.py
+!/scripts/tgn_implementation.py
+!/scripts/tgn_simple_implementation.py
+!/scripts/recompute_metrics_from_confusion.py
+!/scripts/predict_future_with_best_model.py
+!/scripts/analyze_future_predictions.py
+!/scripts/compare_tops.py
+!/scripts/data_quality_check.py
+
+# validated_results
+!/validated_results/REPORTE_F1_CORREGIDO.md
+!/validated_results/validated_ai_training_results.json
+!/validated_results/confusion_matrices/**
+
+# predictions
+!/predictions/topic_id_to_name_mapping.json
+!/predictions/predicted_links_2024_2025_by_best_model.csv
+!/predictions/predicted_links_2024_2025_by_best_model.json
+!/predictions/predicted_links_2025_2026_by_best_model.csv
+!/predictions/predicted_links_2025_2026_by_best_model.json
+!/predictions/ANALISIS_PREDICCIONES.md
+
+# baseline_predictions
+!/baseline_predictions/baseline_consolidated_results.csv
+!/baseline_predictions/evaluations/confusion_matrices/**
+
+# Mantener ignorado todo lo demás (incluye modelos .pth, repos externos, metadatos no usados, __pycache__/, etc.)
+# Ignorar archivos/carpeta archivados
+.archive_unused*/
+archive_unused*/
+
+# VS Code
+.vscode/
+.history/
+
+temporal_networks/*.graphml
+**/*.pth
+**/*.pt
+**/__pycache__/
