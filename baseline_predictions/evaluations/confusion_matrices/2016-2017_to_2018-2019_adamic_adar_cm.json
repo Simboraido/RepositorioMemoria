@@ -1,0 +1,14 @@
+{
+  "period_pair": "2016-2017_to_2018-2019",
+  "algorithm": "adamic_adar",
+  "threshold": 0.4170323914242463,
+  "auc_roc": 0.6166666666666667,
+  "f1": 0.4,
+  "task": "appearance",
+  "confusion_matrix": {
+    "tn": 9,
+    "fp": 1,
+    "fn": 2,
+    "tp": 1
+  }
+}

@@ -1,0 +1,37 @@
+id,name,frequency,field,subfield,domain,degree,degree_centrality,betweenness_centrality,closeness_centrality
+https://openalex.org/T12859,Cell Image Analysis Techniques,3,"Biochemistry, Genetics and Molecular Biology",Biophysics,Life Sciences,1,0.02857142857142857,0.0,0.045714285714285714
+https://openalex.org/T10531,Advanced Vision and Imaging,5,Computer Science,Computer Vision and Pattern Recognition,Physical Sciences,2,0.05714285714285714,0.0067226890756302525,0.07619047619047618
+https://openalex.org/T10581,Neural dynamics and brain function,4,Neuroscience,Cognitive Neuroscience,Life Sciences,2,0.05714285714285714,0.023529411764705882,0.14950166112956811
+https://openalex.org/T11687,Teleoperation and Haptic Systems,5,Engineering,Mechanical Engineering,Physical Sciences,1,0.02857142857142857,0.0,0.03809523809523809
+https://openalex.org/T10876,Fault Detection and Control Systems,14,Engineering,Control and Systems Engineering,Physical Sciences,6,0.17142857142857143,0.052100840336134456,0.22167487684729065
+https://openalex.org/T10188,Advanced machining processes and optimization,4,Engineering,Mechanical Engineering,Physical Sciences,3,0.08571428571428572,0.023529411764705882,0.13975155279503104
+https://openalex.org/T10887,Bioinformatics and Genomic Networks,3,"Biochemistry, Genetics and Molecular Biology",Molecular Biology,Life Sciences,1,0.02857142857142857,0.0,0.02857142857142857
+https://openalex.org/T11301,Advanced Surface Polishing Techniques,4,Engineering,Biomedical Engineering,Physical Sciences,1,0.02857142857142857,0.0,0.10714285714285714
+https://openalex.org/T10215,Semantic Web and Ontologies,7,Computer Science,Artificial Intelligence,Physical Sciences,2,0.05714285714285714,0.0,0.05714285714285714
+https://openalex.org/T10791,Advanced Control Systems Optimization,13,Engineering,Control and Systems Engineering,Physical Sciences,5,0.14285714285714285,0.0319327731092437,0.1948051948051948
+https://openalex.org/T11270,Complex Systems and Time Series Analysis,3,"Economics, Econometrics and Finance",Economics and Econometrics,Social Sciences,1,0.02857142857142857,0.0,0.03809523809523809
+https://openalex.org/T10638,Optical measurement and interference techniques,4,Computer Science,Computer Vision and Pattern Recognition,Physical Sciences,2,0.05714285714285714,0.005042016806722689,0.06530612244897958
+https://openalex.org/T10427,Visual perception and processing mechanisms,3,Neuroscience,Cognitive Neuroscience,Life Sciences,1,0.02857142857142857,0.0,0.11278195488721804
+https://openalex.org/T10220,Machine Fault Diagnosis Techniques,4,Engineering,Control and Systems Engineering,Physical Sciences,2,0.05714285714285714,0.023529411764705882,0.156794425087108
+https://openalex.org/T10820,Fuzzy Logic and Control Systems,6,Computer Science,Artificial Intelligence,Physical Sciences,2,0.05714285714285714,0.0025210084033613447,0.156794425087108
+https://openalex.org/T13114,Image Processing Techniques and Applications,6,Engineering,Media Technology,Physical Sciences,2,0.05714285714285714,0.005042016806722689,0.06530612244897958
+https://openalex.org/T11749,Iterative Learning Control Systems,6,Engineering,Control and Systems Engineering,Physical Sciences,3,0.08571428571428572,0.060504201680672276,0.18367346938775508
+https://openalex.org/T11010,"Logic, Reasoning, and Knowledge",7,Computer Science,Artificial Intelligence,Physical Sciences,2,0.05714285714285714,0.0,0.05714285714285714
+https://openalex.org/T10320,Neural Networks and Applications,15,Computer Science,Artificial Intelligence,Physical Sciences,5,0.14285714285714285,0.052100840336134456,0.2073732718894009
+https://openalex.org/T10191,Robotics and Sensor-Based Localization,3,Engineering,Aerospace Engineering,Physical Sciences,1,0.02857142857142857,0.0,0.02857142857142857
+https://openalex.org/T11081,Advanced Control Systems Design,3,Engineering,Control and Systems Engineering,Physical Sciences,1,0.02857142857142857,0.0,0.13677811550151975
+https://openalex.org/T10534,Structural Health Monitoring Techniques,4,Engineering,Civil and Structural Engineering,Physical Sciences,1,0.02857142857142857,0.0,0.11688311688311687
+https://openalex.org/T11236,Control Systems and Identification,9,Engineering,Control and Systems Engineering,Physical Sciences,4,0.11428571428571428,0.0025210084033613447,0.20089285714285712
+https://openalex.org/T10244,Chaos control and synchronization,4,Physics and Astronomy,Statistical and Nonlinear Physics,Physical Sciences,1,0.02857142857142857,0.0,0.03809523809523809
+https://openalex.org/T10653,Robot Manipulation and Learning,5,Engineering,Control and Systems Engineering,Physical Sciences,2,0.05714285714285714,0.0016806722689075631,0.05714285714285714
+https://openalex.org/T10046,Stability and Control of Uncertain Systems,5,Engineering,Control and Systems Engineering,Physical Sciences,2,0.05714285714285714,0.0,0.16917293233082706
+https://openalex.org/T10462,Reinforcement Learning in Robotics,4,Computer Science,Artificial Intelligence,Physical Sciences,1,0.02857142857142857,0.0,0.02857142857142857
+https://openalex.org/T10621,Gene Regulatory Network Analysis,4,"Biochemistry, Genetics and Molecular Biology",Molecular Biology,Life Sciences,1,0.02857142857142857,0.0,0.02857142857142857
+https://openalex.org/T11583,Advanced Measurement and Metrology Techniques,3,Engineering,Mechanical Engineering,Physical Sciences,2,0.05714285714285714,0.0,0.13677811550151975
+https://openalex.org/T10456,Multi-Agent Systems and Negotiation,6,Computer Science,Artificial Intelligence,Physical Sciences,2,0.05714285714285714,0.0,0.05714285714285714
+https://openalex.org/T10040,Adaptive Control of Nonlinear Systems,18,Engineering,Control and Systems Engineering,Physical Sciences,6,0.17142857142857143,0.08235294117647059,0.23809523809523808
+https://openalex.org/T11408,Advanced Optical Imaging Technologies,3,Engineering,Media Technology,Physical Sciences,1,0.02857142857142857,0.0,0.045714285714285714
+https://openalex.org/T10868,Soft Robotics and Applications,5,Engineering,Biomedical Engineering,Physical Sciences,1,0.02857142857142857,0.0,0.03809523809523809
+https://openalex.org/T10586,Robotic Path Planning Algorithms,3,Computer Science,Computer Vision and Pattern Recognition,Physical Sciences,1,0.02857142857142857,0.0,0.02857142857142857
+https://openalex.org/T11187,Nonlinear Dynamics and Pattern Formation,5,Computer Science,Computer Networks and Communications,Physical Sciences,2,0.05714285714285714,0.0016806722689075631,0.05714285714285714
+https://openalex.org/T11975,Evolutionary Algorithms and Applications,5,Computer Science,Artificial Intelligence,Physical Sciences,1,0.02857142857142857,0.0,0.02857142857142857

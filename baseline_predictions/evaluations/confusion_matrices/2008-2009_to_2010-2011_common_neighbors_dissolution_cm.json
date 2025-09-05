@@ -1,0 +1,14 @@
+{
+  "period_pair": "2008-2009_to_2010-2011",
+  "algorithm": "common_neighbors",
+  "threshold": -0.0,
+  "auc_roc": 0.52,
+  "f1": 0.4444444444444444,
+  "task": "dissolution",
+  "confusion_matrix": {
+    "tn": 8,
+    "fp": 2,
+    "fn": 3,
+    "tp": 2
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "model": "A3TGCN",
+  "threshold": 0.5,
+  "auc_roc": 0.9175874999999999,
+  "f1_score": 0.8433734939759037,
+  "confusion_matrix": {
+    "tn": 160,
+    "fp": 40,
+    "fn": 25,
+    "tp": 175
+  }
+}

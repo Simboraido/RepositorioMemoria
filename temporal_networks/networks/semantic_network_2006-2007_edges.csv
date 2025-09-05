@@ -1,0 +1,26 @@
+source,target,weight,source_name,target_name,source_field,target_field
+https://openalex.org/T10876,https://openalex.org/T11236,3,Fault Detection and Control Systems,Control Systems and Identification,Engineering,Engineering
+https://openalex.org/T10876,https://openalex.org/T10791,5,Fault Detection and Control Systems,Advanced Control Systems Optimization,Engineering,Engineering
+https://openalex.org/T10876,https://openalex.org/T10320,2,Fault Detection and Control Systems,Neural Networks and Applications,Engineering,Computer Science
+https://openalex.org/T10876,https://openalex.org/T10046,2,Fault Detection and Control Systems,Stability and Control of Uncertain Systems,Engineering,Engineering
+https://openalex.org/T10876,https://openalex.org/T10040,2,Fault Detection and Control Systems,Adaptive Control of Nonlinear Systems,Engineering,Engineering
+https://openalex.org/T10502,https://openalex.org/T11347,2,Advanced Memory and Neural Computing,Neural Networks Stability and Synchronization,Engineering,Computer Science
+https://openalex.org/T10502,https://openalex.org/T10320,2,Advanced Memory and Neural Computing,Neural Networks and Applications,Engineering,Computer Science
+https://openalex.org/T10215,https://openalex.org/T10456,4,Semantic Web and Ontologies,Multi-Agent Systems and Negotiation,Computer Science,Computer Science
+https://openalex.org/T10215,https://openalex.org/T11010,2,Semantic Web and Ontologies,"Logic, Reasoning, and Knowledge",Computer Science,Computer Science
+https://openalex.org/T10791,https://openalex.org/T11236,3,Advanced Control Systems Optimization,Control Systems and Identification,Engineering,Engineering
+https://openalex.org/T10791,https://openalex.org/T10320,3,Advanced Control Systems Optimization,Neural Networks and Applications,Engineering,Computer Science
+https://openalex.org/T10791,https://openalex.org/T10564,3,Advanced Control Systems Optimization,Wastewater Treatment and Nitrogen Removal,Engineering,Environmental Science
+https://openalex.org/T10791,https://openalex.org/T10040,3,Advanced Control Systems Optimization,Adaptive Control of Nonlinear Systems,Engineering,Engineering
+https://openalex.org/T10305,https://openalex.org/T11102,2,Power System Optimization and Stability,HVDC Systems and Fault Protection,Engineering,Engineering
+https://openalex.org/T11270,https://openalex.org/T10064,2,Complex Systems and Time Series Analysis,Complex Network Analysis Techniques,"Economics, Econometrics and Finance",Physics and Astronomy
+https://openalex.org/T10820,https://openalex.org/T10320,3,Fuzzy Logic and Control Systems,Neural Networks and Applications,Computer Science,Computer Science
+https://openalex.org/T11347,https://openalex.org/T10320,3,Neural Networks Stability and Synchronization,Neural Networks and Applications,Computer Science,Computer Science
+https://openalex.org/T11749,https://openalex.org/T10040,3,Iterative Learning Control Systems,Adaptive Control of Nonlinear Systems,Engineering,Engineering
+https://openalex.org/T11010,https://openalex.org/T10456,3,"Logic, Reasoning, and Knowledge",Multi-Agent Systems and Negotiation,Computer Science,Computer Science
+https://openalex.org/T10228,https://openalex.org/T10573,2,Multilevel Inverters and Converters,Power Quality and Harmonics,Engineering,Engineering
+https://openalex.org/T10320,https://openalex.org/T11236,2,Neural Networks and Applications,Control Systems and Identification,Computer Science,Engineering
+https://openalex.org/T10320,https://openalex.org/T10040,3,Neural Networks and Applications,Adaptive Control of Nonlinear Systems,Computer Science,Engineering
+https://openalex.org/T10244,https://openalex.org/T11187,2,Chaos control and synchronization,Nonlinear Dynamics and Pattern Formation,Physics and Astronomy,Computer Science
+https://openalex.org/T10046,https://openalex.org/T10040,4,Stability and Control of Uncertain Systems,Adaptive Control of Nonlinear Systems,Engineering,Engineering
+https://openalex.org/T10057,https://openalex.org/T11448,2,Face and Expression Recognition,Face recognition and analysis,Computer Science,Computer Science

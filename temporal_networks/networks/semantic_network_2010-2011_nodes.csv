@@ -1,0 +1,48 @@
+id,name,frequency,field,subfield,domain,degree,degree_centrality,betweenness_centrality,closeness_centrality
+https://openalex.org/T10531,Advanced Vision and Imaging,8,Computer Science,Computer Vision and Pattern Recognition,Physical Sciences,2,0.043478260869565216,0.0,0.05917874396135266
+https://openalex.org/T10824,Image Retrieval and Classification Techniques,9,Computer Science,Computer Vision and Pattern Recognition,Physical Sciences,3,0.06521739130434782,0.015458937198067632,0.09683794466403163
+https://openalex.org/T12111,Industrial Vision Systems and Defect Detection,4,Engineering,Industrial and Manufacturing Engineering,Physical Sciences,2,0.043478260869565216,0.005797101449275362,0.07101449275362319
+https://openalex.org/T11138,Tribology and Lubrication Engineering,3,Engineering,Mechanical Engineering,Physical Sciences,1,0.021739130434782608,0.0,0.021739130434782608
+https://openalex.org/T12016,Web Data Mining and Analysis,3,Computer Science,Information Systems,Physical Sciences,1,0.021739130434782608,0.0,0.02898550724637681
+https://openalex.org/T11975,Evolutionary Algorithms and Applications,6,Computer Science,Artificial Intelligence,Physical Sciences,2,0.043478260869565216,0.0,0.043478260869565216
+https://openalex.org/T11394,Dynamics and Control of Mechanical Systems,6,Engineering,Control and Systems Engineering,Physical Sciences,3,0.06521739130434782,0.01932367149758454,0.1497961956521739
+https://openalex.org/T10052,Medical Image Segmentation Techniques,9,Computer Science,Computer Vision and Pattern Recognition,Physical Sciences,2,0.043478260869565216,0.005797101449275362,0.07101449275362319
+https://openalex.org/T10876,Fault Detection and Control Systems,19,Engineering,Control and Systems Engineering,Physical Sciences,8,0.17391304347826086,0.10772946859903382,0.23967391304347826
+https://openalex.org/T10028,Topic Modeling,4,Computer Science,Artificial Intelligence,Physical Sciences,2,0.043478260869565216,0.000966183574879227,0.043478260869565216
+https://openalex.org/T10711,Target Tracking and Data Fusion in Sensor Networks,6,Computer Science,Artificial Intelligence,Physical Sciences,2,0.043478260869565216,0.0,0.18797953964194372
+https://openalex.org/T13891,Engineering Diagnostics and Reliability,3,Engineering,Mechanics of Materials,Physical Sciences,1,0.021739130434782608,0.0,0.1229096989966555
+https://openalex.org/T10791,Advanced Control Systems Optimization,18,Engineering,Control and Systems Engineering,Physical Sciences,5,0.10869565217391304,0.0322061191626409,0.22826086956521738
+https://openalex.org/T10181,Natural Language Processing Techniques,3,Computer Science,Artificial Intelligence,Physical Sciences,1,0.021739130434782608,0.0,0.02898550724637681
+https://openalex.org/T10175,Advanced DC-DC Converters,5,Engineering,Electrical and Electronic Engineering,Physical Sciences,2,0.043478260869565216,0.0,0.043478260869565216
+https://openalex.org/T10220,Machine Fault Diagnosis Techniques,5,Engineering,Control and Systems Engineering,Physical Sciences,2,0.043478260869565216,0.01932367149758454,0.16529235382308843
+https://openalex.org/T13114,Image Processing Techniques and Applications,3,Engineering,Media Technology,Physical Sciences,1,0.021739130434782608,0.0,0.050724637681159424
+https://openalex.org/T10805,Vehicle Dynamics and Control Systems,6,Engineering,Automotive Engineering,Physical Sciences,1,0.021739130434782608,0.0,0.11413043478260869
+https://openalex.org/T10100,Metaheuristic Optimization Algorithms Research,7,Computer Science,Artificial Intelligence,Physical Sciences,2,0.043478260869565216,0.0,0.043478260869565216
+https://openalex.org/T10228,Multilevel Inverters and Converters,7,Engineering,Electrical and Electronic Engineering,Physical Sciences,2,0.043478260869565216,0.0,0.043478260869565216
+https://openalex.org/T11416,Numerical methods for differential equations,3,Mathematics,Numerical Analysis,Physical Sciences,1,0.021739130434782608,0.0,0.021739130434782608
+https://openalex.org/T10627,Advanced Image and Video Retrieval Techniques,5,Computer Science,Computer Vision and Pattern Recognition,Physical Sciences,3,0.06521739130434782,0.00966183574879227,0.08193979933110368
+https://openalex.org/T10320,Neural Networks and Applications,8,Computer Science,Artificial Intelligence,Physical Sciences,1,0.021739130434782608,0.0,0.16249078850405305
+https://openalex.org/T10191,Robotics and Sensor-Based Localization,3,Engineering,Aerospace Engineering,Physical Sciences,2,0.043478260869565216,0.0,0.05917874396135266
+https://openalex.org/T11081,Advanced Control Systems Design,5,Engineering,Control and Systems Engineering,Physical Sciences,1,0.021739130434782608,0.0,0.1546283309957924
+https://openalex.org/T10534,Structural Health Monitoring Techniques,7,Engineering,Civil and Structural Engineering,Physical Sciences,1,0.021739130434782608,0.0,0.16249078850405305
+https://openalex.org/T11236,Control Systems and Identification,16,Engineering,Control and Systems Engineering,Physical Sciences,8,0.17391304347826086,0.07471819645732687,0.245819397993311
+https://openalex.org/T10640,Spectroscopy and Chemometric Analyses,5,Chemistry,Analytical Chemistry,Physical Sciences,2,0.043478260869565216,0.0,0.16249078850405305
+https://openalex.org/T10388,Advanced Steganography and Watermarking Techniques,3,Computer Science,Computer Vision and Pattern Recognition,Physical Sciences,1,0.021739130434782608,0.0,0.021739130434782608
+https://openalex.org/T10046,Stability and Control of Uncertain Systems,11,Engineering,Control and Systems Engineering,Physical Sciences,5,0.10869565217391304,0.032206119162640906,0.22826086956521738
+https://openalex.org/T11233,Advanced Adaptive Filtering Techniques,3,Engineering,Computational Mechanics,Physical Sciences,1,0.021739130434782608,0.0,0.16249078850405305
+https://openalex.org/T11615,Control and Dynamics of Mobile Robots,6,Engineering,Control and Systems Engineering,Physical Sciences,3,0.06521739130434782,0.000966183574879227,0.1497961956521739
+https://openalex.org/T10688,Image and Signal Denoising Methods,5,Computer Science,Computer Vision and Pattern Recognition,Physical Sciences,1,0.021739130434782608,0.0,0.050724637681159424
+https://openalex.org/T14474,Industrial Technology and Control Systems,4,Engineering,Control and Systems Engineering,Physical Sciences,1,0.021739130434782608,0.0,0.10308555399719495
+https://openalex.org/T12772,Control and Stability of Dynamical Systems,6,Engineering,Control and Systems Engineering,Physical Sciences,1,0.021739130434782608,0.0,0.1546283309957924
+https://openalex.org/T11261,Quantum chaos and dynamical systems,3,Physics and Astronomy,Statistical and Nonlinear Physics,Physical Sciences,1,0.021739130434782608,0.0,0.021739130434782608
+https://openalex.org/T12158,Guidance and Control Systems,4,Engineering,Aerospace Engineering,Physical Sciences,2,0.043478260869565216,0.0,0.14525691699604742
+https://openalex.org/T11110,Stability and Controllability of Differential Equations,3,Engineering,Control and Systems Engineering,Physical Sciences,1,0.021739130434782608,0.0,0.021739130434782608
+https://openalex.org/T12396,Advanced Differential Equations and Dynamical Systems,3,Mathematics,Geometry and Topology,Physical Sciences,1,0.021739130434782608,0.0,0.021739130434782608
+https://openalex.org/T10223,Microgrid Control and Optimization,6,Engineering,Control and Systems Engineering,Physical Sciences,2,0.043478260869565216,0.0,0.043478260869565216
+https://openalex.org/T10040,Adaptive Control of Nonlinear Systems,21,Engineering,Control and Systems Engineering,Physical Sciences,6,0.13043478260869565,0.06666666666666667,0.2039777983348751
+https://openalex.org/T12357,Digital Media Forensic Detection,3,Computer Science,Computer Vision and Pattern Recognition,Physical Sciences,1,0.021739130434782608,0.0,0.021739130434782608
+https://openalex.org/T12282,Mineral Processing and Grinding,4,Engineering,Mechanical Engineering,Physical Sciences,3,0.06521739130434782,0.0014492753623188406,0.17119565217391303
+https://openalex.org/T10848,Advanced Multi-Objective Optimization Algorithms,6,Computer Science,Computational Theory and Mathematics,Physical Sciences,2,0.043478260869565216,0.0,0.043478260869565216
+https://openalex.org/T14225,Advanced Sensor and Control Systems,3,Engineering,Control and Systems Engineering,Physical Sciences,2,0.043478260869565216,0.01932367149758454,0.131328171530673
+https://openalex.org/T11602,Magnetic Bearings and Levitation Dynamics,6,Engineering,Control and Systems Engineering,Physical Sciences,1,0.021739130434782608,0.0,0.021739130434782608
+https://openalex.org/T13717,Advanced Algorithms and Applications,5,Engineering,Control and Systems Engineering,Physical Sciences,3,0.06521739130434782,0.03671497584541063,0.1743083003952569

@@ -1,0 +1,16 @@
+source,target,weight,source_name,target_name,source_field,target_field
+https://openalex.org/T10531,https://openalex.org/T13114,2,Advanced Vision and Imaging,Image Processing Techniques and Applications,Computer Science,Engineering
+https://openalex.org/T10972,https://openalex.org/T10305,3,Power Systems Fault Detection,Power System Optimization and Stability,Engineering,Engineering
+https://openalex.org/T10876,https://openalex.org/T11053,2,Fault Detection and Control Systems,Process Optimization and Integration,Engineering,Engineering
+https://openalex.org/T10876,https://openalex.org/T10791,2,Fault Detection and Control Systems,Advanced Control Systems Optimization,Engineering,Engineering
+https://openalex.org/T10215,https://openalex.org/T10456,5,Semantic Web and Ontologies,Multi-Agent Systems and Negotiation,Computer Science,Computer Science
+https://openalex.org/T10215,https://openalex.org/T11010,6,Semantic Web and Ontologies,"Logic, Reasoning, and Knowledge",Computer Science,Computer Science
+https://openalex.org/T10215,https://openalex.org/T10181,3,Semantic Web and Ontologies,Natural Language Processing Techniques,Computer Science,Computer Science
+https://openalex.org/T10791,https://openalex.org/T11053,3,Advanced Control Systems Optimization,Process Optimization and Integration,Engineering,Engineering
+https://openalex.org/T10791,https://openalex.org/T10040,2,Advanced Control Systems Optimization,Adaptive Control of Nonlinear Systems,Engineering,Engineering
+https://openalex.org/T10278,https://openalex.org/T10504,2,Electric Motor Design and Analysis,Sensorless Control of Electric Motors,Engineering,Engineering
+https://openalex.org/T10820,https://openalex.org/T10320,4,Fuzzy Logic and Control Systems,Neural Networks and Applications,Computer Science,Computer Science
+https://openalex.org/T11010,https://openalex.org/T10456,5,"Logic, Reasoning, and Knowledge",Multi-Agent Systems and Negotiation,Computer Science,Computer Science
+https://openalex.org/T10320,https://openalex.org/T10688,2,Neural Networks and Applications,Image and Signal Denoising Methods,Computer Science,Computer Science
+https://openalex.org/T10320,https://openalex.org/T11210,2,Neural Networks and Applications,Mathematical Analysis and Transform Methods,Computer Science,Mathematics
+https://openalex.org/T10688,https://openalex.org/T12389,2,Image and Signal Denoising Methods,Infrared Target Detection Methodologies,Computer Science,Engineering

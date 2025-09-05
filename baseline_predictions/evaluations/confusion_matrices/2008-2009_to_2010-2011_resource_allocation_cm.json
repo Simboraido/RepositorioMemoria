@@ -1,0 +1,14 @@
+{
+  "period_pair": "2008-2009_to_2010-2011",
+  "algorithm": "resource_allocation",
+  "threshold": 0.3333333333333333,
+  "auc_roc": 0.71875,
+  "f1": 0.6666666666666666,
+  "task": "appearance",
+  "confusion_matrix": {
+    "tn": 8,
+    "fp": 0,
+    "fn": 2,
+    "tp": 2
+  }
+}

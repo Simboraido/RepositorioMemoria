@@ -1,0 +1,12 @@
+{
+  "model": "TDGNN",
+  "threshold": 0.5,
+  "auc_roc": 0.92475,
+  "f1_score": 0.837772397094431,
+  "confusion_matrix": {
+    "tn": 160,
+    "fp": 40,
+    "fn": 27,
+    "tp": 173
+  }
+}

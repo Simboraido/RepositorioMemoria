@@ -1,0 +1,14 @@
+{
+  "period_pair": "2014-2015_to_2016-2017",
+  "algorithm": "common_neighbors",
+  "threshold": 1.0,
+  "auc_roc": 0.7299999999999999,
+  "f1": 0.625,
+  "task": "appearance",
+  "confusion_matrix": {
+    "tn": 19,
+    "fp": 1,
+    "fn": 5,
+    "tp": 5
+  }
+}

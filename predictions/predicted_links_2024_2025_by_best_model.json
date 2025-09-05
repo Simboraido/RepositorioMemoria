@@ -1,0 +1,2048 @@
+{
+  "model": "EvolveGCN-H",
+  "f1_score": 0.8501228501228502,
+  "auc_roc": 0.927025,
+  "generated_at": "2025-09-04T21:40:02",
+  "base_period": "2022-2023",
+  "num_candidates": 291,
+  "target_period": "2024_2025",
+  "predictions": [
+    {
+      "u": "https://openalex.org/T10320",
+      "v": "https://openalex.org/T11307",
+      "u_name": "Neural Networks and Applications",
+      "v_name": "Domain Adaptation and Few-Shot Learning",
+      "score": 1.0
+    },
+    {
+      "u": "https://openalex.org/T10320",
+      "v": "https://openalex.org/T12072",
+      "u_name": "Neural Networks and Applications",
+      "v_name": "Machine Learning and Algorithms",
+      "score": 0.9999997615814209
+    },
+    {
+      "u": "https://openalex.org/T10637",
+      "v": "https://openalex.org/T12676",
+      "u_name": "Advanced Clustering Algorithms Research",
+      "v_name": "Machine Learning and ELM",
+      "score": 0.9999995231628418
+    },
+    {
+      "u": "https://openalex.org/T10057",
+      "v": "https://openalex.org/T11307",
+      "u_name": "Face and Expression Recognition",
+      "v_name": "Domain Adaptation and Few-Shot Learning",
+      "score": 0.9999984502792358
+    },
+    {
+      "u": "https://openalex.org/T12535",
+      "v": "https://openalex.org/T12676",
+      "u_name": "Machine Learning and Data Classification",
+      "v_name": "Machine Learning and ELM",
+      "score": 0.9999983310699463
+    },
+    {
+      "u": "https://openalex.org/T11512",
+      "v": "https://openalex.org/T12072",
+      "u_name": "Anomaly Detection Techniques and Applications",
+      "v_name": "Machine Learning and Algorithms",
+      "score": 0.9999980926513672
+    },
+    {
+      "u": "https://openalex.org/T10637",
+      "v": "https://openalex.org/T12535",
+      "u_name": "Advanced Clustering Algorithms Research",
+      "v_name": "Machine Learning and Data Classification",
+      "score": 0.9999955892562866
+    },
+    {
+      "u": "https://openalex.org/T10057",
+      "v": "https://openalex.org/T12072",
+      "u_name": "Face and Expression Recognition",
+      "v_name": "Machine Learning and Algorithms",
+      "score": 0.9999922513961792
+    },
+    {
+      "u": "https://openalex.org/T11270",
+      "v": "https://openalex.org/T12676",
+      "u_name": "Complex Systems and Time Series Analysis",
+      "v_name": "Machine Learning and ELM",
+      "score": 0.9999904632568359
+    },
+    {
+      "u": "https://openalex.org/T11512",
+      "v": "https://openalex.org/T12676",
+      "u_name": "Anomaly Detection Techniques and Applications",
+      "v_name": "Machine Learning and ELM",
+      "score": 0.9999878406524658
+    },
+    {
+      "u": "https://openalex.org/T10571",
+      "v": "https://openalex.org/T11192",
+      "u_name": "Robotic Mechanisms and Dynamics",
+      "v_name": "Underwater Vehicles and Communication Systems",
+      "score": 0.9999866485595703
+    },
+    {
+      "u": "https://openalex.org/T11270",
+      "v": "https://openalex.org/T11512",
+      "u_name": "Complex Systems and Time Series Analysis",
+      "v_name": "Anomaly Detection Techniques and Applications",
+      "score": 0.9999793767929077
+    },
+    {
+      "u": "https://openalex.org/T10025",
+      "v": "https://openalex.org/T10026",
+      "u_name": "Black Holes and Theoretical Physics",
+      "v_name": "Galaxies: Formation, Evolution, Phenomena",
+      "score": 0.9999598264694214
+    },
+    {
+      "u": "https://openalex.org/T10320",
+      "v": "https://openalex.org/T11326",
+      "u_name": "Neural Networks and Applications",
+      "v_name": "Stock Market Forecasting Methods",
+      "score": 0.999932050704956
+    },
+    {
+      "u": "https://openalex.org/T11270",
+      "v": "https://openalex.org/T12535",
+      "u_name": "Complex Systems and Time Series Analysis",
+      "v_name": "Machine Learning and Data Classification",
+      "score": 0.9999113082885742
+    },
+    {
+      "u": "https://openalex.org/T10711",
+      "v": "https://openalex.org/T11512",
+      "u_name": "Target Tracking and Data Fusion in Sensor Networks",
+      "v_name": "Anomaly Detection Techniques and Applications",
+      "score": 0.9999072551727295
+    },
+    {
+      "u": "https://openalex.org/T10410",
+      "v": "https://openalex.org/T12535",
+      "u_name": "COVID-19 epidemiological studies",
+      "v_name": "Machine Learning and Data Classification",
+      "score": 0.9999001026153564
+    },
+    {
+      "u": "https://openalex.org/T10057",
+      "v": "https://openalex.org/T11512",
+      "u_name": "Face and Expression Recognition",
+      "v_name": "Anomaly Detection Techniques and Applications",
+      "score": 0.9998908042907715
+    },
+    {
+      "u": "https://openalex.org/T11081",
+      "v": "https://openalex.org/T11192",
+      "u_name": "Advanced Control Systems Design",
+      "v_name": "Underwater Vehicles and Communication Systems",
+      "score": 0.9998213648796082
+    },
+    {
+      "u": "https://openalex.org/T11307",
+      "v": "https://openalex.org/T11512",
+      "u_name": "Domain Adaptation and Few-Shot Learning",
+      "v_name": "Anomaly Detection Techniques and Applications",
+      "score": 0.9998155236244202
+    },
+    {
+      "u": "https://openalex.org/T11133",
+      "v": "https://openalex.org/T11192",
+      "u_name": "UAV Applications and Optimization",
+      "v_name": "Underwater Vehicles and Communication Systems",
+      "score": 0.9997517466545105
+    },
+    {
+      "u": "https://openalex.org/T10012",
+      "v": "https://openalex.org/T12254",
+      "u_name": "Genetic diversity and population structure",
+      "v_name": "Machine Learning in Bioinformatics",
+      "score": 0.9996700286865234
+    },
+    {
+      "u": "https://openalex.org/T10429",
+      "v": "https://openalex.org/T12676",
+      "u_name": "EEG and Brain-Computer Interfaces",
+      "v_name": "Machine Learning and ELM",
+      "score": 0.9996079802513123
+    },
+    {
+      "u": "https://openalex.org/T10057",
+      "v": "https://openalex.org/T10320",
+      "u_name": "Face and Expression Recognition",
+      "v_name": "Neural Networks and Applications",
+      "score": 0.9995785355567932
+    },
+    {
+      "u": "https://openalex.org/T10429",
+      "v": "https://openalex.org/T11512",
+      "u_name": "EEG and Brain-Computer Interfaces",
+      "v_name": "Anomaly Detection Techniques and Applications",
+      "score": 0.9992008805274963
+    },
+    {
+      "u": "https://openalex.org/T10046",
+      "v": "https://openalex.org/T11192",
+      "u_name": "Stability and Control of Uncertain Systems",
+      "v_name": "Underwater Vehicles and Communication Systems",
+      "score": 0.9987838864326477
+    },
+    {
+      "u": "https://openalex.org/T10320",
+      "v": "https://openalex.org/T10410",
+      "u_name": "Neural Networks and Applications",
+      "v_name": "COVID-19 epidemiological studies",
+      "score": 0.9985472559928894
+    },
+    {
+      "u": "https://openalex.org/T10241",
+      "v": "https://openalex.org/T10320",
+      "u_name": "Functional Brain Connectivity Studies",
+      "v_name": "Neural Networks and Applications",
+      "score": 0.9960705041885376
+    },
+    {
+      "u": "https://openalex.org/T10215",
+      "v": "https://openalex.org/T13643",
+      "u_name": "Semantic Web and Ontologies",
+      "v_name": "Artificial Intelligence in Law",
+      "score": 0.9957783222198486
+    },
+    {
+      "u": "https://openalex.org/T10191",
+      "v": "https://openalex.org/T11192",
+      "u_name": "Robotics and Sensor-Based Localization",
+      "v_name": "Underwater Vehicles and Communication Systems",
+      "score": 0.9939929842948914
+    },
+    {
+      "u": "https://openalex.org/T10538",
+      "v": "https://openalex.org/T12676",
+      "u_name": "Data Mining Algorithms and Applications",
+      "v_name": "Machine Learning and ELM",
+      "score": 0.9887752532958984
+    },
+    {
+      "u": "https://openalex.org/T10429",
+      "v": "https://openalex.org/T12535",
+      "u_name": "EEG and Brain-Computer Interfaces",
+      "v_name": "Machine Learning and Data Classification",
+      "score": 0.9884804487228394
+    },
+    {
+      "u": "https://openalex.org/T10688",
+      "v": "https://openalex.org/T11343",
+      "u_name": "Image and Signal Denoising Methods",
+      "v_name": "Power Transformer Diagnostics and Insulation",
+      "score": 0.9866987466812134
+    },
+    {
+      "u": "https://openalex.org/T11236",
+      "v": "https://openalex.org/T12676",
+      "u_name": "Control Systems and Identification",
+      "v_name": "Machine Learning and ELM",
+      "score": 0.9865654110908508
+    },
+    {
+      "u": "https://openalex.org/T10400",
+      "v": "https://openalex.org/T12535",
+      "u_name": "Network Security and Intrusion Detection",
+      "v_name": "Machine Learning and Data Classification",
+      "score": 0.9801099300384521
+    },
+    {
+      "u": "https://openalex.org/T10791",
+      "v": "https://openalex.org/T11192",
+      "u_name": "Advanced Control Systems Optimization",
+      "v_name": "Underwater Vehicles and Communication Systems",
+      "score": 0.9743422269821167
+    },
+    {
+      "u": "https://openalex.org/T11236",
+      "v": "https://openalex.org/T11512",
+      "u_name": "Control Systems and Identification",
+      "v_name": "Anomaly Detection Techniques and Applications",
+      "score": 0.9723694324493408
+    },
+    {
+      "u": "https://openalex.org/T12205",
+      "v": "https://openalex.org/T12676",
+      "u_name": "Time Series Analysis and Forecasting",
+      "v_name": "Machine Learning and ELM",
+      "score": 0.9547521471977234
+    },
+    {
+      "u": "https://openalex.org/T10791",
+      "v": "https://openalex.org/T11512",
+      "u_name": "Advanced Control Systems Optimization",
+      "v_name": "Anomaly Detection Techniques and Applications",
+      "score": 0.9355683326721191
+    },
+    {
+      "u": "https://openalex.org/T10029",
+      "v": "https://openalex.org/T10320",
+      "u_name": "Climate variability and models",
+      "v_name": "Neural Networks and Applications",
+      "score": 0.8899877667427063
+    },
+    {
+      "u": "https://openalex.org/T10688",
+      "v": "https://openalex.org/T10775",
+      "u_name": "Image and Signal Denoising Methods",
+      "v_name": "Generative Adversarial Networks and Image Synthesis",
+      "score": 0.8879144191741943
+    },
+    {
+      "u": "https://openalex.org/T10581",
+      "v": "https://openalex.org/T12676",
+      "u_name": "Neural dynamics and brain function",
+      "v_name": "Machine Learning and ELM",
+      "score": 0.8712916970252991
+    },
+    {
+      "u": "https://openalex.org/T10220",
+      "v": "https://openalex.org/T11512",
+      "u_name": "Machine Fault Diagnosis Techniques",
+      "v_name": "Anomaly Detection Techniques and Applications",
+      "score": 0.8588612675666809
+    },
+    {
+      "u": "https://openalex.org/T10917",
+      "v": "https://openalex.org/T10972",
+      "u_name": "Smart Grid Security and Resilience",
+      "v_name": "Power Systems Fault Detection",
+      "score": 0.7887383699417114
+    },
+    {
+      "u": "https://openalex.org/T10581",
+      "v": "https://openalex.org/T11512",
+      "u_name": "Neural dynamics and brain function",
+      "v_name": "Anomaly Detection Techniques and Applications",
+      "score": 0.7613347172737122
+    },
+    {
+      "u": "https://openalex.org/T10320",
+      "v": "https://openalex.org/T11749",
+      "u_name": "Neural Networks and Applications",
+      "v_name": "Iterative Learning Control Systems",
+      "score": 0.7592501640319824
+    },
+    {
+      "u": "https://openalex.org/T10538",
+      "v": "https://openalex.org/T12535",
+      "u_name": "Data Mining Algorithms and Applications",
+      "v_name": "Machine Learning and Data Classification",
+      "score": 0.721478283405304
+    },
+    {
+      "u": "https://openalex.org/T10320",
+      "v": "https://openalex.org/T12282",
+      "u_name": "Neural Networks and Applications",
+      "v_name": "Mineral Processing and Grinding",
+      "score": 0.7162973284721375
+    },
+    {
+      "u": "https://openalex.org/T11236",
+      "v": "https://openalex.org/T12535",
+      "u_name": "Control Systems and Identification",
+      "v_name": "Machine Learning and Data Classification",
+      "score": 0.6789256930351257
+    },
+    {
+      "u": "https://openalex.org/T10181",
+      "v": "https://openalex.org/T10664",
+      "u_name": "Natural Language Processing Techniques",
+      "v_name": "Sentiment Analysis and Opinion Mining",
+      "score": 0.6484924554824829
+    },
+    {
+      "u": "https://openalex.org/T10504",
+      "v": "https://openalex.org/T11222",
+      "u_name": "Sensorless Control of Electric Motors",
+      "v_name": "Magnetic Properties and Applications",
+      "score": 0.6026737689971924
+    },
+    {
+      "u": "https://openalex.org/T10603",
+      "v": "https://openalex.org/T10972",
+      "u_name": "Smart Grid Energy Management",
+      "v_name": "Power Systems Fault Detection",
+      "score": 0.5323373675346375
+    },
+    {
+      "u": "https://openalex.org/T10220",
+      "v": "https://openalex.org/T10320",
+      "u_name": "Machine Fault Diagnosis Techniques",
+      "v_name": "Neural Networks and Applications",
+      "score": 0.40254196524620056
+    },
+    {
+      "u": "https://openalex.org/T12205",
+      "v": "https://openalex.org/T12535",
+      "u_name": "Time Series Analysis and Forecasting",
+      "v_name": "Machine Learning and Data Classification",
+      "score": 0.3936360478401184
+    },
+    {
+      "u": "https://openalex.org/T10571",
+      "v": "https://openalex.org/T11133",
+      "u_name": "Robotic Mechanisms and Dynamics",
+      "v_name": "UAV Applications and Optimization",
+      "score": 0.3124920427799225
+    },
+    {
+      "u": "https://openalex.org/T10361",
+      "v": "https://openalex.org/T10972",
+      "u_name": "Silicon Carbide Semiconductor Technologies",
+      "v_name": "Power Systems Fault Detection",
+      "score": 0.2901374101638794
+    },
+    {
+      "u": "https://openalex.org/T10029",
+      "v": "https://openalex.org/T11326",
+      "u_name": "Climate variability and models",
+      "v_name": "Stock Market Forecasting Methods",
+      "score": 0.27624455094337463
+    },
+    {
+      "u": "https://openalex.org/T11010",
+      "v": "https://openalex.org/T13643",
+      "u_name": "Logic, Reasoning, and Knowledge",
+      "v_name": "Artificial Intelligence in Law",
+      "score": 0.24049875140190125
+    },
+    {
+      "u": "https://openalex.org/T10876",
+      "v": "https://openalex.org/T12676",
+      "u_name": "Fault Detection and Control Systems",
+      "v_name": "Machine Learning and ELM",
+      "score": 0.23754440248012543
+    },
+    {
+      "u": "https://openalex.org/T10876",
+      "v": "https://openalex.org/T11343",
+      "u_name": "Fault Detection and Control Systems",
+      "v_name": "Power Transformer Diagnostics and Insulation",
+      "score": 0.2293287217617035
+    },
+    {
+      "u": "https://openalex.org/T10223",
+      "v": "https://openalex.org/T10972",
+      "u_name": "Microgrid Control and Optimization",
+      "v_name": "Power Systems Fault Detection",
+      "score": 0.17850303649902344
+    },
+    {
+      "u": "https://openalex.org/T10581",
+      "v": "https://openalex.org/T12535",
+      "u_name": "Neural dynamics and brain function",
+      "v_name": "Machine Learning and Data Classification",
+      "score": 0.1619884967803955
+    },
+    {
+      "u": "https://openalex.org/T10052",
+      "v": "https://openalex.org/T12422",
+      "u_name": "Medical Image Segmentation Techniques",
+      "v_name": "Radiomics and Machine Learning in Medical Imaging",
+      "score": 0.13592571020126343
+    },
+    {
+      "u": "https://openalex.org/T10228",
+      "v": "https://openalex.org/T10972",
+      "u_name": "Multilevel Inverters and Converters",
+      "v_name": "Power Systems Fault Detection",
+      "score": 0.12997689843177795
+    },
+    {
+      "u": "https://openalex.org/T10320",
+      "v": "https://openalex.org/T10784",
+      "u_name": "Neural Networks and Applications",
+      "v_name": "Muscle activation and electromyography studies",
+      "score": 0.040760476142168045
+    },
+    {
+      "u": "https://openalex.org/T12549",
+      "v": "https://openalex.org/T13114",
+      "u_name": "Image and Object Detection Techniques",
+      "v_name": "Image Processing Techniques and Applications",
+      "score": 0.036474280059337616
+    },
+    {
+      "u": "https://openalex.org/T11261",
+      "v": "https://openalex.org/T11513",
+      "u_name": "Quantum chaos and dynamical systems",
+      "v_name": "stochastic dynamics and bifurcation",
+      "score": 0.03212092071771622
+    },
+    {
+      "u": "https://openalex.org/T11512",
+      "v": "https://openalex.org/T12282",
+      "u_name": "Anomaly Detection Techniques and Applications",
+      "v_name": "Mineral Processing and Grinding",
+      "score": 0.027725812047719955
+    },
+    {
+      "u": "https://openalex.org/T10361",
+      "v": "https://openalex.org/T10504",
+      "u_name": "Silicon Carbide Semiconductor Technologies",
+      "v_name": "Sensorless Control of Electric Motors",
+      "score": 0.02302401326596737
+    },
+    {
+      "u": "https://openalex.org/T10400",
+      "v": "https://openalex.org/T10410",
+      "u_name": "Network Security and Intrusion Detection",
+      "v_name": "COVID-19 epidemiological studies",
+      "score": 0.019597288221120834
+    },
+    {
+      "u": "https://openalex.org/T10320",
+      "v": "https://openalex.org/T10711",
+      "u_name": "Neural Networks and Applications",
+      "v_name": "Target Tracking and Data Fusion in Sensor Networks",
+      "score": 0.01805996522307396
+    },
+    {
+      "u": "https://openalex.org/T10571",
+      "v": "https://openalex.org/T11615",
+      "u_name": "Robotic Mechanisms and Dynamics",
+      "v_name": "Control and Dynamics of Mobile Robots",
+      "score": 0.015463560819625854
+    },
+    {
+      "u": "https://openalex.org/T10320",
+      "v": "https://openalex.org/T13377",
+      "u_name": "Neural Networks and Applications",
+      "v_name": "Ecosystem dynamics and resilience",
+      "score": 0.014659024775028229
+    },
+    {
+      "u": "https://openalex.org/T10223",
+      "v": "https://openalex.org/T10504",
+      "u_name": "Microgrid Control and Optimization",
+      "v_name": "Sensorless Control of Electric Motors",
+      "score": 0.013708973303437233
+    },
+    {
+      "u": "https://openalex.org/T10378",
+      "v": "https://openalex.org/T10688",
+      "u_name": "Advanced MRI Techniques and Applications",
+      "v_name": "Image and Signal Denoising Methods",
+      "score": 0.011652357876300812
+    },
+    {
+      "u": "https://openalex.org/T10876",
+      "v": "https://openalex.org/T12535",
+      "u_name": "Fault Detection and Control Systems",
+      "v_name": "Machine Learning and Data Classification",
+      "score": 0.009959675371646881
+    },
+    {
+      "u": "https://openalex.org/T11192",
+      "v": "https://openalex.org/T11749",
+      "u_name": "Underwater Vehicles and Communication Systems",
+      "v_name": "Iterative Learning Control Systems",
+      "score": 0.008295802399516106
+    },
+    {
+      "u": "https://openalex.org/T12422",
+      "v": "https://openalex.org/T12874",
+      "u_name": "Radiomics and Machine Learning in Medical Imaging",
+      "v_name": "Digital Imaging for Blood Diseases",
+      "score": 0.006392256822437048
+    },
+    {
+      "u": "https://openalex.org/T11192",
+      "v": "https://openalex.org/T11615",
+      "u_name": "Underwater Vehicles and Communication Systems",
+      "v_name": "Control and Dynamics of Mobile Robots",
+      "score": 0.006355088669806719
+    },
+    {
+      "u": "https://openalex.org/T10640",
+      "v": "https://openalex.org/T11227",
+      "u_name": "Spectroscopy and Chemometric Analyses",
+      "v_name": "Diabetic Foot Ulcer Assessment and Management",
+      "score": 0.006135649513453245
+    },
+    {
+      "u": "https://openalex.org/T10711",
+      "v": "https://openalex.org/T11749",
+      "u_name": "Target Tracking and Data Fusion in Sensor Networks",
+      "v_name": "Iterative Learning Control Systems",
+      "score": 0.005613386631011963
+    },
+    {
+      "u": "https://openalex.org/T10711",
+      "v": "https://openalex.org/T12282",
+      "u_name": "Target Tracking and Data Fusion in Sensor Networks",
+      "v_name": "Mineral Processing and Grinding",
+      "score": 0.005255310330539942
+    },
+    {
+      "u": "https://openalex.org/T11941",
+      "v": "https://openalex.org/T13183",
+      "u_name": "Power System Reliability and Maintenance",
+      "v_name": "Islanding Detection in Power Systems",
+      "score": 0.004669839050620794
+    },
+    {
+      "u": "https://openalex.org/T10378",
+      "v": "https://openalex.org/T11304",
+      "u_name": "Advanced MRI Techniques and Applications",
+      "v_name": "Advanced Neuroimaging Techniques and Applications",
+      "score": 0.004238700028508902
+    },
+    {
+      "u": "https://openalex.org/T10320",
+      "v": "https://openalex.org/T10791",
+      "u_name": "Neural Networks and Applications",
+      "v_name": "Advanced Control Systems Optimization",
+      "score": 0.0041336617432534695
+    },
+    {
+      "u": "https://openalex.org/T10917",
+      "v": "https://openalex.org/T13183",
+      "u_name": "Smart Grid Security and Resilience",
+      "v_name": "Islanding Detection in Power Systems",
+      "score": 0.004080253653228283
+    },
+    {
+      "u": "https://openalex.org/T10740",
+      "v": "https://openalex.org/T10972",
+      "u_name": "Wind Turbine Control Systems",
+      "v_name": "Power Systems Fault Detection",
+      "score": 0.004046502988785505
+    },
+    {
+      "u": "https://openalex.org/T10241",
+      "v": "https://openalex.org/T10500",
+      "u_name": "Functional Brain Connectivity Studies",
+      "v_name": "Sparse and Compressive Sensing Techniques",
+      "score": 0.0037621385417878628
+    },
+    {
+      "u": "https://openalex.org/T10320",
+      "v": "https://openalex.org/T10502",
+      "u_name": "Neural Networks and Applications",
+      "v_name": "Advanced Memory and Neural Computing",
+      "score": 0.0035081063397228718
+    },
+    {
+      "u": "https://openalex.org/T10036",
+      "v": "https://openalex.org/T10862",
+      "u_name": "Advanced Neural Network Applications",
+      "v_name": "AI in cancer detection",
+      "score": 0.0029517454095184803
+    },
+    {
+      "u": "https://openalex.org/T10223",
+      "v": "https://openalex.org/T10468",
+      "u_name": "Microgrid Control and Optimization",
+      "v_name": "Photovoltaic System Optimization Techniques",
+      "score": 0.0029479432851076126
+    },
+    {
+      "u": "https://openalex.org/T10175",
+      "v": "https://openalex.org/T10504",
+      "u_name": "Advanced DC-DC Converters",
+      "v_name": "Sensorless Control of Electric Motors",
+      "score": 0.002466093748807907
+    },
+    {
+      "u": "https://openalex.org/T10638",
+      "v": "https://openalex.org/T12549",
+      "u_name": "Optical measurement and interference techniques",
+      "v_name": "Image and Object Detection Techniques",
+      "score": 0.0023165540769696236
+    },
+    {
+      "u": "https://openalex.org/T10320",
+      "v": "https://openalex.org/T11707",
+      "u_name": "Neural Networks and Applications",
+      "v_name": "Gaze Tracking and Assistive Technology",
+      "score": 0.0019043430220335722
+    },
+    {
+      "u": "https://openalex.org/T10228",
+      "v": "https://openalex.org/T10468",
+      "u_name": "Multilevel Inverters and Converters",
+      "v_name": "Photovoltaic System Optimization Techniques",
+      "score": 0.0018593751592561603
+    },
+    {
+      "u": "https://openalex.org/T11017",
+      "v": "https://openalex.org/T11513",
+      "u_name": "Chaos-based Image/Signal Encryption",
+      "v_name": "stochastic dynamics and bifurcation",
+      "score": 0.0016037524910643697
+    },
+    {
+      "u": "https://openalex.org/T10191",
+      "v": "https://openalex.org/T12549",
+      "u_name": "Robotics and Sensor-Based Localization",
+      "v_name": "Image and Object Detection Techniques",
+      "score": 0.0015628968831151724
+    },
+    {
+      "u": "https://openalex.org/T10121",
+      "v": "https://openalex.org/T10223",
+      "u_name": "Building Energy and Comfort Optimization",
+      "v_name": "Microgrid Control and Optimization",
+      "score": 0.0014827372506260872
+    },
+    {
+      "u": "https://openalex.org/T12422",
+      "v": "https://openalex.org/T12859",
+      "u_name": "Radiomics and Machine Learning in Medical Imaging",
+      "v_name": "Cell Image Analysis Techniques",
+      "score": 0.0014457246288657188
+    },
+    {
+      "u": "https://openalex.org/T11133",
+      "v": "https://openalex.org/T11615",
+      "u_name": "UAV Applications and Optimization",
+      "v_name": "Control and Dynamics of Mobile Robots",
+      "score": 0.0013355509145185351
+    },
+    {
+      "u": "https://openalex.org/T10770",
+      "v": "https://openalex.org/T11324",
+      "u_name": "Soil Geostatistics and Mapping",
+      "v_name": "Spectroscopy Techniques in Biomedical and Chemical Research",
+      "score": 0.001295097405090928
+    },
+    {
+      "u": "https://openalex.org/T11122",
+      "v": "https://openalex.org/T14246",
+      "u_name": "Online Learning and Analytics",
+      "v_name": "E-Learning and Knowledge Management",
+      "score": 0.0011823051609098911
+    },
+    {
+      "u": "https://openalex.org/T10036",
+      "v": "https://openalex.org/T11775",
+      "u_name": "Advanced Neural Network Applications",
+      "v_name": "COVID-19 diagnosis using AI",
+      "score": 0.0011081452248618007
+    },
+    {
+      "u": "https://openalex.org/T10361",
+      "v": "https://openalex.org/T13183",
+      "u_name": "Silicon Carbide Semiconductor Technologies",
+      "v_name": "Islanding Detection in Power Systems",
+      "score": 0.0010270066559314728
+    },
+    {
+      "u": "https://openalex.org/T11081",
+      "v": "https://openalex.org/T11615",
+      "u_name": "Advanced Control Systems Design",
+      "v_name": "Control and Dynamics of Mobile Robots",
+      "score": 0.0010083343368023634
+    },
+    {
+      "u": "https://openalex.org/T10775",
+      "v": "https://openalex.org/T11569",
+      "u_name": "Generative Adversarial Networks and Image Synthesis",
+      "v_name": "Optical Coherence Tomography Applications",
+      "score": 0.0009259370272047818
+    },
+    {
+      "u": "https://openalex.org/T10040",
+      "v": "https://openalex.org/T10504",
+      "u_name": "Adaptive Control of Nonlinear Systems",
+      "v_name": "Sensorless Control of Electric Motors",
+      "score": 0.0008849637815728784
+    },
+    {
+      "u": "https://openalex.org/T10586",
+      "v": "https://openalex.org/T10805",
+      "u_name": "Robotic Path Planning Algorithms",
+      "v_name": "Vehicle Dynamics and Control Systems",
+      "score": 0.0008842431707307696
+    },
+    {
+      "u": "https://openalex.org/T11102",
+      "v": "https://openalex.org/T11941",
+      "u_name": "HVDC Systems and Fault Protection",
+      "v_name": "Power System Reliability and Maintenance",
+      "score": 0.0006918668514117599
+    },
+    {
+      "u": "https://openalex.org/T10228",
+      "v": "https://openalex.org/T11749",
+      "u_name": "Multilevel Inverters and Converters",
+      "v_name": "Iterative Learning Control Systems",
+      "score": 0.0006488770595751703
+    },
+    {
+      "u": "https://openalex.org/T10429",
+      "v": "https://openalex.org/T11304",
+      "u_name": "EEG and Brain-Computer Interfaces",
+      "v_name": "Advanced Neuroimaging Techniques and Applications",
+      "score": 0.0006257911445572972
+    },
+    {
+      "u": "https://openalex.org/T11105",
+      "v": "https://openalex.org/T11448",
+      "u_name": "Advanced Image Processing Techniques",
+      "v_name": "Face recognition and analysis",
+      "score": 0.0006088707013987005
+    },
+    {
+      "u": "https://openalex.org/T10223",
+      "v": "https://openalex.org/T10768",
+      "u_name": "Microgrid Control and Optimization",
+      "v_name": "Electric Vehicles and Infrastructure",
+      "score": 0.0005984913441352546
+    },
+    {
+      "u": "https://openalex.org/T10378",
+      "v": "https://openalex.org/T12015",
+      "u_name": "Advanced MRI Techniques and Applications",
+      "v_name": "Photoacoustic and Ultrasonic Imaging",
+      "score": 0.0005424237460829318
+    },
+    {
+      "u": "https://openalex.org/T11569",
+      "v": "https://openalex.org/T13114",
+      "u_name": "Optical Coherence Tomography Applications",
+      "v_name": "Image Processing Techniques and Applications",
+      "score": 0.0004970464506186545
+    },
+    {
+      "u": "https://openalex.org/T11105",
+      "v": "https://openalex.org/T12015",
+      "u_name": "Advanced Image Processing Techniques",
+      "v_name": "Photoacoustic and Ultrasonic Imaging",
+      "score": 0.00041037335176952183
+    },
+    {
+      "u": "https://openalex.org/T10040",
+      "v": "https://openalex.org/T11133",
+      "u_name": "Adaptive Control of Nonlinear Systems",
+      "v_name": "UAV Applications and Optimization",
+      "score": 0.0004036229511257261
+    },
+    {
+      "u": "https://openalex.org/T10223",
+      "v": "https://openalex.org/T10361",
+      "u_name": "Microgrid Control and Optimization",
+      "v_name": "Silicon Carbide Semiconductor Technologies",
+      "score": 0.0004028675612062216
+    },
+    {
+      "u": "https://openalex.org/T10768",
+      "v": "https://openalex.org/T13183",
+      "u_name": "Electric Vehicles and Infrastructure",
+      "v_name": "Islanding Detection in Power Systems",
+      "score": 0.00038810534169897437
+    },
+    {
+      "u": "https://openalex.org/T11343",
+      "v": "https://openalex.org/T12169",
+      "u_name": "Power Transformer Diagnostics and Insulation",
+      "v_name": "Non-Destructive Testing Techniques",
+      "score": 0.00037951135891489685
+    },
+    {
+      "u": "https://openalex.org/T11372",
+      "v": "https://openalex.org/T11615",
+      "u_name": "Hydraulic and Pneumatic Systems",
+      "v_name": "Control and Dynamics of Mobile Robots",
+      "score": 0.0003747530863620341
+    },
+    {
+      "u": "https://openalex.org/T11615",
+      "v": "https://openalex.org/T11749",
+      "u_name": "Control and Dynamics of Mobile Robots",
+      "v_name": "Iterative Learning Control Systems",
+      "score": 0.0003683418035507202
+    },
+    {
+      "u": "https://openalex.org/T10454",
+      "v": "https://openalex.org/T13183",
+      "u_name": "Optimal Power Flow Distribution",
+      "v_name": "Islanding Detection in Power Systems",
+      "score": 0.00035218987613916397
+    },
+    {
+      "u": "https://openalex.org/T10191",
+      "v": "https://openalex.org/T11133",
+      "u_name": "Robotics and Sensor-Based Localization",
+      "v_name": "UAV Applications and Optimization",
+      "score": 0.0003149023687001318
+    },
+    {
+      "u": "https://openalex.org/T10868",
+      "v": "https://openalex.org/T11023",
+      "u_name": "Soft Robotics and Applications",
+      "v_name": "Prosthetics and Rehabilitation Robotics",
+      "score": 0.0003130133845843375
+    },
+    {
+      "u": "https://openalex.org/T10586",
+      "v": "https://openalex.org/T11749",
+      "u_name": "Robotic Path Planning Algorithms",
+      "v_name": "Iterative Learning Control Systems",
+      "score": 0.0003023146709892899
+    },
+    {
+      "u": "https://openalex.org/T10046",
+      "v": "https://openalex.org/T11615",
+      "u_name": "Stability and Control of Uncertain Systems",
+      "v_name": "Control and Dynamics of Mobile Robots",
+      "score": 0.00030175663414411247
+    },
+    {
+      "u": "https://openalex.org/T10504",
+      "v": "https://openalex.org/T13183",
+      "u_name": "Sensorless Control of Electric Motors",
+      "v_name": "Islanding Detection in Power Systems",
+      "score": 0.00028882361948490143
+    },
+    {
+      "u": "https://openalex.org/T10191",
+      "v": "https://openalex.org/T13114",
+      "u_name": "Robotics and Sensor-Based Localization",
+      "v_name": "Image Processing Techniques and Applications",
+      "score": 0.00028820609441027045
+    },
+    {
+      "u": "https://openalex.org/T10175",
+      "v": "https://openalex.org/T13183",
+      "u_name": "Advanced DC-DC Converters",
+      "v_name": "Islanding Detection in Power Systems",
+      "score": 0.0002671843394637108
+    },
+    {
+      "u": "https://openalex.org/T10305",
+      "v": "https://openalex.org/T11941",
+      "u_name": "Power System Optimization and Stability",
+      "v_name": "Power System Reliability and Maintenance",
+      "score": 0.0002670526737347245
+    },
+    {
+      "u": "https://openalex.org/T10223",
+      "v": "https://openalex.org/T11954",
+      "u_name": "Microgrid Control and Optimization",
+      "v_name": "Energy Efficiency and Management",
+      "score": 0.00026145766605623066
+    },
+    {
+      "u": "https://openalex.org/T10378",
+      "v": "https://openalex.org/T11739",
+      "u_name": "Advanced MRI Techniques and Applications",
+      "v_name": "Microwave Imaging and Scattering Analysis",
+      "score": 0.00025539915077388287
+    },
+    {
+      "u": "https://openalex.org/T10040",
+      "v": "https://openalex.org/T10805",
+      "u_name": "Adaptive Control of Nonlinear Systems",
+      "v_name": "Vehicle Dynamics and Control Systems",
+      "score": 0.00025063511566258967
+    },
+    {
+      "u": "https://openalex.org/T10711",
+      "v": "https://openalex.org/T10791",
+      "u_name": "Target Tracking and Data Fusion in Sensor Networks",
+      "v_name": "Advanced Control Systems Optimization",
+      "score": 0.0002463598793838173
+    },
+    {
+      "u": "https://openalex.org/T10586",
+      "v": "https://openalex.org/T11394",
+      "u_name": "Robotic Path Planning Algorithms",
+      "v_name": "Dynamics and Control of Mechanical Systems",
+      "score": 0.0002374230680288747
+    },
+    {
+      "u": "https://openalex.org/T10429",
+      "v": "https://openalex.org/T11270",
+      "u_name": "EEG and Brain-Computer Interfaces",
+      "v_name": "Complex Systems and Time Series Analysis",
+      "score": 0.0002369786670897156
+    },
+    {
+      "u": "https://openalex.org/T10044",
+      "v": "https://openalex.org/T10836",
+      "u_name": "Protein Structure and Dynamics",
+      "v_name": "Metabolomics and Mass Spectrometry Studies",
+      "score": 0.0002194686239818111
+    },
+    {
+      "u": "https://openalex.org/T10454",
+      "v": "https://openalex.org/T10768",
+      "u_name": "Optimal Power Flow Distribution",
+      "v_name": "Electric Vehicles and Infrastructure",
+      "score": 0.00019992022134829313
+    },
+    {
+      "u": "https://openalex.org/T11227",
+      "v": "https://openalex.org/T12153",
+      "u_name": "Diabetic Foot Ulcer Assessment and Management",
+      "v_name": "Advanced Optical Sensing Technologies",
+      "score": 0.00019950892601627856
+    },
+    {
+      "u": "https://openalex.org/T10241",
+      "v": "https://openalex.org/T10784",
+      "u_name": "Functional Brain Connectivity Studies",
+      "v_name": "Muscle activation and electromyography studies",
+      "score": 0.00019716095994226635
+    },
+    {
+      "u": "https://openalex.org/T10228",
+      "v": "https://openalex.org/T10454",
+      "u_name": "Multilevel Inverters and Converters",
+      "v_name": "Optimal Power Flow Distribution",
+      "score": 0.00018968232325278223
+    },
+    {
+      "u": "https://openalex.org/T10124",
+      "v": "https://openalex.org/T12702",
+      "u_name": "Prostate Cancer Diagnosis and Treatment",
+      "v_name": "Brain Tumor Detection and Classification",
+      "score": 0.0001790446840459481
+    },
+    {
+      "u": "https://openalex.org/T10046",
+      "v": "https://openalex.org/T11749",
+      "u_name": "Stability and Control of Uncertain Systems",
+      "v_name": "Iterative Learning Control Systems",
+      "score": 0.000178484246134758
+    },
+    {
+      "u": "https://openalex.org/T10305",
+      "v": "https://openalex.org/T13183",
+      "u_name": "Power System Optimization and Stability",
+      "v_name": "Islanding Detection in Power Systems",
+      "score": 0.00017819464846979827
+    },
+    {
+      "u": "https://openalex.org/T11324",
+      "v": "https://openalex.org/T12015",
+      "u_name": "Spectroscopy Techniques in Biomedical and Chemical Research",
+      "v_name": "Photoacoustic and Ultrasonic Imaging",
+      "score": 0.00013767971540801227
+    },
+    {
+      "u": "https://openalex.org/T10046",
+      "v": "https://openalex.org/T11261",
+      "u_name": "Stability and Control of Uncertain Systems",
+      "v_name": "Quantum chaos and dynamical systems",
+      "score": 0.0001368548400932923
+    },
+    {
+      "u": "https://openalex.org/T10429",
+      "v": "https://openalex.org/T11023",
+      "u_name": "EEG and Brain-Computer Interfaces",
+      "v_name": "Prosthetics and Rehabilitation Robotics",
+      "score": 0.00013326146290637553
+    },
+    {
+      "u": "https://openalex.org/T11739",
+      "v": "https://openalex.org/T12015",
+      "u_name": "Microwave Imaging and Scattering Analysis",
+      "v_name": "Photoacoustic and Ultrasonic Imaging",
+      "score": 0.00013113617023918778
+    },
+    {
+      "u": "https://openalex.org/T11602",
+      "v": "https://openalex.org/T11749",
+      "u_name": "Magnetic Bearings and Levitation Dynamics",
+      "v_name": "Iterative Learning Control Systems",
+      "score": 0.00012562840129248798
+    },
+    {
+      "u": "https://openalex.org/T10244",
+      "v": "https://openalex.org/T12162",
+      "u_name": "Chaos control and synchronization",
+      "v_name": "Cellular Automata and Applications",
+      "score": 0.00011874527262989432
+    },
+    {
+      "u": "https://openalex.org/T11447",
+      "v": "https://openalex.org/T12015",
+      "u_name": "Blind Source Separation Techniques",
+      "v_name": "Photoacoustic and Ultrasonic Imaging",
+      "score": 0.00011270631512161344
+    },
+    {
+      "u": "https://openalex.org/T10124",
+      "v": "https://openalex.org/T10862",
+      "u_name": "Prostate Cancer Diagnosis and Treatment",
+      "v_name": "AI in cancer detection",
+      "score": 0.00011234803969273344
+    },
+    {
+      "u": "https://openalex.org/T11236",
+      "v": "https://openalex.org/T12282",
+      "u_name": "Control Systems and Identification",
+      "v_name": "Mineral Processing and Grinding",
+      "score": 0.00010909927368629724
+    },
+    {
+      "u": "https://openalex.org/T10378",
+      "v": "https://openalex.org/T10429",
+      "u_name": "Advanced MRI Techniques and Applications",
+      "v_name": "EEG and Brain-Computer Interfaces",
+      "score": 0.00010551113518886268
+    },
+    {
+      "u": "https://openalex.org/T11017",
+      "v": "https://openalex.org/T11187",
+      "u_name": "Chaos-based Image/Signal Encryption",
+      "v_name": "Nonlinear Dynamics and Pattern Formation",
+      "score": 0.00010441674385219812
+    },
+    {
+      "u": "https://openalex.org/T10320",
+      "v": "https://openalex.org/T10400",
+      "u_name": "Neural Networks and Applications",
+      "v_name": "Network Security and Intrusion Detection",
+      "score": 0.00010337471758248284
+    },
+    {
+      "u": "https://openalex.org/T10191",
+      "v": "https://openalex.org/T11615",
+      "u_name": "Robotics and Sensor-Based Localization",
+      "v_name": "Control and Dynamics of Mobile Robots",
+      "score": 0.00010325649054720998
+    },
+    {
+      "u": "https://openalex.org/T10175",
+      "v": "https://openalex.org/T10361",
+      "u_name": "Advanced DC-DC Converters",
+      "v_name": "Silicon Carbide Semiconductor Technologies",
+      "score": 0.00010207427112618461
+    },
+    {
+      "u": "https://openalex.org/T12338",
+      "v": "https://openalex.org/T14246",
+      "u_name": "Digital literacy in education",
+      "v_name": "E-Learning and Knowledge Management",
+      "score": 9.569264511810616e-05
+    },
+    {
+      "u": "https://openalex.org/T10768",
+      "v": "https://openalex.org/T11954",
+      "u_name": "Electric Vehicles and Infrastructure",
+      "v_name": "Energy Efficiency and Management",
+      "score": 9.377155220136046e-05
+    },
+    {
+      "u": "https://openalex.org/T10228",
+      "v": "https://openalex.org/T11602",
+      "u_name": "Multilevel Inverters and Converters",
+      "v_name": "Magnetic Bearings and Levitation Dynamics",
+      "score": 9.226183465216309e-05
+    },
+    {
+      "u": "https://openalex.org/T10791",
+      "v": "https://openalex.org/T11615",
+      "u_name": "Advanced Control Systems Optimization",
+      "v_name": "Control and Dynamics of Mobile Robots",
+      "score": 9.156644227914512e-05
+    },
+    {
+      "u": "https://openalex.org/T10586",
+      "v": "https://openalex.org/T11081",
+      "u_name": "Robotic Path Planning Algorithms",
+      "v_name": "Advanced Control Systems Design",
+      "score": 8.988824265543371e-05
+    },
+    {
+      "u": "https://openalex.org/T10378",
+      "v": "https://openalex.org/T11996",
+      "u_name": "Advanced MRI Techniques and Applications",
+      "v_name": "Random lasers and scattering media",
+      "score": 8.809837163425982e-05
+    },
+    {
+      "u": "https://openalex.org/T10454",
+      "v": "https://openalex.org/T11954",
+      "u_name": "Optimal Power Flow Distribution",
+      "v_name": "Energy Efficiency and Management",
+      "score": 8.731778507353738e-05
+    },
+    {
+      "u": "https://openalex.org/T11017",
+      "v": "https://openalex.org/T11261",
+      "u_name": "Chaos-based Image/Signal Encryption",
+      "v_name": "Quantum chaos and dynamical systems",
+      "score": 8.696420991327614e-05
+    },
+    {
+      "u": "https://openalex.org/T10429",
+      "v": "https://openalex.org/T10510",
+      "u_name": "EEG and Brain-Computer Interfaces",
+      "v_name": "Stroke Rehabilitation and Recovery",
+      "score": 8.202360186260194e-05
+    },
+    {
+      "u": "https://openalex.org/T10429",
+      "v": "https://openalex.org/T10868",
+      "u_name": "EEG and Brain-Computer Interfaces",
+      "v_name": "Soft Robotics and Applications",
+      "score": 7.823313353583217e-05
+    },
+    {
+      "u": "https://openalex.org/T10228",
+      "v": "https://openalex.org/T10278",
+      "u_name": "Multilevel Inverters and Converters",
+      "v_name": "Electric Motor Design and Analysis",
+      "score": 7.77235472924076e-05
+    },
+    {
+      "u": "https://openalex.org/T10791",
+      "v": "https://openalex.org/T12282",
+      "u_name": "Advanced Control Systems Optimization",
+      "v_name": "Mineral Processing and Grinding",
+      "score": 7.67121891840361e-05
+    },
+    {
+      "u": "https://openalex.org/T10220",
+      "v": "https://openalex.org/T10500",
+      "u_name": "Machine Fault Diagnosis Techniques",
+      "v_name": "Sparse and Compressive Sensing Techniques",
+      "score": 7.54145803512074e-05
+    },
+    {
+      "u": "https://openalex.org/T10504",
+      "v": "https://openalex.org/T11081",
+      "u_name": "Sensorless Control of Electric Motors",
+      "v_name": "Advanced Control Systems Design",
+      "score": 7.482981163775548e-05
+    },
+    {
+      "u": "https://openalex.org/T10175",
+      "v": "https://openalex.org/T10454",
+      "u_name": "Advanced DC-DC Converters",
+      "v_name": "Optimal Power Flow Distribution",
+      "score": 6.985411891946569e-05
+    },
+    {
+      "u": "https://openalex.org/T10040",
+      "v": "https://openalex.org/T11261",
+      "u_name": "Adaptive Control of Nonlinear Systems",
+      "v_name": "Quantum chaos and dynamical systems",
+      "score": 6.594068690901622e-05
+    },
+    {
+      "u": "https://openalex.org/T10121",
+      "v": "https://openalex.org/T13183",
+      "u_name": "Building Energy and Comfort Optimization",
+      "v_name": "Islanding Detection in Power Systems",
+      "score": 6.499003939097747e-05
+    },
+    {
+      "u": "https://openalex.org/T10241",
+      "v": "https://openalex.org/T10502",
+      "u_name": "Functional Brain Connectivity Studies",
+      "v_name": "Advanced Memory and Neural Computing",
+      "score": 6.490878149634227e-05
+    },
+    {
+      "u": "https://openalex.org/T11512",
+      "v": "https://openalex.org/T12205",
+      "u_name": "Anomaly Detection Techniques and Applications",
+      "v_name": "Time Series Analysis and Forecasting",
+      "score": 6.389881309587508e-05
+    },
+    {
+      "u": "https://openalex.org/T10688",
+      "v": "https://openalex.org/T12169",
+      "u_name": "Image and Signal Denoising Methods",
+      "v_name": "Non-Destructive Testing Techniques",
+      "score": 6.295664206845686e-05
+    },
+    {
+      "u": "https://openalex.org/T10586",
+      "v": "https://openalex.org/T11525",
+      "u_name": "Robotic Path Planning Algorithms",
+      "v_name": "Piezoelectric Actuators and Control",
+      "score": 5.967870310996659e-05
+    },
+    {
+      "u": "https://openalex.org/T11447",
+      "v": "https://openalex.org/T11739",
+      "u_name": "Blind Source Separation Techniques",
+      "v_name": "Microwave Imaging and Scattering Analysis",
+      "score": 5.30554934812244e-05
+    },
+    {
+      "u": "https://openalex.org/T10046",
+      "v": "https://openalex.org/T11081",
+      "u_name": "Stability and Control of Uncertain Systems",
+      "v_name": "Advanced Control Systems Design",
+      "score": 5.285077713779174e-05
+    },
+    {
+      "u": "https://openalex.org/T10026",
+      "v": "https://openalex.org/T10463",
+      "u_name": "Galaxies: Formation, Evolution, Phenomena",
+      "v_name": "Pulsars and Gravitational Waves Research",
+      "score": 5.264534775051288e-05
+    },
+    {
+      "u": "https://openalex.org/T11236",
+      "v": "https://openalex.org/T11270",
+      "u_name": "Control Systems and Identification",
+      "v_name": "Complex Systems and Time Series Analysis",
+      "score": 4.899556370219216e-05
+    },
+    {
+      "u": "https://openalex.org/T11270",
+      "v": "https://openalex.org/T12205",
+      "u_name": "Complex Systems and Time Series Analysis",
+      "v_name": "Time Series Analysis and Forecasting",
+      "score": 4.7843022912275046e-05
+    },
+    {
+      "u": "https://openalex.org/T10540",
+      "v": "https://openalex.org/T10638",
+      "u_name": "Advanced Fluorescence Microscopy Techniques",
+      "v_name": "Optical measurement and interference techniques",
+      "score": 4.647155947168358e-05
+    },
+    {
+      "u": "https://openalex.org/T10124",
+      "v": "https://openalex.org/T11775",
+      "u_name": "Prostate Cancer Diagnosis and Treatment",
+      "v_name": "COVID-19 diagnosis using AI",
+      "score": 4.523188545135781e-05
+    },
+    {
+      "u": "https://openalex.org/T10640",
+      "v": "https://openalex.org/T12153",
+      "u_name": "Spectroscopy and Chemometric Analyses",
+      "v_name": "Advanced Optical Sensing Technologies",
+      "score": 4.082903251401149e-05
+    },
+    {
+      "u": "https://openalex.org/T10223",
+      "v": "https://openalex.org/T10917",
+      "u_name": "Microgrid Control and Optimization",
+      "v_name": "Smart Grid Security and Resilience",
+      "score": 3.978112727054395e-05
+    },
+    {
+      "u": "https://openalex.org/T10361",
+      "v": "https://openalex.org/T10917",
+      "u_name": "Silicon Carbide Semiconductor Technologies",
+      "v_name": "Smart Grid Security and Resilience",
+      "score": 3.875264519592747e-05
+    },
+    {
+      "u": "https://openalex.org/T10121",
+      "v": "https://openalex.org/T10768",
+      "u_name": "Building Energy and Comfort Optimization",
+      "v_name": "Electric Vehicles and Infrastructure",
+      "score": 3.6886947782477364e-05
+    },
+    {
+      "u": "https://openalex.org/T10378",
+      "v": "https://openalex.org/T11447",
+      "u_name": "Advanced MRI Techniques and Applications",
+      "v_name": "Blind Source Separation Techniques",
+      "score": 3.590256528696045e-05
+    },
+    {
+      "u": "https://openalex.org/T10241",
+      "v": "https://openalex.org/T11707",
+      "u_name": "Functional Brain Connectivity Studies",
+      "v_name": "Gaze Tracking and Assistive Technology",
+      "score": 3.545227082213387e-05
+    },
+    {
+      "u": "https://openalex.org/T11996",
+      "v": "https://openalex.org/T12015",
+      "u_name": "Random lasers and scattering media",
+      "v_name": "Photoacoustic and Ultrasonic Imaging",
+      "score": 3.252355963923037e-05
+    },
+    {
+      "u": "https://openalex.org/T10278",
+      "v": "https://openalex.org/T11749",
+      "u_name": "Electric Motor Design and Analysis",
+      "v_name": "Iterative Learning Control Systems",
+      "score": 2.9708195143030025e-05
+    },
+    {
+      "u": "https://openalex.org/T10688",
+      "v": "https://openalex.org/T12153",
+      "u_name": "Image and Signal Denoising Methods",
+      "v_name": "Advanced Optical Sensing Technologies",
+      "score": 2.9125601940904744e-05
+    },
+    {
+      "u": "https://openalex.org/T10228",
+      "v": "https://openalex.org/T10917",
+      "u_name": "Multilevel Inverters and Converters",
+      "v_name": "Smart Grid Security and Resilience",
+      "score": 2.7364829293219373e-05
+    },
+    {
+      "u": "https://openalex.org/T10586",
+      "v": "https://openalex.org/T10791",
+      "u_name": "Robotic Path Planning Algorithms",
+      "v_name": "Advanced Control Systems Optimization",
+      "score": 2.734948975557927e-05
+    },
+    {
+      "u": "https://openalex.org/T11105",
+      "v": "https://openalex.org/T11447",
+      "u_name": "Advanced Image Processing Techniques",
+      "v_name": "Blind Source Separation Techniques",
+      "score": 2.7158921511727385e-05
+    },
+    {
+      "u": "https://openalex.org/T10095",
+      "v": "https://openalex.org/T13126",
+      "u_name": "Cosmology and Gravitation Theories",
+      "v_name": "Scientific Research and Discoveries",
+      "score": 2.6170793717028573e-05
+    },
+    {
+      "u": "https://openalex.org/T11775",
+      "v": "https://openalex.org/T12702",
+      "u_name": "COVID-19 diagnosis using AI",
+      "v_name": "Brain Tumor Detection and Classification",
+      "score": 2.4803670385153964e-05
+    },
+    {
+      "u": "https://openalex.org/T10220",
+      "v": "https://openalex.org/T12282",
+      "u_name": "Machine Fault Diagnosis Techniques",
+      "v_name": "Mineral Processing and Grinding",
+      "score": 2.4154544007615186e-05
+    },
+    {
+      "u": "https://openalex.org/T10504",
+      "v": "https://openalex.org/T10791",
+      "u_name": "Sensorless Control of Electric Motors",
+      "v_name": "Advanced Control Systems Optimization",
+      "score": 2.27675791393267e-05
+    },
+    {
+      "u": "https://openalex.org/T11324",
+      "v": "https://openalex.org/T11996",
+      "u_name": "Spectroscopy Techniques in Biomedical and Chemical Research",
+      "v_name": "Random lasers and scattering media",
+      "score": 2.2353853637469e-05
+    },
+    {
+      "u": "https://openalex.org/T11739",
+      "v": "https://openalex.org/T11996",
+      "u_name": "Microwave Imaging and Scattering Analysis",
+      "v_name": "Random lasers and scattering media",
+      "score": 2.129132190020755e-05
+    },
+    {
+      "u": "https://openalex.org/T10531",
+      "v": "https://openalex.org/T11569",
+      "u_name": "Advanced Vision and Imaging",
+      "v_name": "Optical Coherence Tomography Applications",
+      "score": 2.018624945776537e-05
+    },
+    {
+      "u": "https://openalex.org/T10688",
+      "v": "https://openalex.org/T11739",
+      "u_name": "Image and Signal Denoising Methods",
+      "v_name": "Microwave Imaging and Scattering Analysis",
+      "score": 1.9912946299882606e-05
+    },
+    {
+      "u": "https://openalex.org/T11324",
+      "v": "https://openalex.org/T11667",
+      "u_name": "Spectroscopy Techniques in Biomedical and Chemical Research",
+      "v_name": "Advanced Chemical Sensor Technologies",
+      "score": 1.9304057786939666e-05
+    },
+    {
+      "u": "https://openalex.org/T10410",
+      "v": "https://openalex.org/T10876",
+      "u_name": "COVID-19 epidemiological studies",
+      "v_name": "Fault Detection and Control Systems",
+      "score": 1.9112269001198e-05
+    },
+    {
+      "u": "https://openalex.org/T10191",
+      "v": "https://openalex.org/T10638",
+      "u_name": "Robotics and Sensor-Based Localization",
+      "v_name": "Optical measurement and interference techniques",
+      "score": 1.9076196622336283e-05
+    },
+    {
+      "u": "https://openalex.org/T11447",
+      "v": "https://openalex.org/T11996",
+      "u_name": "Blind Source Separation Techniques",
+      "v_name": "Random lasers and scattering media",
+      "score": 1.8298760551260784e-05
+    },
+    {
+      "u": "https://openalex.org/T10648",
+      "v": "https://openalex.org/T11211",
+      "u_name": "Virtual Reality Applications and Impacts",
+      "v_name": "3D Surveying and Cultural Heritage",
+      "score": 1.819395401980728e-05
+    },
+    {
+      "u": "https://openalex.org/T10121",
+      "v": "https://openalex.org/T10454",
+      "u_name": "Building Energy and Comfort Optimization",
+      "v_name": "Optimal Power Flow Distribution",
+      "score": 1.698879168543499e-05
+    },
+    {
+      "u": "https://openalex.org/T10046",
+      "v": "https://openalex.org/T10791",
+      "u_name": "Stability and Control of Uncertain Systems",
+      "v_name": "Advanced Control Systems Optimization",
+      "score": 1.6080031855381094e-05
+    },
+    {
+      "u": "https://openalex.org/T10502",
+      "v": "https://openalex.org/T10784",
+      "u_name": "Advanced Memory and Neural Computing",
+      "v_name": "Muscle activation and electromyography studies",
+      "score": 1.577264629304409e-05
+    },
+    {
+      "u": "https://openalex.org/T11394",
+      "v": "https://openalex.org/T11525",
+      "u_name": "Dynamics and Control of Mechanical Systems",
+      "v_name": "Piezoelectric Actuators and Control",
+      "score": 1.4920926332706586e-05
+    },
+    {
+      "u": "https://openalex.org/T10040",
+      "v": "https://openalex.org/T11110",
+      "u_name": "Adaptive Control of Nonlinear Systems",
+      "v_name": "Stability and Controllability of Differential Equations",
+      "score": 1.4844396901025902e-05
+    },
+    {
+      "u": "https://openalex.org/T10052",
+      "v": "https://openalex.org/T10124",
+      "u_name": "Medical Image Segmentation Techniques",
+      "v_name": "Prostate Cancer Diagnosis and Treatment",
+      "score": 1.3004760148760397e-05
+    },
+    {
+      "u": "https://openalex.org/T10228",
+      "v": "https://openalex.org/T10603",
+      "u_name": "Multilevel Inverters and Converters",
+      "v_name": "Smart Grid Energy Management",
+      "score": 1.2482289093895815e-05
+    },
+    {
+      "u": "https://openalex.org/T10531",
+      "v": "https://openalex.org/T10586",
+      "u_name": "Advanced Vision and Imaging",
+      "v_name": "Robotic Path Planning Algorithms",
+      "score": 1.1492700650705956e-05
+    },
+    {
+      "u": "https://openalex.org/T10688",
+      "v": "https://openalex.org/T11569",
+      "u_name": "Image and Signal Denoising Methods",
+      "v_name": "Optical Coherence Tomography Applications",
+      "score": 1.0700018719944637e-05
+    },
+    {
+      "u": "https://openalex.org/T10784",
+      "v": "https://openalex.org/T11707",
+      "u_name": "Muscle activation and electromyography studies",
+      "v_name": "Gaze Tracking and Assistive Technology",
+      "score": 1.0238086360914167e-05
+    },
+    {
+      "u": "https://openalex.org/T10500",
+      "v": "https://openalex.org/T12153",
+      "u_name": "Sparse and Compressive Sensing Techniques",
+      "v_name": "Advanced Optical Sensing Technologies",
+      "score": 9.371943633595947e-06
+    },
+    {
+      "u": "https://openalex.org/T10305",
+      "v": "https://openalex.org/T10680",
+      "u_name": "Power System Optimization and Stability",
+      "v_name": "Wind Energy Research and Development",
+      "score": 9.091990250453819e-06
+    },
+    {
+      "u": "https://openalex.org/T10052",
+      "v": "https://openalex.org/T12702",
+      "u_name": "Medical Image Segmentation Techniques",
+      "v_name": "Brain Tumor Detection and Classification",
+      "score": 8.851764505379833e-06
+    },
+    {
+      "u": "https://openalex.org/T10876",
+      "v": "https://openalex.org/T11749",
+      "u_name": "Fault Detection and Control Systems",
+      "v_name": "Iterative Learning Control Systems",
+      "score": 7.878240467107389e-06
+    },
+    {
+      "u": "https://openalex.org/T10531",
+      "v": "https://openalex.org/T11897",
+      "u_name": "Advanced Vision and Imaging",
+      "v_name": "Digital Holography and Microscopy",
+      "score": 7.874476978031453e-06
+    },
+    {
+      "u": "https://openalex.org/T10581",
+      "v": "https://openalex.org/T11270",
+      "u_name": "Neural dynamics and brain function",
+      "v_name": "Complex Systems and Time Series Analysis",
+      "score": 7.5840803219762165e-06
+    },
+    {
+      "u": "https://openalex.org/T10688",
+      "v": "https://openalex.org/T11996",
+      "u_name": "Image and Signal Denoising Methods",
+      "v_name": "Random lasers and scattering media",
+      "score": 6.867802312626736e-06
+    },
+    {
+      "u": "https://openalex.org/T10510",
+      "v": "https://openalex.org/T10868",
+      "u_name": "Stroke Rehabilitation and Recovery",
+      "v_name": "Soft Robotics and Applications",
+      "score": 6.135426701803226e-06
+    },
+    {
+      "u": "https://openalex.org/T10603",
+      "v": "https://openalex.org/T11102",
+      "u_name": "Smart Grid Energy Management",
+      "v_name": "HVDC Systems and Fault Protection",
+      "score": 5.605307251244085e-06
+    },
+    {
+      "u": "https://openalex.org/T10046",
+      "v": "https://openalex.org/T10586",
+      "u_name": "Stability and Control of Uncertain Systems",
+      "v_name": "Robotic Path Planning Algorithms",
+      "score": 5.507626610778971e-06
+    },
+    {
+      "u": "https://openalex.org/T11147",
+      "v": "https://openalex.org/T13083",
+      "u_name": "Misinformation and Its Impacts",
+      "v_name": "Advanced Text Analysis Techniques",
+      "score": 5.442490873974748e-06
+    },
+    {
+      "u": "https://openalex.org/T10876",
+      "v": "https://openalex.org/T11270",
+      "u_name": "Fault Detection and Control Systems",
+      "v_name": "Complex Systems and Time Series Analysis",
+      "score": 5.03182263855706e-06
+    },
+    {
+      "u": "https://openalex.org/T11954",
+      "v": "https://openalex.org/T13183",
+      "u_name": "Energy Efficiency and Management",
+      "v_name": "Islanding Detection in Power Systems",
+      "score": 4.970853296981659e-06
+    },
+    {
+      "u": "https://openalex.org/T10175",
+      "v": "https://openalex.org/T10603",
+      "u_name": "Advanced DC-DC Converters",
+      "v_name": "Smart Grid Energy Management",
+      "score": 4.5963251977809705e-06
+    },
+    {
+      "u": "https://openalex.org/T10429",
+      "v": "https://openalex.org/T12205",
+      "u_name": "EEG and Brain-Computer Interfaces",
+      "v_name": "Time Series Analysis and Forecasting",
+      "score": 4.507312496571103e-06
+    },
+    {
+      "u": "https://openalex.org/T10220",
+      "v": "https://openalex.org/T10711",
+      "u_name": "Machine Fault Diagnosis Techniques",
+      "v_name": "Target Tracking and Data Fusion in Sensor Networks",
+      "score": 4.283352609490976e-06
+    },
+    {
+      "u": "https://openalex.org/T10862",
+      "v": "https://openalex.org/T12702",
+      "u_name": "AI in cancer detection",
+      "v_name": "Brain Tumor Detection and Classification",
+      "score": 4.232142600812949e-06
+    },
+    {
+      "u": "https://openalex.org/T11326",
+      "v": "https://openalex.org/T13377",
+      "u_name": "Stock Market Forecasting Methods",
+      "v_name": "Ecosystem dynamics and resilience",
+      "score": 4.23168648922001e-06
+    },
+    {
+      "u": "https://openalex.org/T11081",
+      "v": "https://openalex.org/T11236",
+      "u_name": "Advanced Control Systems Design",
+      "v_name": "Control Systems and Identification",
+      "score": 4.1905504986061715e-06
+    },
+    {
+      "u": "https://openalex.org/T10241",
+      "v": "https://openalex.org/T10581",
+      "u_name": "Functional Brain Connectivity Studies",
+      "v_name": "Neural dynamics and brain function",
+      "score": 3.6746025671163807e-06
+    },
+    {
+      "u": "https://openalex.org/T10220",
+      "v": "https://openalex.org/T12015",
+      "u_name": "Machine Fault Diagnosis Techniques",
+      "v_name": "Photoacoustic and Ultrasonic Imaging",
+      "score": 3.6534447644953616e-06
+    },
+    {
+      "u": "https://openalex.org/T11192",
+      "v": "https://openalex.org/T12772",
+      "u_name": "Underwater Vehicles and Communication Systems",
+      "v_name": "Control and Stability of Dynamical Systems",
+      "score": 3.3758831250452204e-06
+    },
+    {
+      "u": "https://openalex.org/T11749",
+      "v": "https://openalex.org/T12772",
+      "u_name": "Iterative Learning Control Systems",
+      "v_name": "Control and Stability of Dynamical Systems",
+      "score": 3.218008259864291e-06
+    },
+    {
+      "u": "https://openalex.org/T10502",
+      "v": "https://openalex.org/T11707",
+      "u_name": "Advanced Memory and Neural Computing",
+      "v_name": "Gaze Tracking and Assistive Technology",
+      "score": 2.8357158043945674e-06
+    },
+    {
+      "u": "https://openalex.org/T10581",
+      "v": "https://openalex.org/T10784",
+      "u_name": "Neural dynamics and brain function",
+      "v_name": "Muscle activation and electromyography studies",
+      "score": 2.7536543711903505e-06
+    },
+    {
+      "u": "https://openalex.org/T10400",
+      "v": "https://openalex.org/T10876",
+      "u_name": "Network Security and Intrusion Detection",
+      "v_name": "Fault Detection and Control Systems",
+      "score": 2.6534396511124214e-06
+    },
+    {
+      "u": "https://openalex.org/T10429",
+      "v": "https://openalex.org/T11236",
+      "u_name": "EEG and Brain-Computer Interfaces",
+      "v_name": "Control Systems and Identification",
+      "score": 2.6158395485254005e-06
+    },
+    {
+      "u": "https://openalex.org/T10429",
+      "v": "https://openalex.org/T10876",
+      "u_name": "EEG and Brain-Computer Interfaces",
+      "v_name": "Fault Detection and Control Systems",
+      "score": 2.522860313547426e-06
+    },
+    {
+      "u": "https://openalex.org/T10876",
+      "v": "https://openalex.org/T12169",
+      "u_name": "Fault Detection and Control Systems",
+      "v_name": "Non-Destructive Testing Techniques",
+      "score": 2.5222732347174315e-06
+    },
+    {
+      "u": "https://openalex.org/T10876",
+      "v": "https://openalex.org/T11081",
+      "u_name": "Fault Detection and Control Systems",
+      "v_name": "Advanced Control Systems Design",
+      "score": 2.3419813715008786e-06
+    },
+    {
+      "u": "https://openalex.org/T11569",
+      "v": "https://openalex.org/T11897",
+      "u_name": "Optical Coherence Tomography Applications",
+      "v_name": "Digital Holography and Microscopy",
+      "score": 2.22701578422857e-06
+    },
+    {
+      "u": "https://openalex.org/T10040",
+      "v": "https://openalex.org/T10571",
+      "u_name": "Adaptive Control of Nonlinear Systems",
+      "v_name": "Robotic Mechanisms and Dynamics",
+      "score": 1.9875842554029077e-06
+    },
+    {
+      "u": "https://openalex.org/T10454",
+      "v": "https://openalex.org/T11102",
+      "u_name": "Optimal Power Flow Distribution",
+      "v_name": "HVDC Systems and Fault Protection",
+      "score": 1.8366326912655495e-06
+    },
+    {
+      "u": "https://openalex.org/T10504",
+      "v": "https://openalex.org/T11236",
+      "u_name": "Sensorless Control of Electric Motors",
+      "v_name": "Control Systems and Identification",
+      "score": 1.7743949456416885e-06
+    },
+    {
+      "u": "https://openalex.org/T10540",
+      "v": "https://openalex.org/T11105",
+      "u_name": "Advanced Fluorescence Microscopy Techniques",
+      "v_name": "Advanced Image Processing Techniques",
+      "score": 1.6708721659597359e-06
+    },
+    {
+      "u": "https://openalex.org/T10220",
+      "v": "https://openalex.org/T10791",
+      "u_name": "Machine Fault Diagnosis Techniques",
+      "v_name": "Advanced Control Systems Optimization",
+      "score": 1.536008198854688e-06
+    },
+    {
+      "u": "https://openalex.org/T10504",
+      "v": "https://openalex.org/T11102",
+      "u_name": "Sensorless Control of Electric Motors",
+      "v_name": "HVDC Systems and Fault Protection",
+      "score": 1.4669601569039514e-06
+    },
+    {
+      "u": "https://openalex.org/T10638",
+      "v": "https://openalex.org/T11105",
+      "u_name": "Optical measurement and interference techniques",
+      "v_name": "Advanced Image Processing Techniques",
+      "score": 1.4431514046009397e-06
+    },
+    {
+      "u": "https://openalex.org/T10191",
+      "v": "https://openalex.org/T10571",
+      "u_name": "Robotics and Sensor-Based Localization",
+      "v_name": "Robotic Mechanisms and Dynamics",
+      "score": 1.411362063663546e-06
+    },
+    {
+      "u": "https://openalex.org/T10175",
+      "v": "https://openalex.org/T11102",
+      "u_name": "Advanced DC-DC Converters",
+      "v_name": "HVDC Systems and Fault Protection",
+      "score": 1.3932200317867682e-06
+    },
+    {
+      "u": "https://openalex.org/T10688",
+      "v": "https://openalex.org/T10876",
+      "u_name": "Image and Signal Denoising Methods",
+      "v_name": "Fault Detection and Control Systems",
+      "score": 1.3368523923418252e-06
+    },
+    {
+      "u": "https://openalex.org/T10533",
+      "v": "https://openalex.org/T12395",
+      "u_name": "Teaching and Learning Programming",
+      "v_name": "Educational Innovations and Technology",
+      "score": 1.1867080047522904e-06
+    },
+    {
+      "u": "https://openalex.org/T10862",
+      "v": "https://openalex.org/T11775",
+      "u_name": "AI in cancer detection",
+      "v_name": "COVID-19 diagnosis using AI",
+      "score": 1.0690233693821938e-06
+    },
+    {
+      "u": "https://openalex.org/T10040",
+      "v": "https://openalex.org/T10191",
+      "u_name": "Adaptive Control of Nonlinear Systems",
+      "v_name": "Robotics and Sensor-Based Localization",
+      "score": 9.978210755434702e-07
+    },
+    {
+      "u": "https://openalex.org/T11236",
+      "v": "https://openalex.org/T12205",
+      "u_name": "Control Systems and Identification",
+      "v_name": "Time Series Analysis and Forecasting",
+      "score": 9.317184321844252e-07
+    },
+    {
+      "u": "https://openalex.org/T10305",
+      "v": "https://openalex.org/T11102",
+      "u_name": "Power System Optimization and Stability",
+      "v_name": "HVDC Systems and Fault Protection",
+      "score": 9.291053402193938e-07
+    },
+    {
+      "u": "https://openalex.org/T10500",
+      "v": "https://openalex.org/T11105",
+      "u_name": "Sparse and Compressive Sensing Techniques",
+      "v_name": "Advanced Image Processing Techniques",
+      "score": 7.13497854576417e-07
+    },
+    {
+      "u": "https://openalex.org/T11081",
+      "v": "https://openalex.org/T12772",
+      "u_name": "Advanced Control Systems Design",
+      "v_name": "Control and Stability of Dynamical Systems",
+      "score": 7.109642865543719e-07
+    },
+    {
+      "u": "https://openalex.org/T10908",
+      "v": "https://openalex.org/T12748",
+      "u_name": "Analytical Chemistry and Chromatography",
+      "v_name": "Molecular spectroscopy and chirality",
+      "score": 6.939486070223211e-07
+    },
+    {
+      "u": "https://openalex.org/T10244",
+      "v": "https://openalex.org/T12772",
+      "u_name": "Chaos control and synchronization",
+      "v_name": "Control and Stability of Dynamical Systems",
+      "score": 6.717070846207207e-07
+    },
+    {
+      "u": "https://openalex.org/T10770",
+      "v": "https://openalex.org/T11667",
+      "u_name": "Soil Geostatistics and Mapping",
+      "v_name": "Advanced Chemical Sensor Technologies",
+      "score": 6.18495278104092e-07
+    },
+    {
+      "u": "https://openalex.org/T10040",
+      "v": "https://openalex.org/T11236",
+      "u_name": "Adaptive Control of Nonlinear Systems",
+      "v_name": "Control Systems and Identification",
+      "score": 6.037824960003491e-07
+    },
+    {
+      "u": "https://openalex.org/T10040",
+      "v": "https://openalex.org/T10876",
+      "u_name": "Adaptive Control of Nonlinear Systems",
+      "v_name": "Fault Detection and Control Systems",
+      "score": 5.82320012654236e-07
+    },
+    {
+      "u": "https://openalex.org/T10249",
+      "v": "https://openalex.org/T10586",
+      "u_name": "Distributed Control Multi-Agent Systems",
+      "v_name": "Robotic Path Planning Algorithms",
+      "score": 5.396855726758076e-07
+    },
+    {
+      "u": "https://openalex.org/T10095",
+      "v": "https://openalex.org/T12917",
+      "u_name": "Cosmology and Gravitation Theories",
+      "v_name": "Astronomy and Astrophysical Research",
+      "score": 5.300562975207868e-07
+    },
+    {
+      "u": "https://openalex.org/T10581",
+      "v": "https://openalex.org/T11707",
+      "u_name": "Neural dynamics and brain function",
+      "v_name": "Gaze Tracking and Assistive Technology",
+      "score": 4.950657626068278e-07
+    },
+    {
+      "u": "https://openalex.org/T10028",
+      "v": "https://openalex.org/T11147",
+      "u_name": "Topic Modeling",
+      "v_name": "Misinformation and Its Impacts",
+      "score": 4.6116255703054776e-07
+    },
+    {
+      "u": "https://openalex.org/T11615",
+      "v": "https://openalex.org/T12772",
+      "u_name": "Control and Dynamics of Mobile Robots",
+      "v_name": "Control and Stability of Dynamical Systems",
+      "score": 4.205445236493688e-07
+    },
+    {
+      "u": "https://openalex.org/T10586",
+      "v": "https://openalex.org/T12772",
+      "u_name": "Robotic Path Planning Algorithms",
+      "v_name": "Control and Stability of Dynamical Systems",
+      "score": 3.616263484218507e-07
+    },
+    {
+      "u": "https://openalex.org/T11187",
+      "v": "https://openalex.org/T12772",
+      "u_name": "Nonlinear Dynamics and Pattern Formation",
+      "v_name": "Control and Stability of Dynamical Systems",
+      "score": 2.8255229267415416e-07
+    },
+    {
+      "u": "https://openalex.org/T10220",
+      "v": "https://openalex.org/T11447",
+      "u_name": "Machine Fault Diagnosis Techniques",
+      "v_name": "Blind Source Separation Techniques",
+      "score": 2.416963695850427e-07
+    },
+    {
+      "u": "https://openalex.org/T10220",
+      "v": "https://openalex.org/T11105",
+      "u_name": "Machine Fault Diagnosis Techniques",
+      "v_name": "Advanced Image Processing Techniques",
+      "score": 1.9149685215325007e-07
+    },
+    {
+      "u": "https://openalex.org/T10581",
+      "v": "https://openalex.org/T12205",
+      "u_name": "Neural dynamics and brain function",
+      "v_name": "Time Series Analysis and Forecasting",
+      "score": 1.4421605953884864e-07
+    },
+    {
+      "u": "https://openalex.org/T11110",
+      "v": "https://openalex.org/T12772",
+      "u_name": "Stability and Controllability of Differential Equations",
+      "v_name": "Control and Stability of Dynamical Systems",
+      "score": 1.2980379437976808e-07
+    },
+    {
+      "u": "https://openalex.org/T10220",
+      "v": "https://openalex.org/T11236",
+      "u_name": "Machine Fault Diagnosis Techniques",
+      "v_name": "Control Systems and Identification",
+      "score": 1.1970659841153974e-07
+    },
+    {
+      "u": "https://openalex.org/T10876",
+      "v": "https://openalex.org/T12205",
+      "u_name": "Fault Detection and Control Systems",
+      "v_name": "Time Series Analysis and Forecasting",
+      "score": 9.568293535267003e-08
+    },
+    {
+      "u": "https://openalex.org/T10581",
+      "v": "https://openalex.org/T11236",
+      "u_name": "Neural dynamics and brain function",
+      "v_name": "Control Systems and Identification",
+      "score": 8.369621440351693e-08
+    },
+    {
+      "u": "https://openalex.org/T10581",
+      "v": "https://openalex.org/T10876",
+      "u_name": "Neural dynamics and brain function",
+      "v_name": "Fault Detection and Control Systems",
+      "score": 8.072109380918846e-08
+    },
+    {
+      "u": "https://openalex.org/T10791",
+      "v": "https://openalex.org/T12772",
+      "u_name": "Advanced Control Systems Optimization",
+      "v_name": "Control and Stability of Dynamical Systems",
+      "score": 6.450319744999433e-08
+    }
+  ]
+}

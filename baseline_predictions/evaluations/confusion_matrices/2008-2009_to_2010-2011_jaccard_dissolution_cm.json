@@ -1,0 +1,14 @@
+{
+  "period_pair": "2008-2009_to_2010-2011",
+  "algorithm": "jaccard",
+  "threshold": -0.2222222222222222,
+  "auc_roc": 0.56,
+  "f1": 0.5333333333333333,
+  "task": "dissolution",
+  "confusion_matrix": {
+    "tn": 4,
+    "fp": 6,
+    "fn": 1,
+    "tp": 4
+  }
+}

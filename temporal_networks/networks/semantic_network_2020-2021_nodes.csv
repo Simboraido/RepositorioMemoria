@@ -1,0 +1,70 @@
+id,name,frequency,field,subfield,domain,degree,degree_centrality,betweenness_centrality,closeness_centrality
+https://openalex.org/T10663,Advanced Battery Technologies Research,6,Engineering,Automotive Engineering,Physical Sciences,2,0.029411764705882353,0.005706760316066725,0.08006535947712418
+https://openalex.org/T10454,Optimal Power Flow Distribution,3,Engineering,Electrical and Electronic Engineering,Physical Sciences,1,0.014705882352941176,0.0,0.06550802139037433
+https://openalex.org/T10050,Multi-Criteria Decision Making,9,Decision Sciences,Management Science and Operations Research,Social Sciences,2,0.029411764705882353,0.0,0.029411764705882353
+https://openalex.org/T11182,Auction Theory and Applications,3,Decision Sciences,Management Science and Operations Research,Social Sciences,1,0.014705882352941176,0.0,0.014705882352941176
+https://openalex.org/T10410,COVID-19 epidemiological studies,4,Mathematics,Modeling and Simulation,Physical Sciences,1,0.014705882352941176,0.0,0.014705882352941176
+https://openalex.org/T11707,Gaze Tracking and Assistive Technology,3,Computer Science,Human-Computer Interaction,Physical Sciences,1,0.014705882352941176,0.0,0.014705882352941176
+https://openalex.org/T11575,Nonlinear Photonic Systems,3,Physics and Astronomy,Statistical and Nonlinear Physics,Physical Sciences,1,0.014705882352941176,0.0,0.014705882352941176
+https://openalex.org/T12205,Time Series Analysis and Forecasting,3,Computer Science,Signal Processing,Physical Sciences,1,0.014705882352941176,0.0,0.014705882352941176
+https://openalex.org/T10248,Nonlinear Waves and Solitons,3,Physics and Astronomy,Statistical and Nonlinear Physics,Physical Sciences,1,0.014705882352941176,0.0,0.014705882352941176
+https://openalex.org/T12277,Frequency Control in Power Systems,3,Engineering,Electrical and Electronic Engineering,Physical Sciences,1,0.014705882352941176,0.0,0.08235294117647059
+https://openalex.org/T11687,Teleoperation and Haptic Systems,3,Engineering,Mechanical Engineering,Physical Sciences,2,0.029411764705882353,0.0,0.029411764705882353
+https://openalex.org/T11394,Dynamics and Control of Mechanical Systems,5,Engineering,Control and Systems Engineering,Physical Sciences,2,0.029411764705882353,0.0052677787532923615,0.06903594771241829
+https://openalex.org/T10211,Computational Drug Discovery Methods,4,Computer Science,Computational Theory and Mathematics,Physical Sciences,1,0.014705882352941176,0.0,0.014705882352941176
+https://openalex.org/T10972,Power Systems Fault Detection,3,Engineering,Control and Systems Engineering,Physical Sciences,2,0.029411764705882353,0.0,0.06862745098039215
+https://openalex.org/T10876,Fault Detection and Control Systems,17,Engineering,Control and Systems Engineering,Physical Sciences,6,0.08823529411764705,0.007462686567164179,0.10355392156862743
+https://openalex.org/T10745,Heart Rate Variability and Autonomic Control,4,Medicine,Cardiology and Cardiovascular Medicine,Health Sciences,1,0.014705882352941176,0.0,0.014705882352941176
+https://openalex.org/T11948,Machine Learning in Materials Science,3,Materials Science,Materials Chemistry,Physical Sciences,1,0.014705882352941176,0.0,0.014705882352941176
+https://openalex.org/T11692,Noise Effects and Management,3,Health Professions,Speech and Hearing,Health Sciences,1,0.014705882352941176,0.0,0.014705882352941176
+https://openalex.org/T12135,Fuzzy Systems and Optimization,3,Mathematics,Statistics and Probability,Physical Sciences,2,0.029411764705882353,0.0,0.029411764705882353
+https://openalex.org/T10791,Advanced Control Systems Optimization,12,Engineering,Control and Systems Engineering,Physical Sciences,5,0.07352941176470588,0.0052677787532923615,0.09941176470588235
+https://openalex.org/T10361,Silicon Carbide Semiconductor Technologies,7,Engineering,Electrical and Electronic Engineering,Physical Sciences,3,0.044117647058823525,0.0004389815627743634,0.08235294117647059
+https://openalex.org/T11099,Autonomous Vehicle Technology and Safety,5,Engineering,Automotive Engineering,Physical Sciences,2,0.029411764705882353,0.0,0.03308823529411765
+https://openalex.org/T11021,ECG Monitoring and Analysis,4,Medicine,Cardiology and Cardiovascular Medicine,Health Sciences,1,0.014705882352941176,0.0,0.014705882352941176
+https://openalex.org/T12592,Opinion Dynamics and Social Influence,5,Physics and Astronomy,Statistical and Nonlinear Physics,Physical Sciences,2,0.029411764705882353,0.0,0.029411764705882353
+https://openalex.org/T10305,Power System Optimization and Stability,7,Engineering,Electrical and Electronic Engineering,Physical Sciences,3,0.044117647058823525,0.005706760316066725,0.09297912713472485
+https://openalex.org/T10557,Social Media and Politics,3,Social Sciences,Communication,Social Sciences,2,0.029411764705882353,0.0,0.029411764705882353
+https://openalex.org/T10468,Photovoltaic System Optimization Techniques,3,Energy,"Renewable Energy, Sustainability and the Environment",Physical Sciences,1,0.014705882352941176,0.0,0.08235294117647059
+https://openalex.org/T10175,Advanced DC-DC Converters,22,Engineering,Electrical and Electronic Engineering,Physical Sciences,5,0.07352941176470588,0.014193737196371084,0.11529411764705882
+https://openalex.org/T11031,Game Theory and Applications,3,Decision Sciences,Management Science and Operations Research,Social Sciences,1,0.014705882352941176,0.0,0.014705882352941176
+https://openalex.org/T10278,Electric Motor Design and Analysis,5,Engineering,Electrical and Electronic Engineering,Physical Sciences,3,0.044117647058823525,0.0001463271875914545,0.07790143084260731
+https://openalex.org/T11102,HVDC Systems and Fault Protection,6,Engineering,Electrical and Electronic Engineering,Physical Sciences,4,0.058823529411764705,0.003511852502194908,0.09607843137254901
+https://openalex.org/T11006,BIM and Construction Integration,3,Engineering,Building and Construction,Physical Sciences,1,0.014705882352941176,0.0,0.014705882352941176
+https://openalex.org/T11192,Underwater Vehicles and Communication Systems,3,Engineering,Ocean Engineering,Physical Sciences,1,0.014705882352941176,0.0,0.07766544117647059
+https://openalex.org/T10100,Metaheuristic Optimization Algorithms Research,7,Computer Science,Artificial Intelligence,Physical Sciences,2,0.029411764705882353,0.0,0.029411764705882353
+https://openalex.org/T11252,Evolutionary Game Theory and Cooperation,4,Social Sciences,Sociology and Political Science,Social Sciences,1,0.014705882352941176,0.0,0.014705882352941176
+https://openalex.org/T11023,Prosthetics and Rehabilitation Robotics,4,Engineering,Biomedical Engineering,Physical Sciences,1,0.014705882352941176,0.0,0.014705882352941176
+https://openalex.org/T10228,Multilevel Inverters and Converters,26,Engineering,Electrical and Electronic Engineering,Physical Sciences,5,0.07352941176470588,0.007609013754755633,0.11085972850678733
+https://openalex.org/T10504,Sensorless Control of Electric Motors,7,Engineering,Electrical and Electronic Engineering,Physical Sciences,3,0.044117647058823525,0.0004389815627743634,0.08235294117647059
+https://openalex.org/T10627,Advanced Image and Video Retrieval Techniques,4,Computer Science,Computer Vision and Pattern Recognition,Physical Sciences,1,0.014705882352941176,0.0,0.026470588235294117
+https://openalex.org/T14083,Extremum Seeking Control Systems,3,Engineering,Control and Systems Engineering,Physical Sciences,1,0.014705882352941176,0.0,0.06717011128775835
+https://openalex.org/T10534,Structural Health Monitoring Techniques,3,Engineering,Civil and Structural Engineering,Physical Sciences,2,0.029411764705882353,0.0,0.07100840336134454
+https://openalex.org/T11236,Control Systems and Identification,12,Engineering,Control and Systems Engineering,Physical Sciences,5,0.07352941176470588,0.0021949078138718174,0.09941176470588235
+https://openalex.org/T11344,Traffic Prediction and Management Techniques,3,Engineering,Building and Construction,Physical Sciences,2,0.029411764705882353,0.0,0.03308823529411765
+https://openalex.org/T10388,Advanced Steganography and Watermarking Techniques,4,Computer Science,Computer Vision and Pattern Recognition,Physical Sciences,1,0.014705882352941176,0.0,0.014705882352941176
+https://openalex.org/T10653,Robot Manipulation and Learning,6,Engineering,Control and Systems Engineering,Physical Sciences,2,0.029411764705882353,0.0,0.029411764705882353
+https://openalex.org/T10046,Stability and Control of Uncertain Systems,7,Engineering,Control and Systems Engineering,Physical Sciences,4,0.058823529411764705,0.0,0.09558823529411764
+https://openalex.org/T11615,Control and Dynamics of Mobile Robots,6,Engineering,Control and Systems Engineering,Physical Sciences,3,0.044117647058823525,0.009657594381035996,0.09558823529411764
+https://openalex.org/T10784,Muscle activation and electromyography studies,4,Engineering,Biomedical Engineering,Physical Sciences,1,0.014705882352941176,0.0,0.014705882352941176
+https://openalex.org/T10571,Robotic Mechanisms and Dynamics,3,Engineering,Control and Systems Engineering,Physical Sciences,1,0.014705882352941176,0.0,0.051776960784313715
+https://openalex.org/T11512,Anomaly Detection Techniques and Applications,6,Computer Science,Artificial Intelligence,Physical Sciences,1,0.014705882352941176,0.0,0.014705882352941176
+https://openalex.org/T13183,Islanding Detection in Power Systems,4,Engineering,Electrical and Electronic Engineering,Physical Sciences,3,0.044117647058823525,0.0021949078138718174,0.0900735294117647
+https://openalex.org/T10768,Electric Vehicles and Infrastructure,3,Engineering,Electrical and Electronic Engineering,Physical Sciences,1,0.014705882352941176,0.0,0.0588235294117647
+https://openalex.org/T12709,Optimization and Mathematical Programming,6,Engineering,Control and Systems Engineering,Physical Sciences,2,0.029411764705882353,0.0,0.029411764705882353
+https://openalex.org/T10667,Emotion and Mood Recognition,3,Psychology,Experimental and Cognitive Psychology,Social Sciences,1,0.014705882352941176,0.0,0.014705882352941176
+https://openalex.org/T10223,Microgrid Control and Optimization,20,Engineering,Control and Systems Engineering,Physical Sciences,7,0.10294117647058823,0.026777875329236173,0.13101604278074866
+https://openalex.org/T10040,Adaptive Control of Nonlinear Systems,16,Engineering,Control and Systems Engineering,Physical Sciences,7,0.10294117647058823,0.020632133450395083,0.12426470588235294
+https://openalex.org/T10868,Soft Robotics and Applications,3,Engineering,Biomedical Engineering,Physical Sciences,2,0.029411764705882353,0.0,0.029411764705882353
+https://openalex.org/T10586,Robotic Path Planning Algorithms,8,Computer Science,Computer Vision and Pattern Recognition,Physical Sciences,3,0.044117647058823525,0.0052677787532923615,0.09204793028322439
+https://openalex.org/T12357,Digital Media Forensic Detection,5,Computer Science,Computer Vision and Pattern Recognition,Physical Sciences,1,0.014705882352941176,0.0,0.014705882352941176
+https://openalex.org/T12282,Mineral Processing and Grinding,3,Engineering,Mechanical Engineering,Physical Sciences,1,0.014705882352941176,0.0,0.06903594771241829
+https://openalex.org/T10848,Advanced Multi-Objective Optimization Algorithms,7,Computer Science,Computational Theory and Mathematics,Physical Sciences,2,0.029411764705882353,0.0,0.029411764705882353
+https://openalex.org/T11775,COVID-19 diagnosis using AI,6,Medicine,"Radiology, Nuclear Medicine and Imaging",Health Sciences,1,0.014705882352941176,0.0,0.014705882352941176
+https://openalex.org/T10036,Advanced Neural Network Applications,6,Computer Science,Computer Vision and Pattern Recognition,Physical Sciences,3,0.044117647058823525,0.000877963125548727,0.04411764705882353
+https://openalex.org/T10283,Hearing Loss and Rehabilitation,3,Neuroscience,Cognitive Neuroscience,Life Sciences,1,0.014705882352941176,0.0,0.014705882352941176
+https://openalex.org/T10064,Complex Network Analysis Techniques,5,Physics and Astronomy,Statistical and Nonlinear Physics,Physical Sciences,2,0.029411764705882353,0.0,0.029411764705882353
+https://openalex.org/T11606,Infrastructure Maintenance and Monitoring,3,Engineering,Civil and Structural Engineering,Physical Sciences,1,0.014705882352941176,0.0,0.014705882352941176
+https://openalex.org/T10249,Distributed Control Multi-Agent Systems,4,Computer Science,Computer Networks and Communications,Physical Sciences,1,0.014705882352941176,0.0,0.06372549019607843
+https://openalex.org/T12288,Optimization and Search Problems,3,Computer Science,Computer Networks and Communications,Physical Sciences,1,0.014705882352941176,0.0,0.014705882352941176
+https://openalex.org/T11975,Evolutionary Algorithms and Applications,7,Computer Science,Artificial Intelligence,Physical Sciences,2,0.029411764705882353,0.0,0.029411764705882353

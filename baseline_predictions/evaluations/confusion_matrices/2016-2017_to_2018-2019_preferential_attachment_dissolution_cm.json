@@ -1,0 +1,14 @@
+{
+  "period_pair": "2016-2017_to_2018-2019",
+  "algorithm": "preferential_attachment",
+  "threshold": -3.0,
+  "auc_roc": 0.5059523809523809,
+  "f1": 0.4,
+  "task": "dissolution",
+  "confusion_matrix": {
+    "tn": 11,
+    "fp": 1,
+    "fn": 5,
+    "tp": 2
+  }
+}

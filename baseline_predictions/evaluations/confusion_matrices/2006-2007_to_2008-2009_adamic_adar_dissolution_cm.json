@@ -1,0 +1,14 @@
+{
+  "period_pair": "2006-2007_to_2008-2009",
+  "algorithm": "adamic_adar",
+  "threshold": Infinity,
+  "auc_roc": 0.25,
+  "f1": 0.0,
+  "task": "dissolution",
+  "confusion_matrix": {
+    "tn": 2,
+    "fp": 0,
+    "fn": 1,
+    "tp": 0
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "period_pair": "2012-2013_to_2014-2015",
+  "algorithm": "resource_allocation",
+  "threshold": -0.3333333333333333,
+  "auc_roc": 0.532051282051282,
+  "f1": 0.5882352941176471,
+  "task": "dissolution",
+  "confusion_matrix": {
+    "tn": 7,
+    "fp": 11,
+    "fn": 3,
+    "tp": 10
+  }
+}

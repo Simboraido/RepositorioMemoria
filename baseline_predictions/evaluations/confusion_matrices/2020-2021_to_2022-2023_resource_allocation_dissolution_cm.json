@@ -1,0 +1,14 @@
+{
+  "period_pair": "2020-2021_to_2022-2023",
+  "algorithm": "resource_allocation",
+  "threshold": -0.2,
+  "auc_roc": 0.6312217194570137,
+  "f1": 0.5714285714285714,
+  "task": "dissolution",
+  "confusion_matrix": {
+    "tn": 18,
+    "fp": 8,
+    "fn": 7,
+    "tp": 10
+  }
+}

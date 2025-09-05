@@ -1,0 +1,72 @@
+source,target,weight,source_name,target_name,source_field,target_field
+https://openalex.org/T10663,https://openalex.org/T10768,3,Advanced Battery Technologies Research,Electric Vehicles and Infrastructure,Engineering,Engineering
+https://openalex.org/T10663,https://openalex.org/T10175,2,Advanced Battery Technologies Research,Advanced DC-DC Converters,Engineering,Engineering
+https://openalex.org/T10454,https://openalex.org/T10305,3,Optimal Power Flow Distribution,Power System Optimization and Stability,Engineering,Engineering
+https://openalex.org/T10050,https://openalex.org/T12709,5,Multi-Criteria Decision Making,Optimization and Mathematical Programming,Decision Sciences,Engineering
+https://openalex.org/T10050,https://openalex.org/T12135,3,Multi-Criteria Decision Making,Fuzzy Systems and Optimization,Decision Sciences,Mathematics
+https://openalex.org/T11182,https://openalex.org/T12288,2,Auction Theory and Applications,Optimization and Search Problems,Decision Sciences,Computer Science
+https://openalex.org/T10410,https://openalex.org/T11775,2,COVID-19 epidemiological studies,COVID-19 diagnosis using AI,Mathematics,Medicine
+https://openalex.org/T11707,https://openalex.org/T10667,2,Gaze Tracking and Assistive Technology,Emotion and Mood Recognition,Computer Science,Psychology
+https://openalex.org/T11575,https://openalex.org/T10248,2,Nonlinear Photonic Systems,Nonlinear Waves and Solitons,Physics and Astronomy,Physics and Astronomy
+https://openalex.org/T12205,https://openalex.org/T11512,2,Time Series Analysis and Forecasting,Anomaly Detection Techniques and Applications,Computer Science,Computer Science
+https://openalex.org/T12277,https://openalex.org/T10223,3,Frequency Control in Power Systems,Microgrid Control and Optimization,Engineering,Engineering
+https://openalex.org/T11687,https://openalex.org/T10868,3,Teleoperation and Haptic Systems,Soft Robotics and Applications,Engineering,Engineering
+https://openalex.org/T11687,https://openalex.org/T10653,3,Teleoperation and Haptic Systems,Robot Manipulation and Learning,Engineering,Engineering
+https://openalex.org/T11394,https://openalex.org/T11615,2,Dynamics and Control of Mechanical Systems,Control and Dynamics of Mobile Robots,Engineering,Engineering
+https://openalex.org/T11394,https://openalex.org/T10571,2,Dynamics and Control of Mechanical Systems,Robotic Mechanisms and Dynamics,Engineering,Engineering
+https://openalex.org/T10211,https://openalex.org/T11948,2,Computational Drug Discovery Methods,Machine Learning in Materials Science,Computer Science,Materials Science
+https://openalex.org/T10972,https://openalex.org/T13183,2,Power Systems Fault Detection,Islanding Detection in Power Systems,Engineering,Engineering
+https://openalex.org/T10972,https://openalex.org/T11102,2,Power Systems Fault Detection,HVDC Systems and Fault Protection,Engineering,Engineering
+https://openalex.org/T10876,https://openalex.org/T10791,5,Fault Detection and Control Systems,Advanced Control Systems Optimization,Engineering,Engineering
+https://openalex.org/T10876,https://openalex.org/T11236,4,Fault Detection and Control Systems,Control Systems and Identification,Engineering,Engineering
+https://openalex.org/T10876,https://openalex.org/T12282,2,Fault Detection and Control Systems,Mineral Processing and Grinding,Engineering,Engineering
+https://openalex.org/T10876,https://openalex.org/T10534,2,Fault Detection and Control Systems,Structural Health Monitoring Techniques,Engineering,Engineering
+https://openalex.org/T10876,https://openalex.org/T10046,3,Fault Detection and Control Systems,Stability and Control of Uncertain Systems,Engineering,Engineering
+https://openalex.org/T10876,https://openalex.org/T10040,2,Fault Detection and Control Systems,Adaptive Control of Nonlinear Systems,Engineering,Engineering
+https://openalex.org/T10745,https://openalex.org/T11021,3,Heart Rate Variability and Autonomic Control,ECG Monitoring and Analysis,Medicine,Medicine
+https://openalex.org/T11692,https://openalex.org/T10283,2,Noise Effects and Management,Hearing Loss and Rehabilitation,Health Professions,Neuroscience
+https://openalex.org/T12135,https://openalex.org/T12709,3,Fuzzy Systems and Optimization,Optimization and Mathematical Programming,Mathematics,Engineering
+https://openalex.org/T10791,https://openalex.org/T11236,6,Advanced Control Systems Optimization,Control Systems and Identification,Engineering,Engineering
+https://openalex.org/T10791,https://openalex.org/T14083,3,Advanced Control Systems Optimization,Extremum Seeking Control Systems,Engineering,Engineering
+https://openalex.org/T10791,https://openalex.org/T10046,3,Advanced Control Systems Optimization,Stability and Control of Uncertain Systems,Engineering,Engineering
+https://openalex.org/T10791,https://openalex.org/T10040,4,Advanced Control Systems Optimization,Adaptive Control of Nonlinear Systems,Engineering,Engineering
+https://openalex.org/T10361,https://openalex.org/T10278,2,Silicon Carbide Semiconductor Technologies,Electric Motor Design and Analysis,Engineering,Engineering
+https://openalex.org/T10361,https://openalex.org/T10175,5,Silicon Carbide Semiconductor Technologies,Advanced DC-DC Converters,Engineering,Engineering
+https://openalex.org/T10361,https://openalex.org/T10228,6,Silicon Carbide Semiconductor Technologies,Multilevel Inverters and Converters,Engineering,Engineering
+https://openalex.org/T11099,https://openalex.org/T10036,2,Autonomous Vehicle Technology and Safety,Advanced Neural Network Applications,Engineering,Computer Science
+https://openalex.org/T11099,https://openalex.org/T11344,3,Autonomous Vehicle Technology and Safety,Traffic Prediction and Management Techniques,Engineering,Engineering
+https://openalex.org/T12592,https://openalex.org/T10557,2,Opinion Dynamics and Social Influence,Social Media and Politics,Physics and Astronomy,Social Sciences
+https://openalex.org/T12592,https://openalex.org/T10064,3,Opinion Dynamics and Social Influence,Complex Network Analysis Techniques,Physics and Astronomy,Physics and Astronomy
+https://openalex.org/T10305,https://openalex.org/T11102,2,Power System Optimization and Stability,HVDC Systems and Fault Protection,Engineering,Engineering
+https://openalex.org/T10305,https://openalex.org/T10223,3,Power System Optimization and Stability,Microgrid Control and Optimization,Engineering,Engineering
+https://openalex.org/T10557,https://openalex.org/T10064,2,Social Media and Politics,Complex Network Analysis Techniques,Social Sciences,Physics and Astronomy
+https://openalex.org/T10468,https://openalex.org/T10223,2,Photovoltaic System Optimization Techniques,Microgrid Control and Optimization,Energy,Engineering
+https://openalex.org/T10175,https://openalex.org/T10228,19,Advanced DC-DC Converters,Multilevel Inverters and Converters,Engineering,Engineering
+https://openalex.org/T10175,https://openalex.org/T10504,4,Advanced DC-DC Converters,Sensorless Control of Electric Motors,Engineering,Engineering
+https://openalex.org/T10175,https://openalex.org/T10223,10,Advanced DC-DC Converters,Microgrid Control and Optimization,Engineering,Engineering
+https://openalex.org/T11031,https://openalex.org/T11252,2,Game Theory and Applications,Evolutionary Game Theory and Cooperation,Decision Sciences,Social Sciences
+https://openalex.org/T10278,https://openalex.org/T10504,2,Electric Motor Design and Analysis,Sensorless Control of Electric Motors,Engineering,Engineering
+https://openalex.org/T10278,https://openalex.org/T10228,5,Electric Motor Design and Analysis,Multilevel Inverters and Converters,Engineering,Engineering
+https://openalex.org/T11102,https://openalex.org/T10223,2,HVDC Systems and Fault Protection,Microgrid Control and Optimization,Engineering,Engineering
+https://openalex.org/T11102,https://openalex.org/T13183,2,HVDC Systems and Fault Protection,Islanding Detection in Power Systems,Engineering,Engineering
+https://openalex.org/T11006,https://openalex.org/T11606,3,BIM and Construction Integration,Infrastructure Maintenance and Monitoring,Engineering,Engineering
+https://openalex.org/T11192,https://openalex.org/T10040,2,Underwater Vehicles and Communication Systems,Adaptive Control of Nonlinear Systems,Engineering,Engineering
+https://openalex.org/T10100,https://openalex.org/T10848,7,Metaheuristic Optimization Algorithms Research,Advanced Multi-Objective Optimization Algorithms,Computer Science,Computer Science
+https://openalex.org/T10100,https://openalex.org/T11975,5,Metaheuristic Optimization Algorithms Research,Evolutionary Algorithms and Applications,Computer Science,Computer Science
+https://openalex.org/T11023,https://openalex.org/T10784,3,Prosthetics and Rehabilitation Robotics,Muscle activation and electromyography studies,Engineering,Engineering
+https://openalex.org/T10228,https://openalex.org/T10223,11,Multilevel Inverters and Converters,Microgrid Control and Optimization,Engineering,Engineering
+https://openalex.org/T10228,https://openalex.org/T10504,7,Multilevel Inverters and Converters,Sensorless Control of Electric Motors,Engineering,Engineering
+https://openalex.org/T10627,https://openalex.org/T10036,3,Advanced Image and Video Retrieval Techniques,Advanced Neural Network Applications,Computer Science,Computer Science
+https://openalex.org/T10534,https://openalex.org/T11236,2,Structural Health Monitoring Techniques,Control Systems and Identification,Engineering,Engineering
+https://openalex.org/T11236,https://openalex.org/T10046,2,Control Systems and Identification,Stability and Control of Uncertain Systems,Engineering,Engineering
+https://openalex.org/T11236,https://openalex.org/T10040,5,Control Systems and Identification,Adaptive Control of Nonlinear Systems,Engineering,Engineering
+https://openalex.org/T11344,https://openalex.org/T10036,2,Traffic Prediction and Management Techniques,Advanced Neural Network Applications,Engineering,Computer Science
+https://openalex.org/T10388,https://openalex.org/T12357,4,Advanced Steganography and Watermarking Techniques,Digital Media Forensic Detection,Computer Science,Computer Science
+https://openalex.org/T10653,https://openalex.org/T10868,3,Robot Manipulation and Learning,Soft Robotics and Applications,Engineering,Engineering
+https://openalex.org/T10046,https://openalex.org/T10040,2,Stability and Control of Uncertain Systems,Adaptive Control of Nonlinear Systems,Engineering,Engineering
+https://openalex.org/T11615,https://openalex.org/T10586,2,Control and Dynamics of Mobile Robots,Robotic Path Planning Algorithms,Engineering,Computer Science
+https://openalex.org/T11615,https://openalex.org/T10040,4,Control and Dynamics of Mobile Robots,Adaptive Control of Nonlinear Systems,Engineering,Engineering
+https://openalex.org/T13183,https://openalex.org/T10223,2,Islanding Detection in Power Systems,Microgrid Control and Optimization,Engineering,Engineering
+https://openalex.org/T10040,https://openalex.org/T10586,3,Adaptive Control of Nonlinear Systems,Robotic Path Planning Algorithms,Engineering,Computer Science
+https://openalex.org/T10586,https://openalex.org/T10249,2,Robotic Path Planning Algorithms,Distributed Control Multi-Agent Systems,Computer Science,Computer Science
+https://openalex.org/T10848,https://openalex.org/T11975,5,Advanced Multi-Objective Optimization Algorithms,Evolutionary Algorithms and Applications,Computer Science,Computer Science

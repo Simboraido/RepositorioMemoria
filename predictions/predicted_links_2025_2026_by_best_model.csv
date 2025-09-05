@@ -1,0 +1,292 @@
+u,v,u_name,v_name,score
+https://openalex.org/T10320,https://openalex.org/T11307,Neural Networks and Applications,Domain Adaptation and Few-Shot Learning,1.0
+https://openalex.org/T10320,https://openalex.org/T12072,Neural Networks and Applications,Machine Learning and Algorithms,0.99999976
+https://openalex.org/T10637,https://openalex.org/T12676,Advanced Clustering Algorithms Research,Machine Learning and ELM,0.9999995
+https://openalex.org/T10057,https://openalex.org/T11307,Face and Expression Recognition,Domain Adaptation and Few-Shot Learning,0.99999845
+https://openalex.org/T12535,https://openalex.org/T12676,Machine Learning and Data Classification,Machine Learning and ELM,0.99999833
+https://openalex.org/T11512,https://openalex.org/T12072,Anomaly Detection Techniques and Applications,Machine Learning and Algorithms,0.9999981
+https://openalex.org/T10637,https://openalex.org/T12535,Advanced Clustering Algorithms Research,Machine Learning and Data Classification,0.9999956
+https://openalex.org/T10057,https://openalex.org/T12072,Face and Expression Recognition,Machine Learning and Algorithms,0.99999225
+https://openalex.org/T11270,https://openalex.org/T12676,Complex Systems and Time Series Analysis,Machine Learning and ELM,0.99999046
+https://openalex.org/T11512,https://openalex.org/T12676,Anomaly Detection Techniques and Applications,Machine Learning and ELM,0.99998784
+https://openalex.org/T10571,https://openalex.org/T11192,Robotic Mechanisms and Dynamics,Underwater Vehicles and Communication Systems,0.99998665
+https://openalex.org/T11270,https://openalex.org/T11512,Complex Systems and Time Series Analysis,Anomaly Detection Techniques and Applications,0.9999794
+https://openalex.org/T10025,https://openalex.org/T10026,Black Holes and Theoretical Physics,"Galaxies: Formation, Evolution, Phenomena",0.9999598
+https://openalex.org/T10320,https://openalex.org/T11326,Neural Networks and Applications,Stock Market Forecasting Methods,0.99993205
+https://openalex.org/T11270,https://openalex.org/T12535,Complex Systems and Time Series Analysis,Machine Learning and Data Classification,0.9999113
+https://openalex.org/T10711,https://openalex.org/T11512,Target Tracking and Data Fusion in Sensor Networks,Anomaly Detection Techniques and Applications,0.99990726
+https://openalex.org/T10410,https://openalex.org/T12535,COVID-19 epidemiological studies,Machine Learning and Data Classification,0.9999001
+https://openalex.org/T10057,https://openalex.org/T11512,Face and Expression Recognition,Anomaly Detection Techniques and Applications,0.9998908
+https://openalex.org/T11081,https://openalex.org/T11192,Advanced Control Systems Design,Underwater Vehicles and Communication Systems,0.99982136
+https://openalex.org/T11307,https://openalex.org/T11512,Domain Adaptation and Few-Shot Learning,Anomaly Detection Techniques and Applications,0.9998155
+https://openalex.org/T11133,https://openalex.org/T11192,UAV Applications and Optimization,Underwater Vehicles and Communication Systems,0.99975175
+https://openalex.org/T10012,https://openalex.org/T12254,Genetic diversity and population structure,Machine Learning in Bioinformatics,0.99967
+https://openalex.org/T10429,https://openalex.org/T12676,EEG and Brain-Computer Interfaces,Machine Learning and ELM,0.999608
+https://openalex.org/T10057,https://openalex.org/T10320,Face and Expression Recognition,Neural Networks and Applications,0.99957854
+https://openalex.org/T10429,https://openalex.org/T11512,EEG and Brain-Computer Interfaces,Anomaly Detection Techniques and Applications,0.9992009
+https://openalex.org/T10046,https://openalex.org/T11192,Stability and Control of Uncertain Systems,Underwater Vehicles and Communication Systems,0.9987839
+https://openalex.org/T10320,https://openalex.org/T10410,Neural Networks and Applications,COVID-19 epidemiological studies,0.99854726
+https://openalex.org/T10241,https://openalex.org/T10320,Functional Brain Connectivity Studies,Neural Networks and Applications,0.9960705
+https://openalex.org/T10215,https://openalex.org/T13643,Semantic Web and Ontologies,Artificial Intelligence in Law,0.9957783
+https://openalex.org/T10191,https://openalex.org/T11192,Robotics and Sensor-Based Localization,Underwater Vehicles and Communication Systems,0.993993
+https://openalex.org/T10538,https://openalex.org/T12676,Data Mining Algorithms and Applications,Machine Learning and ELM,0.98877525
+https://openalex.org/T10429,https://openalex.org/T12535,EEG and Brain-Computer Interfaces,Machine Learning and Data Classification,0.98848045
+https://openalex.org/T10688,https://openalex.org/T11343,Image and Signal Denoising Methods,Power Transformer Diagnostics and Insulation,0.98669875
+https://openalex.org/T11236,https://openalex.org/T12676,Control Systems and Identification,Machine Learning and ELM,0.9865654
+https://openalex.org/T10400,https://openalex.org/T12535,Network Security and Intrusion Detection,Machine Learning and Data Classification,0.98010993
+https://openalex.org/T10791,https://openalex.org/T11192,Advanced Control Systems Optimization,Underwater Vehicles and Communication Systems,0.9743422
+https://openalex.org/T11236,https://openalex.org/T11512,Control Systems and Identification,Anomaly Detection Techniques and Applications,0.97236943
+https://openalex.org/T12205,https://openalex.org/T12676,Time Series Analysis and Forecasting,Machine Learning and ELM,0.95475215
+https://openalex.org/T10791,https://openalex.org/T11512,Advanced Control Systems Optimization,Anomaly Detection Techniques and Applications,0.93556833
+https://openalex.org/T10029,https://openalex.org/T10320,Climate variability and models,Neural Networks and Applications,0.88998777
+https://openalex.org/T10688,https://openalex.org/T10775,Image and Signal Denoising Methods,Generative Adversarial Networks and Image Synthesis,0.8879144
+https://openalex.org/T10581,https://openalex.org/T12676,Neural dynamics and brain function,Machine Learning and ELM,0.8712917
+https://openalex.org/T10220,https://openalex.org/T11512,Machine Fault Diagnosis Techniques,Anomaly Detection Techniques and Applications,0.85886127
+https://openalex.org/T10917,https://openalex.org/T10972,Smart Grid Security and Resilience,Power Systems Fault Detection,0.78873837
+https://openalex.org/T10581,https://openalex.org/T11512,Neural dynamics and brain function,Anomaly Detection Techniques and Applications,0.7613347
+https://openalex.org/T10320,https://openalex.org/T11749,Neural Networks and Applications,Iterative Learning Control Systems,0.75925016
+https://openalex.org/T10538,https://openalex.org/T12535,Data Mining Algorithms and Applications,Machine Learning and Data Classification,0.7214783
+https://openalex.org/T10320,https://openalex.org/T12282,Neural Networks and Applications,Mineral Processing and Grinding,0.7162973
+https://openalex.org/T11236,https://openalex.org/T12535,Control Systems and Identification,Machine Learning and Data Classification,0.6789257
+https://openalex.org/T10181,https://openalex.org/T10664,Natural Language Processing Techniques,Sentiment Analysis and Opinion Mining,0.64849246
+https://openalex.org/T10504,https://openalex.org/T11222,Sensorless Control of Electric Motors,Magnetic Properties and Applications,0.60267377
+https://openalex.org/T10603,https://openalex.org/T10972,Smart Grid Energy Management,Power Systems Fault Detection,0.53233737
+https://openalex.org/T10220,https://openalex.org/T10320,Machine Fault Diagnosis Techniques,Neural Networks and Applications,0.40254197
+https://openalex.org/T12205,https://openalex.org/T12535,Time Series Analysis and Forecasting,Machine Learning and Data Classification,0.39363605
+https://openalex.org/T10571,https://openalex.org/T11133,Robotic Mechanisms and Dynamics,UAV Applications and Optimization,0.31249204
+https://openalex.org/T10361,https://openalex.org/T10972,Silicon Carbide Semiconductor Technologies,Power Systems Fault Detection,0.2901374
+https://openalex.org/T10029,https://openalex.org/T11326,Climate variability and models,Stock Market Forecasting Methods,0.27624455
+https://openalex.org/T11010,https://openalex.org/T13643,"Logic, Reasoning, and Knowledge",Artificial Intelligence in Law,0.24049875
+https://openalex.org/T10876,https://openalex.org/T12676,Fault Detection and Control Systems,Machine Learning and ELM,0.2375444
+https://openalex.org/T10876,https://openalex.org/T11343,Fault Detection and Control Systems,Power Transformer Diagnostics and Insulation,0.22932872
+https://openalex.org/T10223,https://openalex.org/T10972,Microgrid Control and Optimization,Power Systems Fault Detection,0.17850304
+https://openalex.org/T10581,https://openalex.org/T12535,Neural dynamics and brain function,Machine Learning and Data Classification,0.1619885
+https://openalex.org/T10052,https://openalex.org/T12422,Medical Image Segmentation Techniques,Radiomics and Machine Learning in Medical Imaging,0.13592571
+https://openalex.org/T10228,https://openalex.org/T10972,Multilevel Inverters and Converters,Power Systems Fault Detection,0.1299769
+https://openalex.org/T10320,https://openalex.org/T10784,Neural Networks and Applications,Muscle activation and electromyography studies,0.040760476
+https://openalex.org/T12549,https://openalex.org/T13114,Image and Object Detection Techniques,Image Processing Techniques and Applications,0.03647428
+https://openalex.org/T11261,https://openalex.org/T11513,Quantum chaos and dynamical systems,stochastic dynamics and bifurcation,0.03212092
+https://openalex.org/T11512,https://openalex.org/T12282,Anomaly Detection Techniques and Applications,Mineral Processing and Grinding,0.027725812
+https://openalex.org/T10361,https://openalex.org/T10504,Silicon Carbide Semiconductor Technologies,Sensorless Control of Electric Motors,0.023024013
+https://openalex.org/T10400,https://openalex.org/T10410,Network Security and Intrusion Detection,COVID-19 epidemiological studies,0.019597288
+https://openalex.org/T10320,https://openalex.org/T10711,Neural Networks and Applications,Target Tracking and Data Fusion in Sensor Networks,0.018059965
+https://openalex.org/T10571,https://openalex.org/T11615,Robotic Mechanisms and Dynamics,Control and Dynamics of Mobile Robots,0.015463561
+https://openalex.org/T10320,https://openalex.org/T13377,Neural Networks and Applications,Ecosystem dynamics and resilience,0.014659025
+https://openalex.org/T10223,https://openalex.org/T10504,Microgrid Control and Optimization,Sensorless Control of Electric Motors,0.013708973
+https://openalex.org/T10378,https://openalex.org/T10688,Advanced MRI Techniques and Applications,Image and Signal Denoising Methods,0.011652358
+https://openalex.org/T10876,https://openalex.org/T12535,Fault Detection and Control Systems,Machine Learning and Data Classification,0.009959675
+https://openalex.org/T11192,https://openalex.org/T11749,Underwater Vehicles and Communication Systems,Iterative Learning Control Systems,0.008295802
+https://openalex.org/T12422,https://openalex.org/T12874,Radiomics and Machine Learning in Medical Imaging,Digital Imaging for Blood Diseases,0.006392257
+https://openalex.org/T11192,https://openalex.org/T11615,Underwater Vehicles and Communication Systems,Control and Dynamics of Mobile Robots,0.0063550887
+https://openalex.org/T10640,https://openalex.org/T11227,Spectroscopy and Chemometric Analyses,Diabetic Foot Ulcer Assessment and Management,0.0061356495
+https://openalex.org/T10711,https://openalex.org/T11749,Target Tracking and Data Fusion in Sensor Networks,Iterative Learning Control Systems,0.0056133866
+https://openalex.org/T10711,https://openalex.org/T12282,Target Tracking and Data Fusion in Sensor Networks,Mineral Processing and Grinding,0.0052553103
+https://openalex.org/T11941,https://openalex.org/T13183,Power System Reliability and Maintenance,Islanding Detection in Power Systems,0.004669839
+https://openalex.org/T10378,https://openalex.org/T11304,Advanced MRI Techniques and Applications,Advanced Neuroimaging Techniques and Applications,0.0042387
+https://openalex.org/T10320,https://openalex.org/T10791,Neural Networks and Applications,Advanced Control Systems Optimization,0.0041336617
+https://openalex.org/T10917,https://openalex.org/T13183,Smart Grid Security and Resilience,Islanding Detection in Power Systems,0.0040802537
+https://openalex.org/T10740,https://openalex.org/T10972,Wind Turbine Control Systems,Power Systems Fault Detection,0.004046503
+https://openalex.org/T10241,https://openalex.org/T10500,Functional Brain Connectivity Studies,Sparse and Compressive Sensing Techniques,0.0037621385
+https://openalex.org/T10320,https://openalex.org/T10502,Neural Networks and Applications,Advanced Memory and Neural Computing,0.0035081063
+https://openalex.org/T10036,https://openalex.org/T10862,Advanced Neural Network Applications,AI in cancer detection,0.0029517454
+https://openalex.org/T10223,https://openalex.org/T10468,Microgrid Control and Optimization,Photovoltaic System Optimization Techniques,0.0029479433
+https://openalex.org/T10175,https://openalex.org/T10504,Advanced DC-DC Converters,Sensorless Control of Electric Motors,0.0024660937
+https://openalex.org/T10638,https://openalex.org/T12549,Optical measurement and interference techniques,Image and Object Detection Techniques,0.002316554
+https://openalex.org/T10320,https://openalex.org/T11707,Neural Networks and Applications,Gaze Tracking and Assistive Technology,0.001904343
+https://openalex.org/T10228,https://openalex.org/T10468,Multilevel Inverters and Converters,Photovoltaic System Optimization Techniques,0.0018593752
+https://openalex.org/T11017,https://openalex.org/T11513,Chaos-based Image/Signal Encryption,stochastic dynamics and bifurcation,0.0016037525
+https://openalex.org/T10191,https://openalex.org/T12549,Robotics and Sensor-Based Localization,Image and Object Detection Techniques,0.0015628969
+https://openalex.org/T10121,https://openalex.org/T10223,Building Energy and Comfort Optimization,Microgrid Control and Optimization,0.0014827373
+https://openalex.org/T12422,https://openalex.org/T12859,Radiomics and Machine Learning in Medical Imaging,Cell Image Analysis Techniques,0.0014457246
+https://openalex.org/T11133,https://openalex.org/T11615,UAV Applications and Optimization,Control and Dynamics of Mobile Robots,0.0013355509
+https://openalex.org/T10770,https://openalex.org/T11324,Soil Geostatistics and Mapping,Spectroscopy Techniques in Biomedical and Chemical Research,0.0012950974
+https://openalex.org/T11122,https://openalex.org/T14246,Online Learning and Analytics,E-Learning and Knowledge Management,0.0011823052
+https://openalex.org/T10036,https://openalex.org/T11775,Advanced Neural Network Applications,COVID-19 diagnosis using AI,0.0011081452
+https://openalex.org/T10361,https://openalex.org/T13183,Silicon Carbide Semiconductor Technologies,Islanding Detection in Power Systems,0.0010270067
+https://openalex.org/T11081,https://openalex.org/T11615,Advanced Control Systems Design,Control and Dynamics of Mobile Robots,0.0010083343
+https://openalex.org/T10775,https://openalex.org/T11569,Generative Adversarial Networks and Image Synthesis,Optical Coherence Tomography Applications,0.000925937
+https://openalex.org/T10040,https://openalex.org/T10504,Adaptive Control of Nonlinear Systems,Sensorless Control of Electric Motors,0.0008849638
+https://openalex.org/T10586,https://openalex.org/T10805,Robotic Path Planning Algorithms,Vehicle Dynamics and Control Systems,0.00088424317
+https://openalex.org/T11102,https://openalex.org/T11941,HVDC Systems and Fault Protection,Power System Reliability and Maintenance,0.00069186685
+https://openalex.org/T10228,https://openalex.org/T11749,Multilevel Inverters and Converters,Iterative Learning Control Systems,0.00064887706
+https://openalex.org/T10429,https://openalex.org/T11304,EEG and Brain-Computer Interfaces,Advanced Neuroimaging Techniques and Applications,0.00062579114
+https://openalex.org/T11105,https://openalex.org/T11448,Advanced Image Processing Techniques,Face recognition and analysis,0.0006088707
+https://openalex.org/T10223,https://openalex.org/T10768,Microgrid Control and Optimization,Electric Vehicles and Infrastructure,0.00059849134
+https://openalex.org/T10378,https://openalex.org/T12015,Advanced MRI Techniques and Applications,Photoacoustic and Ultrasonic Imaging,0.00054242375
+https://openalex.org/T11569,https://openalex.org/T13114,Optical Coherence Tomography Applications,Image Processing Techniques and Applications,0.00049704645
+https://openalex.org/T11105,https://openalex.org/T12015,Advanced Image Processing Techniques,Photoacoustic and Ultrasonic Imaging,0.00041037335
+https://openalex.org/T10040,https://openalex.org/T11133,Adaptive Control of Nonlinear Systems,UAV Applications and Optimization,0.00040362295
+https://openalex.org/T10223,https://openalex.org/T10361,Microgrid Control and Optimization,Silicon Carbide Semiconductor Technologies,0.00040286756
+https://openalex.org/T10768,https://openalex.org/T13183,Electric Vehicles and Infrastructure,Islanding Detection in Power Systems,0.00038810534
+https://openalex.org/T11343,https://openalex.org/T12169,Power Transformer Diagnostics and Insulation,Non-Destructive Testing Techniques,0.00037951136
+https://openalex.org/T11372,https://openalex.org/T11615,Hydraulic and Pneumatic Systems,Control and Dynamics of Mobile Robots,0.0003747531
+https://openalex.org/T11615,https://openalex.org/T11749,Control and Dynamics of Mobile Robots,Iterative Learning Control Systems,0.0003683418
+https://openalex.org/T10454,https://openalex.org/T13183,Optimal Power Flow Distribution,Islanding Detection in Power Systems,0.00035218988
+https://openalex.org/T10191,https://openalex.org/T11133,Robotics and Sensor-Based Localization,UAV Applications and Optimization,0.00031490237
+https://openalex.org/T10868,https://openalex.org/T11023,Soft Robotics and Applications,Prosthetics and Rehabilitation Robotics,0.00031301338
+https://openalex.org/T10586,https://openalex.org/T11749,Robotic Path Planning Algorithms,Iterative Learning Control Systems,0.00030231467
+https://openalex.org/T10046,https://openalex.org/T11615,Stability and Control of Uncertain Systems,Control and Dynamics of Mobile Robots,0.00030175663
+https://openalex.org/T10504,https://openalex.org/T13183,Sensorless Control of Electric Motors,Islanding Detection in Power Systems,0.00028882362
+https://openalex.org/T10191,https://openalex.org/T13114,Robotics and Sensor-Based Localization,Image Processing Techniques and Applications,0.0002882061
+https://openalex.org/T10175,https://openalex.org/T13183,Advanced DC-DC Converters,Islanding Detection in Power Systems,0.00026718434
+https://openalex.org/T10305,https://openalex.org/T11941,Power System Optimization and Stability,Power System Reliability and Maintenance,0.00026705267
+https://openalex.org/T10223,https://openalex.org/T11954,Microgrid Control and Optimization,Energy Efficiency and Management,0.00026145767
+https://openalex.org/T10378,https://openalex.org/T11739,Advanced MRI Techniques and Applications,Microwave Imaging and Scattering Analysis,0.00025539915
+https://openalex.org/T10040,https://openalex.org/T10805,Adaptive Control of Nonlinear Systems,Vehicle Dynamics and Control Systems,0.00025063512
+https://openalex.org/T10711,https://openalex.org/T10791,Target Tracking and Data Fusion in Sensor Networks,Advanced Control Systems Optimization,0.00024635988
+https://openalex.org/T10586,https://openalex.org/T11394,Robotic Path Planning Algorithms,Dynamics and Control of Mechanical Systems,0.00023742307
+https://openalex.org/T10429,https://openalex.org/T11270,EEG and Brain-Computer Interfaces,Complex Systems and Time Series Analysis,0.00023697867
+https://openalex.org/T10044,https://openalex.org/T10836,Protein Structure and Dynamics,Metabolomics and Mass Spectrometry Studies,0.00021946862
+https://openalex.org/T10454,https://openalex.org/T10768,Optimal Power Flow Distribution,Electric Vehicles and Infrastructure,0.00019992022
+https://openalex.org/T11227,https://openalex.org/T12153,Diabetic Foot Ulcer Assessment and Management,Advanced Optical Sensing Technologies,0.00019950893
+https://openalex.org/T10241,https://openalex.org/T10784,Functional Brain Connectivity Studies,Muscle activation and electromyography studies,0.00019716096
+https://openalex.org/T10228,https://openalex.org/T10454,Multilevel Inverters and Converters,Optimal Power Flow Distribution,0.00018968232
+https://openalex.org/T10124,https://openalex.org/T12702,Prostate Cancer Diagnosis and Treatment,Brain Tumor Detection and Classification,0.00017904468
+https://openalex.org/T10046,https://openalex.org/T11749,Stability and Control of Uncertain Systems,Iterative Learning Control Systems,0.00017848425
+https://openalex.org/T10305,https://openalex.org/T13183,Power System Optimization and Stability,Islanding Detection in Power Systems,0.00017819465
+https://openalex.org/T11324,https://openalex.org/T12015,Spectroscopy Techniques in Biomedical and Chemical Research,Photoacoustic and Ultrasonic Imaging,0.00013767972
+https://openalex.org/T10046,https://openalex.org/T11261,Stability and Control of Uncertain Systems,Quantum chaos and dynamical systems,0.00013685484
+https://openalex.org/T10429,https://openalex.org/T11023,EEG and Brain-Computer Interfaces,Prosthetics and Rehabilitation Robotics,0.00013326146
+https://openalex.org/T11739,https://openalex.org/T12015,Microwave Imaging and Scattering Analysis,Photoacoustic and Ultrasonic Imaging,0.00013113617
+https://openalex.org/T11602,https://openalex.org/T11749,Magnetic Bearings and Levitation Dynamics,Iterative Learning Control Systems,0.0001256284
+https://openalex.org/T10244,https://openalex.org/T12162,Chaos control and synchronization,Cellular Automata and Applications,0.00011874527
+https://openalex.org/T11447,https://openalex.org/T12015,Blind Source Separation Techniques,Photoacoustic and Ultrasonic Imaging,0.000112706315
+https://openalex.org/T10124,https://openalex.org/T10862,Prostate Cancer Diagnosis and Treatment,AI in cancer detection,0.00011234804
+https://openalex.org/T11236,https://openalex.org/T12282,Control Systems and Identification,Mineral Processing and Grinding,0.000109099274
+https://openalex.org/T10378,https://openalex.org/T10429,Advanced MRI Techniques and Applications,EEG and Brain-Computer Interfaces,0.000105511135
+https://openalex.org/T11017,https://openalex.org/T11187,Chaos-based Image/Signal Encryption,Nonlinear Dynamics and Pattern Formation,0.000104416744
+https://openalex.org/T10320,https://openalex.org/T10400,Neural Networks and Applications,Network Security and Intrusion Detection,0.00010337472
+https://openalex.org/T10191,https://openalex.org/T11615,Robotics and Sensor-Based Localization,Control and Dynamics of Mobile Robots,0.00010325649
+https://openalex.org/T10175,https://openalex.org/T10361,Advanced DC-DC Converters,Silicon Carbide Semiconductor Technologies,0.00010207427
+https://openalex.org/T12338,https://openalex.org/T14246,Digital literacy in education,E-Learning and Knowledge Management,9.5692645e-05
+https://openalex.org/T10768,https://openalex.org/T11954,Electric Vehicles and Infrastructure,Energy Efficiency and Management,9.377155e-05
+https://openalex.org/T10228,https://openalex.org/T11602,Multilevel Inverters and Converters,Magnetic Bearings and Levitation Dynamics,9.2261835e-05
+https://openalex.org/T10791,https://openalex.org/T11615,Advanced Control Systems Optimization,Control and Dynamics of Mobile Robots,9.156644e-05
+https://openalex.org/T10586,https://openalex.org/T11081,Robotic Path Planning Algorithms,Advanced Control Systems Design,8.988824e-05
+https://openalex.org/T10378,https://openalex.org/T11996,Advanced MRI Techniques and Applications,Random lasers and scattering media,8.809837e-05
+https://openalex.org/T10454,https://openalex.org/T11954,Optimal Power Flow Distribution,Energy Efficiency and Management,8.7317785e-05
+https://openalex.org/T11017,https://openalex.org/T11261,Chaos-based Image/Signal Encryption,Quantum chaos and dynamical systems,8.696421e-05
+https://openalex.org/T10429,https://openalex.org/T10510,EEG and Brain-Computer Interfaces,Stroke Rehabilitation and Recovery,8.20236e-05
+https://openalex.org/T10429,https://openalex.org/T10868,EEG and Brain-Computer Interfaces,Soft Robotics and Applications,7.823313e-05
+https://openalex.org/T10228,https://openalex.org/T10278,Multilevel Inverters and Converters,Electric Motor Design and Analysis,7.772355e-05
+https://openalex.org/T10791,https://openalex.org/T12282,Advanced Control Systems Optimization,Mineral Processing and Grinding,7.671219e-05
+https://openalex.org/T10220,https://openalex.org/T10500,Machine Fault Diagnosis Techniques,Sparse and Compressive Sensing Techniques,7.541458e-05
+https://openalex.org/T10504,https://openalex.org/T11081,Sensorless Control of Electric Motors,Advanced Control Systems Design,7.482981e-05
+https://openalex.org/T10175,https://openalex.org/T10454,Advanced DC-DC Converters,Optimal Power Flow Distribution,6.985412e-05
+https://openalex.org/T10040,https://openalex.org/T11261,Adaptive Control of Nonlinear Systems,Quantum chaos and dynamical systems,6.594069e-05
+https://openalex.org/T10121,https://openalex.org/T13183,Building Energy and Comfort Optimization,Islanding Detection in Power Systems,6.499004e-05
+https://openalex.org/T10241,https://openalex.org/T10502,Functional Brain Connectivity Studies,Advanced Memory and Neural Computing,6.490878e-05
+https://openalex.org/T11512,https://openalex.org/T12205,Anomaly Detection Techniques and Applications,Time Series Analysis and Forecasting,6.389881e-05
+https://openalex.org/T10688,https://openalex.org/T12169,Image and Signal Denoising Methods,Non-Destructive Testing Techniques,6.295664e-05
+https://openalex.org/T10586,https://openalex.org/T11525,Robotic Path Planning Algorithms,Piezoelectric Actuators and Control,5.9678703e-05
+https://openalex.org/T11447,https://openalex.org/T11739,Blind Source Separation Techniques,Microwave Imaging and Scattering Analysis,5.3055493e-05
+https://openalex.org/T10046,https://openalex.org/T11081,Stability and Control of Uncertain Systems,Advanced Control Systems Design,5.2850777e-05
+https://openalex.org/T10026,https://openalex.org/T10463,"Galaxies: Formation, Evolution, Phenomena",Pulsars and Gravitational Waves Research,5.2645348e-05
+https://openalex.org/T11236,https://openalex.org/T11270,Control Systems and Identification,Complex Systems and Time Series Analysis,4.8995564e-05
+https://openalex.org/T11270,https://openalex.org/T12205,Complex Systems and Time Series Analysis,Time Series Analysis and Forecasting,4.7843023e-05
+https://openalex.org/T10540,https://openalex.org/T10638,Advanced Fluorescence Microscopy Techniques,Optical measurement and interference techniques,4.647156e-05
+https://openalex.org/T10124,https://openalex.org/T11775,Prostate Cancer Diagnosis and Treatment,COVID-19 diagnosis using AI,4.5231885e-05
+https://openalex.org/T10640,https://openalex.org/T12153,Spectroscopy and Chemometric Analyses,Advanced Optical Sensing Technologies,4.0829033e-05
+https://openalex.org/T10223,https://openalex.org/T10917,Microgrid Control and Optimization,Smart Grid Security and Resilience,3.9781127e-05
+https://openalex.org/T10361,https://openalex.org/T10917,Silicon Carbide Semiconductor Technologies,Smart Grid Security and Resilience,3.8752645e-05
+https://openalex.org/T10121,https://openalex.org/T10768,Building Energy and Comfort Optimization,Electric Vehicles and Infrastructure,3.6886948e-05
+https://openalex.org/T10378,https://openalex.org/T11447,Advanced MRI Techniques and Applications,Blind Source Separation Techniques,3.5902565e-05
+https://openalex.org/T10241,https://openalex.org/T11707,Functional Brain Connectivity Studies,Gaze Tracking and Assistive Technology,3.545227e-05
+https://openalex.org/T11996,https://openalex.org/T12015,Random lasers and scattering media,Photoacoustic and Ultrasonic Imaging,3.252356e-05
+https://openalex.org/T10278,https://openalex.org/T11749,Electric Motor Design and Analysis,Iterative Learning Control Systems,2.9708195e-05
+https://openalex.org/T10688,https://openalex.org/T12153,Image and Signal Denoising Methods,Advanced Optical Sensing Technologies,2.9125602e-05
+https://openalex.org/T10228,https://openalex.org/T10917,Multilevel Inverters and Converters,Smart Grid Security and Resilience,2.736483e-05
+https://openalex.org/T10586,https://openalex.org/T10791,Robotic Path Planning Algorithms,Advanced Control Systems Optimization,2.734949e-05
+https://openalex.org/T11105,https://openalex.org/T11447,Advanced Image Processing Techniques,Blind Source Separation Techniques,2.7158922e-05
+https://openalex.org/T10095,https://openalex.org/T13126,Cosmology and Gravitation Theories,Scientific Research and Discoveries,2.6170794e-05
+https://openalex.org/T11775,https://openalex.org/T12702,COVID-19 diagnosis using AI,Brain Tumor Detection and Classification,2.480367e-05
+https://openalex.org/T10220,https://openalex.org/T12282,Machine Fault Diagnosis Techniques,Mineral Processing and Grinding,2.4154544e-05
+https://openalex.org/T10504,https://openalex.org/T10791,Sensorless Control of Electric Motors,Advanced Control Systems Optimization,2.276758e-05
+https://openalex.org/T11324,https://openalex.org/T11996,Spectroscopy Techniques in Biomedical and Chemical Research,Random lasers and scattering media,2.2353854e-05
+https://openalex.org/T11739,https://openalex.org/T11996,Microwave Imaging and Scattering Analysis,Random lasers and scattering media,2.1291322e-05
+https://openalex.org/T10531,https://openalex.org/T11569,Advanced Vision and Imaging,Optical Coherence Tomography Applications,2.018625e-05
+https://openalex.org/T10688,https://openalex.org/T11739,Image and Signal Denoising Methods,Microwave Imaging and Scattering Analysis,1.9912946e-05
+https://openalex.org/T11324,https://openalex.org/T11667,Spectroscopy Techniques in Biomedical and Chemical Research,Advanced Chemical Sensor Technologies,1.9304058e-05
+https://openalex.org/T10410,https://openalex.org/T10876,COVID-19 epidemiological studies,Fault Detection and Control Systems,1.9112269e-05
+https://openalex.org/T10191,https://openalex.org/T10638,Robotics and Sensor-Based Localization,Optical measurement and interference techniques,1.9076197e-05
+https://openalex.org/T11447,https://openalex.org/T11996,Blind Source Separation Techniques,Random lasers and scattering media,1.829876e-05
+https://openalex.org/T10648,https://openalex.org/T11211,Virtual Reality Applications and Impacts,3D Surveying and Cultural Heritage,1.8193954e-05
+https://openalex.org/T10121,https://openalex.org/T10454,Building Energy and Comfort Optimization,Optimal Power Flow Distribution,1.6988792e-05
+https://openalex.org/T10046,https://openalex.org/T10791,Stability and Control of Uncertain Systems,Advanced Control Systems Optimization,1.6080032e-05
+https://openalex.org/T10502,https://openalex.org/T10784,Advanced Memory and Neural Computing,Muscle activation and electromyography studies,1.5772646e-05
+https://openalex.org/T11394,https://openalex.org/T11525,Dynamics and Control of Mechanical Systems,Piezoelectric Actuators and Control,1.4920926e-05
+https://openalex.org/T10040,https://openalex.org/T11110,Adaptive Control of Nonlinear Systems,Stability and Controllability of Differential Equations,1.4844397e-05
+https://openalex.org/T10052,https://openalex.org/T10124,Medical Image Segmentation Techniques,Prostate Cancer Diagnosis and Treatment,1.300476e-05
+https://openalex.org/T10228,https://openalex.org/T10603,Multilevel Inverters and Converters,Smart Grid Energy Management,1.2482289e-05
+https://openalex.org/T10531,https://openalex.org/T10586,Advanced Vision and Imaging,Robotic Path Planning Algorithms,1.1492701e-05
+https://openalex.org/T10688,https://openalex.org/T11569,Image and Signal Denoising Methods,Optical Coherence Tomography Applications,1.0700019e-05
+https://openalex.org/T10784,https://openalex.org/T11707,Muscle activation and electromyography studies,Gaze Tracking and Assistive Technology,1.0238086e-05
+https://openalex.org/T10500,https://openalex.org/T12153,Sparse and Compressive Sensing Techniques,Advanced Optical Sensing Technologies,9.371944e-06
+https://openalex.org/T10305,https://openalex.org/T10680,Power System Optimization and Stability,Wind Energy Research and Development,9.09199e-06
+https://openalex.org/T10052,https://openalex.org/T12702,Medical Image Segmentation Techniques,Brain Tumor Detection and Classification,8.8517645e-06
+https://openalex.org/T10876,https://openalex.org/T11749,Fault Detection and Control Systems,Iterative Learning Control Systems,7.8782405e-06
+https://openalex.org/T10531,https://openalex.org/T11897,Advanced Vision and Imaging,Digital Holography and Microscopy,7.874477e-06
+https://openalex.org/T10581,https://openalex.org/T11270,Neural dynamics and brain function,Complex Systems and Time Series Analysis,7.5840803e-06
+https://openalex.org/T10688,https://openalex.org/T11996,Image and Signal Denoising Methods,Random lasers and scattering media,6.8678023e-06
+https://openalex.org/T10510,https://openalex.org/T10868,Stroke Rehabilitation and Recovery,Soft Robotics and Applications,6.1354267e-06
+https://openalex.org/T10603,https://openalex.org/T11102,Smart Grid Energy Management,HVDC Systems and Fault Protection,5.6053073e-06
+https://openalex.org/T10046,https://openalex.org/T10586,Stability and Control of Uncertain Systems,Robotic Path Planning Algorithms,5.5076266e-06
+https://openalex.org/T11147,https://openalex.org/T13083,Misinformation and Its Impacts,Advanced Text Analysis Techniques,5.442491e-06
+https://openalex.org/T10876,https://openalex.org/T11270,Fault Detection and Control Systems,Complex Systems and Time Series Analysis,5.0318226e-06
+https://openalex.org/T11954,https://openalex.org/T13183,Energy Efficiency and Management,Islanding Detection in Power Systems,4.9708533e-06
+https://openalex.org/T10175,https://openalex.org/T10603,Advanced DC-DC Converters,Smart Grid Energy Management,4.596325e-06
+https://openalex.org/T10429,https://openalex.org/T12205,EEG and Brain-Computer Interfaces,Time Series Analysis and Forecasting,4.5073125e-06
+https://openalex.org/T10220,https://openalex.org/T10711,Machine Fault Diagnosis Techniques,Target Tracking and Data Fusion in Sensor Networks,4.2833526e-06
+https://openalex.org/T10862,https://openalex.org/T12702,AI in cancer detection,Brain Tumor Detection and Classification,4.2321426e-06
+https://openalex.org/T11326,https://openalex.org/T13377,Stock Market Forecasting Methods,Ecosystem dynamics and resilience,4.2316865e-06
+https://openalex.org/T11081,https://openalex.org/T11236,Advanced Control Systems Design,Control Systems and Identification,4.1905505e-06
+https://openalex.org/T10241,https://openalex.org/T10581,Functional Brain Connectivity Studies,Neural dynamics and brain function,3.6746026e-06
+https://openalex.org/T10220,https://openalex.org/T12015,Machine Fault Diagnosis Techniques,Photoacoustic and Ultrasonic Imaging,3.6534448e-06
+https://openalex.org/T11192,https://openalex.org/T12772,Underwater Vehicles and Communication Systems,Control and Stability of Dynamical Systems,3.3758831e-06
+https://openalex.org/T11749,https://openalex.org/T12772,Iterative Learning Control Systems,Control and Stability of Dynamical Systems,3.2180083e-06
+https://openalex.org/T10502,https://openalex.org/T11707,Advanced Memory and Neural Computing,Gaze Tracking and Assistive Technology,2.8357158e-06
+https://openalex.org/T10581,https://openalex.org/T10784,Neural dynamics and brain function,Muscle activation and electromyography studies,2.7536544e-06
+https://openalex.org/T10400,https://openalex.org/T10876,Network Security and Intrusion Detection,Fault Detection and Control Systems,2.6534397e-06
+https://openalex.org/T10429,https://openalex.org/T11236,EEG and Brain-Computer Interfaces,Control Systems and Identification,2.6158395e-06
+https://openalex.org/T10429,https://openalex.org/T10876,EEG and Brain-Computer Interfaces,Fault Detection and Control Systems,2.5228603e-06
+https://openalex.org/T10876,https://openalex.org/T12169,Fault Detection and Control Systems,Non-Destructive Testing Techniques,2.5222732e-06
+https://openalex.org/T10876,https://openalex.org/T11081,Fault Detection and Control Systems,Advanced Control Systems Design,2.3419814e-06
+https://openalex.org/T11569,https://openalex.org/T11897,Optical Coherence Tomography Applications,Digital Holography and Microscopy,2.2270158e-06
+https://openalex.org/T10040,https://openalex.org/T10571,Adaptive Control of Nonlinear Systems,Robotic Mechanisms and Dynamics,1.9875843e-06
+https://openalex.org/T10454,https://openalex.org/T11102,Optimal Power Flow Distribution,HVDC Systems and Fault Protection,1.8366327e-06
+https://openalex.org/T10504,https://openalex.org/T11236,Sensorless Control of Electric Motors,Control Systems and Identification,1.774395e-06
+https://openalex.org/T10540,https://openalex.org/T11105,Advanced Fluorescence Microscopy Techniques,Advanced Image Processing Techniques,1.6708722e-06
+https://openalex.org/T10220,https://openalex.org/T10791,Machine Fault Diagnosis Techniques,Advanced Control Systems Optimization,1.5360082e-06
+https://openalex.org/T10504,https://openalex.org/T11102,Sensorless Control of Electric Motors,HVDC Systems and Fault Protection,1.4669602e-06
+https://openalex.org/T10638,https://openalex.org/T11105,Optical measurement and interference techniques,Advanced Image Processing Techniques,1.4431514e-06
+https://openalex.org/T10191,https://openalex.org/T10571,Robotics and Sensor-Based Localization,Robotic Mechanisms and Dynamics,1.4113621e-06
+https://openalex.org/T10175,https://openalex.org/T11102,Advanced DC-DC Converters,HVDC Systems and Fault Protection,1.39322e-06
+https://openalex.org/T10688,https://openalex.org/T10876,Image and Signal Denoising Methods,Fault Detection and Control Systems,1.3368524e-06
+https://openalex.org/T10533,https://openalex.org/T12395,Teaching and Learning Programming,Educational Innovations and Technology,1.186708e-06
+https://openalex.org/T10862,https://openalex.org/T11775,AI in cancer detection,COVID-19 diagnosis using AI,1.0690234e-06
+https://openalex.org/T10040,https://openalex.org/T10191,Adaptive Control of Nonlinear Systems,Robotics and Sensor-Based Localization,9.978211e-07
+https://openalex.org/T11236,https://openalex.org/T12205,Control Systems and Identification,Time Series Analysis and Forecasting,9.3171843e-07
+https://openalex.org/T10305,https://openalex.org/T11102,Power System Optimization and Stability,HVDC Systems and Fault Protection,9.2910534e-07
+https://openalex.org/T10500,https://openalex.org/T11105,Sparse and Compressive Sensing Techniques,Advanced Image Processing Techniques,7.1349785e-07
+https://openalex.org/T11081,https://openalex.org/T12772,Advanced Control Systems Design,Control and Stability of Dynamical Systems,7.109643e-07
+https://openalex.org/T10908,https://openalex.org/T12748,Analytical Chemistry and Chromatography,Molecular spectroscopy and chirality,6.939486e-07
+https://openalex.org/T10244,https://openalex.org/T12772,Chaos control and synchronization,Control and Stability of Dynamical Systems,6.717071e-07
+https://openalex.org/T10770,https://openalex.org/T11667,Soil Geostatistics and Mapping,Advanced Chemical Sensor Technologies,6.184953e-07
+https://openalex.org/T10040,https://openalex.org/T11236,Adaptive Control of Nonlinear Systems,Control Systems and Identification,6.037825e-07
+https://openalex.org/T10040,https://openalex.org/T10876,Adaptive Control of Nonlinear Systems,Fault Detection and Control Systems,5.8232e-07
+https://openalex.org/T10249,https://openalex.org/T10586,Distributed Control Multi-Agent Systems,Robotic Path Planning Algorithms,5.396856e-07
+https://openalex.org/T10095,https://openalex.org/T12917,Cosmology and Gravitation Theories,Astronomy and Astrophysical Research,5.300563e-07
+https://openalex.org/T10581,https://openalex.org/T11707,Neural dynamics and brain function,Gaze Tracking and Assistive Technology,4.9506576e-07
+https://openalex.org/T10028,https://openalex.org/T11147,Topic Modeling,Misinformation and Its Impacts,4.6116256e-07
+https://openalex.org/T11615,https://openalex.org/T12772,Control and Dynamics of Mobile Robots,Control and Stability of Dynamical Systems,4.2054452e-07
+https://openalex.org/T10586,https://openalex.org/T12772,Robotic Path Planning Algorithms,Control and Stability of Dynamical Systems,3.6162635e-07
+https://openalex.org/T11187,https://openalex.org/T12772,Nonlinear Dynamics and Pattern Formation,Control and Stability of Dynamical Systems,2.825523e-07
+https://openalex.org/T10220,https://openalex.org/T11447,Machine Fault Diagnosis Techniques,Blind Source Separation Techniques,2.4169637e-07
+https://openalex.org/T10220,https://openalex.org/T11105,Machine Fault Diagnosis Techniques,Advanced Image Processing Techniques,1.9149685e-07
+https://openalex.org/T10581,https://openalex.org/T12205,Neural dynamics and brain function,Time Series Analysis and Forecasting,1.4421606e-07
+https://openalex.org/T11110,https://openalex.org/T12772,Stability and Controllability of Differential Equations,Control and Stability of Dynamical Systems,1.298038e-07
+https://openalex.org/T10220,https://openalex.org/T11236,Machine Fault Diagnosis Techniques,Control Systems and Identification,1.197066e-07
+https://openalex.org/T10876,https://openalex.org/T12205,Fault Detection and Control Systems,Time Series Analysis and Forecasting,9.5682935e-08
+https://openalex.org/T10581,https://openalex.org/T11236,Neural dynamics and brain function,Control Systems and Identification,8.3696214e-08
+https://openalex.org/T10581,https://openalex.org/T10876,Neural dynamics and brain function,Fault Detection and Control Systems,8.0721094e-08
+https://openalex.org/T10791,https://openalex.org/T12772,Advanced Control Systems Optimization,Control and Stability of Dynamical Systems,6.45032e-08

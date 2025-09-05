@@ -1,0 +1,14 @@
+{
+  "period_pair": "2020-2021_to_2022-2023",
+  "algorithm": "jaccard",
+  "threshold": -0.16666666666666666,
+  "auc_roc": 0.5950226244343891,
+  "f1": 0.5555555555555556,
+  "task": "dissolution",
+  "confusion_matrix": {
+    "tn": 17,
+    "fp": 9,
+    "fn": 7,
+    "tp": 10
+  }
+}

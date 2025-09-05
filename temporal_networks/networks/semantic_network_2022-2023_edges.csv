@@ -1,0 +1,203 @@
+source,target,weight,source_name,target_name,source_field,target_field
+https://openalex.org/T10531,https://openalex.org/T12549,3,Advanced Vision and Imaging,Image and Object Detection Techniques,Computer Science,Computer Science
+https://openalex.org/T10531,https://openalex.org/T13114,3,Advanced Vision and Imaging,Image Processing Techniques and Applications,Computer Science,Engineering
+https://openalex.org/T10531,https://openalex.org/T10638,2,Advanced Vision and Imaging,Optical measurement and interference techniques,Computer Science,Computer Science
+https://openalex.org/T10531,https://openalex.org/T10191,3,Advanced Vision and Imaging,Robotics and Sensor-Based Localization,Computer Science,Engineering
+https://openalex.org/T11996,https://openalex.org/T12153,2,Random lasers and scattering media,Advanced Optical Sensing Technologies,Physics and Astronomy,Physics and Astronomy
+https://openalex.org/T11996,https://openalex.org/T10500,3,Random lasers and scattering media,Sparse and Compressive Sensing Techniques,Physics and Astronomy,Engineering
+https://openalex.org/T10454,https://openalex.org/T10603,2,Optimal Power Flow Distribution,Smart Grid Energy Management,Engineering,Engineering
+https://openalex.org/T10454,https://openalex.org/T10223,2,Optimal Power Flow Distribution,Microgrid Control and Optimization,Engineering,Engineering
+https://openalex.org/T10862,https://openalex.org/T12422,5,AI in cancer detection,Radiomics and Machine Learning in Medical Imaging,Computer Science,Medicine
+https://openalex.org/T10862,https://openalex.org/T12874,3,AI in cancer detection,Digital Imaging for Blood Diseases,Computer Science,Computer Science
+https://openalex.org/T10862,https://openalex.org/T12859,3,AI in cancer detection,Cell Image Analysis Techniques,Computer Science,"Biochemistry, Genetics and Molecular Biology"
+https://openalex.org/T10410,https://openalex.org/T11512,2,COVID-19 epidemiological studies,Anomaly Detection Techniques and Applications,Mathematics,Computer Science
+https://openalex.org/T11707,https://openalex.org/T10429,2,Gaze Tracking and Assistive Technology,EEG and Brain-Computer Interfaces,Computer Science,Neuroscience
+https://openalex.org/T10029,https://openalex.org/T13377,2,Climate variability and models,Ecosystem dynamics and resilience,Environmental Science,Environmental Science
+https://openalex.org/T10029,https://openalex.org/T11270,2,Climate variability and models,Complex Systems and Time Series Analysis,Environmental Science,"Economics, Econometrics and Finance"
+https://openalex.org/T11372,https://openalex.org/T10805,3,Hydraulic and Pneumatic Systems,Vehicle Dynamics and Control Systems,Engineering,Engineering
+https://openalex.org/T10124,https://openalex.org/T12422,2,Prostate Cancer Diagnosis and Treatment,Radiomics and Machine Learning in Medical Imaging,Medicine,Medicine
+https://openalex.org/T10124,https://openalex.org/T10036,2,Prostate Cancer Diagnosis and Treatment,Advanced Neural Network Applications,Medicine,Computer Science
+https://openalex.org/T11394,https://openalex.org/T10571,2,Dynamics and Control of Mechanical Systems,Robotic Mechanisms and Dynamics,Engineering,Engineering
+https://openalex.org/T11739,https://openalex.org/T10500,2,Microwave Imaging and Scattering Analysis,Sparse and Compressive Sensing Techniques,Engineering,Engineering
+https://openalex.org/T10711,https://openalex.org/T11236,2,Target Tracking and Data Fusion in Sensor Networks,Control Systems and Identification,Computer Science,Engineering
+https://openalex.org/T10711,https://openalex.org/T10876,2,Target Tracking and Data Fusion in Sensor Networks,Fault Detection and Control Systems,Computer Science,Engineering
+https://openalex.org/T10215,https://openalex.org/T11010,3,Semantic Web and Ontologies,"Logic, Reasoning, and Knowledge",Computer Science,Computer Science
+https://openalex.org/T10215,https://openalex.org/T10456,3,Semantic Web and Ontologies,Multi-Agent Systems and Negotiation,Computer Science,Computer Science
+https://openalex.org/T10298,https://openalex.org/T10698,3,Urban Transport and Accessibility,Transportation Planning and Optimization,Social Sciences,Social Sciences
+https://openalex.org/T10361,https://openalex.org/T11102,2,Silicon Carbide Semiconductor Technologies,HVDC Systems and Fault Protection,Engineering,Engineering
+https://openalex.org/T10361,https://openalex.org/T10228,2,Silicon Carbide Semiconductor Technologies,Multilevel Inverters and Converters,Engineering,Engineering
+https://openalex.org/T10468,https://openalex.org/T10175,2,Photovoltaic System Optimization Techniques,Advanced DC-DC Converters,Energy,Engineering
+https://openalex.org/T11520,https://openalex.org/T12261,2,Advanced Thermodynamics and Statistical Mechanics,Statistical Mechanics and Entropy,Physics and Astronomy,Physics and Astronomy
+https://openalex.org/T10278,https://openalex.org/T11602,5,Electric Motor Design and Analysis,Magnetic Bearings and Levitation Dynamics,Engineering,Engineering
+https://openalex.org/T10278,https://openalex.org/T10504,4,Electric Motor Design and Analysis,Sensorless Control of Electric Motors,Engineering,Engineering
+https://openalex.org/T10278,https://openalex.org/T11222,4,Electric Motor Design and Analysis,Magnetic Properties and Applications,Engineering,Materials Science
+https://openalex.org/T10775,https://openalex.org/T11448,2,Generative Adversarial Networks and Image Synthesis,Face recognition and analysis,Computer Science,Computer Science
+https://openalex.org/T10775,https://openalex.org/T11105,2,Generative Adversarial Networks and Image Synthesis,Advanced Image Processing Techniques,Computer Science,Computer Science
+https://openalex.org/T10005,https://openalex.org/T10487,2,Ecology and Vegetation Dynamics Studies,Plant and animal studies,Environmental Science,Agricultural and Biological Sciences
+https://openalex.org/T11749,https://openalex.org/T10791,6,Iterative Learning Control Systems,Advanced Control Systems Optimization,Engineering,Engineering
+https://openalex.org/T11749,https://openalex.org/T10504,2,Iterative Learning Control Systems,Sensorless Control of Electric Motors,Engineering,Engineering
+https://openalex.org/T11749,https://openalex.org/T11081,2,Iterative Learning Control Systems,Advanced Control Systems Design,Engineering,Engineering
+https://openalex.org/T11749,https://openalex.org/T11236,2,Iterative Learning Control Systems,Control Systems and Identification,Engineering,Engineering
+https://openalex.org/T11749,https://openalex.org/T10040,5,Iterative Learning Control Systems,Adaptive Control of Nonlinear Systems,Engineering,Engineering
+https://openalex.org/T11192,https://openalex.org/T10586,4,Underwater Vehicles and Communication Systems,Robotic Path Planning Algorithms,Engineering,Computer Science
+https://openalex.org/T11192,https://openalex.org/T10040,2,Underwater Vehicles and Communication Systems,Adaptive Control of Nonlinear Systems,Engineering,Engineering
+https://openalex.org/T10482,https://openalex.org/T11252,2,Mathematical and Theoretical Epidemiology and Ecology Models,Evolutionary Game Theory and Cooperation,Medicine,Social Sciences
+https://openalex.org/T10320,https://openalex.org/T10876,4,Neural Networks and Applications,Fault Detection and Control Systems,Computer Science,Engineering
+https://openalex.org/T10320,https://openalex.org/T12676,3,Neural Networks and Applications,Machine Learning and ELM,Computer Science,Computer Science
+https://openalex.org/T10320,https://openalex.org/T11270,2,Neural Networks and Applications,Complex Systems and Time Series Analysis,Computer Science,"Economics, Econometrics and Finance"
+https://openalex.org/T10320,https://openalex.org/T12205,2,Neural Networks and Applications,Time Series Analysis and Forecasting,Computer Science,Computer Science
+https://openalex.org/T10320,https://openalex.org/T11236,3,Neural Networks and Applications,Control Systems and Identification,Computer Science,Engineering
+https://openalex.org/T10320,https://openalex.org/T12535,2,Neural Networks and Applications,Machine Learning and Data Classification,Computer Science,Computer Science
+https://openalex.org/T10320,https://openalex.org/T11512,3,Neural Networks and Applications,Anomaly Detection Techniques and Applications,Computer Science,Computer Science
+https://openalex.org/T10320,https://openalex.org/T10429,2,Neural Networks and Applications,EEG and Brain-Computer Interfaces,Computer Science,Neuroscience
+https://openalex.org/T10320,https://openalex.org/T10581,2,Neural Networks and Applications,Neural dynamics and brain function,Computer Science,Neuroscience
+https://openalex.org/T13126,https://openalex.org/T10026,3,Scientific Research and Discoveries,"Galaxies: Formation, Evolution, Phenomena",Physics and Astronomy,Physics and Astronomy
+https://openalex.org/T13126,https://openalex.org/T12917,2,Scientific Research and Discoveries,Astronomy and Astrophysical Research,Physics and Astronomy,Physics and Astronomy
+https://openalex.org/T10191,https://openalex.org/T10586,2,Robotics and Sensor-Based Localization,Robotic Path Planning Algorithms,Engineering,Computer Science
+https://openalex.org/T11447,https://openalex.org/T10688,2,Blind Source Separation Techniques,Image and Signal Denoising Methods,Computer Science,Computer Science
+https://openalex.org/T11447,https://openalex.org/T10500,4,Blind Source Separation Techniques,Sparse and Compressive Sensing Techniques,Computer Science,Engineering
+https://openalex.org/T10688,https://openalex.org/T11105,3,Image and Signal Denoising Methods,Advanced Image Processing Techniques,Computer Science,Computer Science
+https://openalex.org/T10688,https://openalex.org/T12015,2,Image and Signal Denoising Methods,Photoacoustic and Ultrasonic Imaging,Computer Science,Engineering
+https://openalex.org/T10688,https://openalex.org/T10220,2,Image and Signal Denoising Methods,Machine Fault Diagnosis Techniques,Computer Science,Engineering
+https://openalex.org/T10688,https://openalex.org/T10500,5,Image and Signal Denoising Methods,Sparse and Compressive Sensing Techniques,Computer Science,Engineering
+https://openalex.org/T11309,https://openalex.org/T10860,3,Music and Audio Processing,Speech and Audio Processing,Computer Science,Computer Science
+https://openalex.org/T11261,https://openalex.org/T12772,2,Quantum chaos and dynamical systems,Control and Stability of Dynamical Systems,Physics and Astronomy,Engineering
+https://openalex.org/T11261,https://openalex.org/T11187,3,Quantum chaos and dynamical systems,Nonlinear Dynamics and Pattern Formation,Physics and Astronomy,Computer Science
+https://openalex.org/T11261,https://openalex.org/T10244,3,Quantum chaos and dynamical systems,Chaos control and synchronization,Physics and Astronomy,Physics and Astronomy
+https://openalex.org/T10768,https://openalex.org/T10603,2,Electric Vehicles and Infrastructure,Smart Grid Energy Management,Engineering,Engineering
+https://openalex.org/T10836,https://openalex.org/T12748,2,Metabolomics and Mass Spectrometry Studies,Molecular spectroscopy and chirality,"Biochemistry, Genetics and Molecular Biology",Chemistry
+https://openalex.org/T10836,https://openalex.org/T10908,2,Metabolomics and Mass Spectrometry Studies,Analytical Chemistry and Chromatography,"Biochemistry, Genetics and Molecular Biology",Chemistry
+https://openalex.org/T10538,https://openalex.org/T10637,3,Data Mining Algorithms and Applications,Advanced Clustering Algorithms Research,Computer Science,Computer Science
+https://openalex.org/T10538,https://openalex.org/T10057,3,Data Mining Algorithms and Applications,Face and Expression Recognition,Computer Science,Computer Science
+https://openalex.org/T10036,https://openalex.org/T12422,2,Advanced Neural Network Applications,Radiomics and Machine Learning in Medical Imaging,Computer Science,Medicine
+https://openalex.org/T10036,https://openalex.org/T12702,3,Advanced Neural Network Applications,Brain Tumor Detection and Classification,Computer Science,Neuroscience
+https://openalex.org/T10036,https://openalex.org/T10052,2,Advanced Neural Network Applications,Medical Image Segmentation Techniques,Computer Science,Computer Science
+https://openalex.org/T12015,https://openalex.org/T12153,2,Photoacoustic and Ultrasonic Imaging,Advanced Optical Sensing Technologies,Engineering,Physics and Astronomy
+https://openalex.org/T12015,https://openalex.org/T10500,5,Photoacoustic and Ultrasonic Imaging,Sparse and Compressive Sensing Techniques,Engineering,Engineering
+https://openalex.org/T11187,https://openalex.org/T11513,2,Nonlinear Dynamics and Pattern Formation,stochastic dynamics and bifurcation,Computer Science,Physics and Astronomy
+https://openalex.org/T11187,https://openalex.org/T10244,3,Nonlinear Dynamics and Pattern Formation,Chaos control and synchronization,Computer Science,Physics and Astronomy
+https://openalex.org/T12535,https://openalex.org/T12072,4,Machine Learning and Data Classification,Machine Learning and Algorithms,Computer Science,Computer Science
+https://openalex.org/T12535,https://openalex.org/T11512,2,Machine Learning and Data Classification,Anomaly Detection Techniques and Applications,Computer Science,Computer Science
+https://openalex.org/T12535,https://openalex.org/T11307,2,Machine Learning and Data Classification,Domain Adaptation and Few-Shot Learning,Computer Science,Computer Science
+https://openalex.org/T12535,https://openalex.org/T10057,2,Machine Learning and Data Classification,Face and Expression Recognition,Computer Science,Computer Science
+https://openalex.org/T12859,https://openalex.org/T12874,2,Cell Image Analysis Techniques,Digital Imaging for Blood Diseases,"Biochemistry, Genetics and Molecular Biology",Computer Science
+https://openalex.org/T10026,https://openalex.org/T12917,2,"Galaxies: Formation, Evolution, Phenomena",Astronomy and Astrophysical Research,Physics and Astronomy,Physics and Astronomy
+https://openalex.org/T10026,https://openalex.org/T10095,2,"Galaxies: Formation, Evolution, Phenomena",Cosmology and Gravitation Theories,Physics and Astronomy,Physics and Astronomy
+https://openalex.org/T10533,https://openalex.org/T11122,2,Teaching and Learning Programming,Online Learning and Analytics,Computer Science,Computer Science
+https://openalex.org/T10533,https://openalex.org/T14246,2,Teaching and Learning Programming,E-Learning and Knowledge Management,Computer Science,Computer Science
+https://openalex.org/T11814,https://openalex.org/T12176,3,Advanced Manufacturing and Logistics Optimization,Optimization and Packing Problems,Engineering,Engineering
+https://openalex.org/T12676,https://openalex.org/T10057,2,Machine Learning and ELM,Face and Expression Recognition,Computer Science,Computer Science
+https://openalex.org/T10502,https://openalex.org/T10581,3,Advanced Memory and Neural Computing,Neural dynamics and brain function,Engineering,Neuroscience
+https://openalex.org/T10502,https://openalex.org/T10429,2,Advanced Memory and Neural Computing,EEG and Brain-Computer Interfaces,Engineering,Neuroscience
+https://openalex.org/T12338,https://openalex.org/T12395,2,Digital literacy in education,Educational Innovations and Technology,Computer Science,Computer Science
+https://openalex.org/T11147,https://openalex.org/T10664,3,Misinformation and Its Impacts,Sentiment Analysis and Opinion Mining,Social Sciences,Computer Science
+https://openalex.org/T10839,https://openalex.org/T10560,3,Pancreatic function and diabetes,Diabetes Management and Research,Medicine,Medicine
+https://openalex.org/T10252,https://openalex.org/T10211,2,Microbial Natural Products and Biosynthesis,Computational Drug Discovery Methods,Medicine,Computer Science
+https://openalex.org/T10510,https://openalex.org/T10784,6,Stroke Rehabilitation and Recovery,Muscle activation and electromyography studies,Medicine,Engineering
+https://openalex.org/T10510,https://openalex.org/T11023,5,Stroke Rehabilitation and Recovery,Prosthetics and Rehabilitation Robotics,Medicine,Engineering
+https://openalex.org/T10378,https://openalex.org/T10500,2,Advanced MRI Techniques and Applications,Sparse and Compressive Sensing Techniques,Medicine,Engineering
+https://openalex.org/T10378,https://openalex.org/T10241,2,Advanced MRI Techniques and Applications,Functional Brain Connectivity Studies,Medicine,Neuroscience
+https://openalex.org/T10791,https://openalex.org/T11081,3,Advanced Control Systems Optimization,Advanced Control Systems Design,Engineering,Engineering
+https://openalex.org/T10791,https://openalex.org/T10876,3,Advanced Control Systems Optimization,Fault Detection and Control Systems,Engineering,Engineering
+https://openalex.org/T10791,https://openalex.org/T11236,3,Advanced Control Systems Optimization,Control Systems and Identification,Engineering,Engineering
+https://openalex.org/T10791,https://openalex.org/T10040,4,Advanced Control Systems Optimization,Adaptive Control of Nonlinear Systems,Engineering,Engineering
+https://openalex.org/T11130,https://openalex.org/T11797,2,Coding theory and cryptography,graph theory and CDMA systems,Computer Science,Engineering
+https://openalex.org/T11222,https://openalex.org/T11602,2,Magnetic Properties and Applications,Magnetic Bearings and Levitation Dynamics,Materials Science,Engineering
+https://openalex.org/T11270,https://openalex.org/T11326,2,Complex Systems and Time Series Analysis,Stock Market Forecasting Methods,"Economics, Econometrics and Finance",Decision Sciences
+https://openalex.org/T11270,https://openalex.org/T13377,2,Complex Systems and Time Series Analysis,Ecosystem dynamics and resilience,"Economics, Econometrics and Finance",Environmental Science
+https://openalex.org/T10220,https://openalex.org/T10876,2,Machine Fault Diagnosis Techniques,Fault Detection and Control Systems,Engineering,Engineering
+https://openalex.org/T10220,https://openalex.org/T11343,2,Machine Fault Diagnosis Techniques,Power Transformer Diagnostics and Insulation,Engineering,Engineering
+https://openalex.org/T10220,https://openalex.org/T12169,2,Machine Fault Diagnosis Techniques,Non-Destructive Testing Techniques,Engineering,Engineering
+https://openalex.org/T10121,https://openalex.org/T11954,2,Building Energy and Comfort Optimization,Energy Efficiency and Management,Engineering,Energy
+https://openalex.org/T10121,https://openalex.org/T10603,2,Building Energy and Comfort Optimization,Smart Grid Energy Management,Engineering,Engineering
+https://openalex.org/T11513,https://openalex.org/T10244,2,stochastic dynamics and bifurcation,Chaos control and synchronization,Physics and Astronomy,Physics and Astronomy
+https://openalex.org/T12072,https://openalex.org/T11307,2,Machine Learning and Algorithms,Domain Adaptation and Few-Shot Learning,Computer Science,Computer Science
+https://openalex.org/T13083,https://openalex.org/T10664,5,Advanced Text Analysis Techniques,Sentiment Analysis and Opinion Mining,Computer Science,Computer Science
+https://openalex.org/T13083,https://openalex.org/T10028,4,Advanced Text Analysis Techniques,Topic Modeling,Computer Science,Computer Science
+https://openalex.org/T13083,https://openalex.org/T10181,3,Advanced Text Analysis Techniques,Natural Language Processing Techniques,Computer Science,Computer Science
+https://openalex.org/T10504,https://openalex.org/T11602,2,Sensorless Control of Electric Motors,Magnetic Bearings and Levitation Dynamics,Engineering,Engineering
+https://openalex.org/T10504,https://openalex.org/T10228,2,Sensorless Control of Electric Motors,Multilevel Inverters and Converters,Engineering,Engineering
+https://openalex.org/T11081,https://openalex.org/T10040,3,Advanced Control Systems Design,Adaptive Control of Nonlinear Systems,Engineering,Engineering
+https://openalex.org/T11105,https://openalex.org/T11569,2,Advanced Image Processing Techniques,Optical Coherence Tomography Applications,Computer Science,Engineering
+https://openalex.org/T11615,https://openalex.org/T10586,4,Control and Dynamics of Mobile Robots,Robotic Path Planning Algorithms,Engineering,Computer Science
+https://openalex.org/T11615,https://openalex.org/T10805,2,Control and Dynamics of Mobile Robots,Vehicle Dynamics and Control Systems,Engineering,Engineering
+https://openalex.org/T11615,https://openalex.org/T10040,2,Control and Dynamics of Mobile Robots,Adaptive Control of Nonlinear Systems,Engineering,Engineering
+https://openalex.org/T10709,https://openalex.org/T10106,2,Social Robot Interaction and HRI,Autism Spectrum Disorder Research,Psychology,Neuroscience
+https://openalex.org/T11017,https://openalex.org/T12162,2,Chaos-based Image/Signal Encryption,Cellular Automata and Applications,Computer Science,Computer Science
+https://openalex.org/T11017,https://openalex.org/T10244,2,Chaos-based Image/Signal Encryption,Chaos control and synchronization,Computer Science,Physics and Astronomy
+https://openalex.org/T11525,https://openalex.org/T10571,2,Piezoelectric Actuators and Control,Robotic Mechanisms and Dynamics,Engineering,Engineering
+https://openalex.org/T10621,https://openalex.org/T10885,2,Gene Regulatory Network Analysis,Gene expression and cancer classification,"Biochemistry, Genetics and Molecular Biology","Biochemistry, Genetics and Molecular Biology"
+https://openalex.org/T10621,https://openalex.org/T10887,2,Gene Regulatory Network Analysis,Bioinformatics and Genomic Networks,"Biochemistry, Genetics and Molecular Biology","Biochemistry, Genetics and Molecular Biology"
+https://openalex.org/T11304,https://openalex.org/T10241,4,Advanced Neuroimaging Techniques and Applications,Functional Brain Connectivity Studies,Medicine,Neuroscience
+https://openalex.org/T10044,https://openalex.org/T12748,2,Protein Structure and Dynamics,Molecular spectroscopy and chirality,"Biochemistry, Genetics and Molecular Biology",Chemistry
+https://openalex.org/T13643,https://openalex.org/T10456,2,Artificial Intelligence in Law,Multi-Agent Systems and Negotiation,Social Sciences,Computer Science
+https://openalex.org/T11052,https://openalex.org/T11490,2,Energy Load and Power Forecasting,Hydrological Forecasting Using AI,Engineering,Environmental Science
+https://openalex.org/T12254,https://openalex.org/T10015,2,Machine Learning in Bioinformatics,Genomics and Phylogenetic Studies,"Biochemistry, Genetics and Molecular Biology","Biochemistry, Genetics and Molecular Biology"
+https://openalex.org/T10868,https://openalex.org/T10784,2,Soft Robotics and Applications,Muscle activation and electromyography studies,Engineering,Engineering
+https://openalex.org/T10586,https://openalex.org/T11133,2,Robotic Path Planning Algorithms,UAV Applications and Optimization,Computer Science,Engineering
+https://openalex.org/T10586,https://openalex.org/T10571,2,Robotic Path Planning Algorithms,Robotic Mechanisms and Dynamics,Computer Science,Engineering
+https://openalex.org/T10586,https://openalex.org/T10040,5,Robotic Path Planning Algorithms,Adaptive Control of Nonlinear Systems,Computer Science,Engineering
+https://openalex.org/T10664,https://openalex.org/T10028,2,Sentiment Analysis and Opinion Mining,Topic Modeling,Computer Science,Computer Science
+https://openalex.org/T12282,https://openalex.org/T10876,2,Mineral Processing and Grinding,Fault Detection and Control Systems,Engineering,Engineering
+https://openalex.org/T12153,https://openalex.org/T11324,2,Advanced Optical Sensing Technologies,Spectroscopy Techniques in Biomedical and Chemical Research,Physics and Astronomy,"Biochemistry, Genetics and Molecular Biology"
+https://openalex.org/T10848,https://openalex.org/T11975,4,Advanced Multi-Objective Optimization Algorithms,Evolutionary Algorithms and Applications,Computer Science,Computer Science
+https://openalex.org/T10848,https://openalex.org/T10100,6,Advanced Multi-Objective Optimization Algorithms,Metaheuristic Optimization Algorithms Research,Computer Science,Computer Science
+https://openalex.org/T10540,https://openalex.org/T11569,2,Advanced Fluorescence Microscopy Techniques,Optical Coherence Tomography Applications,"Biochemistry, Genetics and Molecular Biology",Engineering
+https://openalex.org/T11659,https://openalex.org/T10689,3,Advanced Image Fusion Techniques,Remote-Sensing Image Classification,Engineering,Engineering
+https://openalex.org/T10680,https://openalex.org/T10740,2,Wind Energy Research and Development,Wind Turbine Control Systems,Engineering,Engineering
+https://openalex.org/T10594,https://openalex.org/T11468,3,Genetic and phenotypic traits in livestock,Genetic Mapping and Diversity in Plants and Animals,"Biochemistry, Genetics and Molecular Biology","Biochemistry, Genetics and Molecular Biology"
+https://openalex.org/T11396,https://openalex.org/T13702,3,Artificial Intelligence in Healthcare,Machine Learning in Healthcare,Health Professions,Computer Science
+https://openalex.org/T11897,https://openalex.org/T13114,2,Digital Holography and Microscopy,Image Processing Techniques and Applications,Physics and Astronomy,Engineering
+https://openalex.org/T11897,https://openalex.org/T10638,2,Digital Holography and Microscopy,Optical measurement and interference techniques,Physics and Astronomy,Computer Science
+https://openalex.org/T10305,https://openalex.org/T10740,2,Power System Optimization and Stability,Wind Turbine Control Systems,Engineering,Engineering
+https://openalex.org/T10305,https://openalex.org/T10972,2,Power System Optimization and Stability,Power Systems Fault Detection,Engineering,Engineering
+https://openalex.org/T10638,https://openalex.org/T13114,3,Optical measurement and interference techniques,Image Processing Techniques and Applications,Computer Science,Engineering
+https://openalex.org/T10638,https://openalex.org/T11569,2,Optical measurement and interference techniques,Optical Coherence Tomography Applications,Computer Science,Engineering
+https://openalex.org/T11010,https://openalex.org/T10456,4,"Logic, Reasoning, and Knowledge",Multi-Agent Systems and Negotiation,Computer Science,Computer Science
+https://openalex.org/T11023,https://openalex.org/T10784,7,Prosthetics and Rehabilitation Robotics,Muscle activation and electromyography studies,Engineering,Engineering
+https://openalex.org/T10012,https://openalex.org/T10015,2,Genetic diversity and population structure,Genomics and Phylogenetic Studies,"Biochemistry, Genetics and Molecular Biology","Biochemistry, Genetics and Molecular Biology"
+https://openalex.org/T10463,https://openalex.org/T10025,2,Pulsars and Gravitational Waves Research,Black Holes and Theoretical Physics,Physics and Astronomy,Physics and Astronomy
+https://openalex.org/T10463,https://openalex.org/T10095,2,Pulsars and Gravitational Waves Research,Cosmology and Gravitation Theories,Physics and Astronomy,Physics and Astronomy
+https://openalex.org/T11324,https://openalex.org/T10640,2,Spectroscopy Techniques in Biomedical and Chemical Research,Spectroscopy and Chemometric Analyses,"Biochemistry, Genetics and Molecular Biology",Chemistry
+https://openalex.org/T11324,https://openalex.org/T11227,2,Spectroscopy Techniques in Biomedical and Chemical Research,Diabetic Foot Ulcer Assessment and Management,"Biochemistry, Genetics and Molecular Biology",Medicine
+https://openalex.org/T10640,https://openalex.org/T10770,3,Spectroscopy and Chemometric Analyses,Soil Geostatistics and Mapping,Chemistry,Environmental Science
+https://openalex.org/T10640,https://openalex.org/T11667,3,Spectroscopy and Chemometric Analyses,Advanced Chemical Sensor Technologies,Chemistry,Engineering
+https://openalex.org/T10648,https://openalex.org/T10888,2,Virtual Reality Applications and Impacts,Augmented Reality Applications,Computer Science,Computer Science
+https://openalex.org/T10241,https://openalex.org/T10429,3,Functional Brain Connectivity Studies,EEG and Brain-Computer Interfaces,Neuroscience,Neuroscience
+https://openalex.org/T10784,https://openalex.org/T10429,3,Muscle activation and electromyography studies,EEG and Brain-Computer Interfaces,Engineering,Neuroscience
+https://openalex.org/T11133,https://openalex.org/T10249,2,UAV Applications and Optimization,Distributed Control Multi-Agent Systems,Engineering,Computer Science
+https://openalex.org/T11512,https://openalex.org/T10876,2,Anomaly Detection Techniques and Applications,Fault Detection and Control Systems,Computer Science,Engineering
+https://openalex.org/T11512,https://openalex.org/T10400,2,Anomaly Detection Techniques and Applications,Network Security and Intrusion Detection,Computer Science,Computer Science
+https://openalex.org/T11211,https://openalex.org/T10888,2,3D Surveying and Cultural Heritage,Augmented Reality Applications,Earth and Planetary Sciences,Computer Science
+https://openalex.org/T10025,https://openalex.org/T10095,3,Black Holes and Theoretical Physics,Cosmology and Gravitation Theories,Physics and Astronomy,Physics and Astronomy
+https://openalex.org/T12772,https://openalex.org/T10046,3,Control and Stability of Dynamical Systems,Stability and Control of Uncertain Systems,Engineering,Engineering
+https://openalex.org/T12772,https://openalex.org/T10040,2,Control and Stability of Dynamical Systems,Adaptive Control of Nonlinear Systems,Engineering,Engineering
+https://openalex.org/T11110,https://openalex.org/T10046,2,Stability and Controllability of Differential Equations,Stability and Control of Uncertain Systems,Engineering,Engineering
+https://openalex.org/T10223,https://openalex.org/T11102,3,Microgrid Control and Optimization,HVDC Systems and Fault Protection,Engineering,Engineering
+https://openalex.org/T10223,https://openalex.org/T10603,7,Microgrid Control and Optimization,Smart Grid Energy Management,Engineering,Engineering
+https://openalex.org/T10223,https://openalex.org/T10228,11,Microgrid Control and Optimization,Multilevel Inverters and Converters,Engineering,Engineering
+https://openalex.org/T10223,https://openalex.org/T13183,5,Microgrid Control and Optimization,Islanding Detection in Power Systems,Engineering,Engineering
+https://openalex.org/T10223,https://openalex.org/T10175,9,Microgrid Control and Optimization,Advanced DC-DC Converters,Engineering,Engineering
+https://openalex.org/T11775,https://openalex.org/T12422,2,COVID-19 diagnosis using AI,Radiomics and Machine Learning in Medical Imaging,Medicine,Medicine
+https://openalex.org/T10603,https://openalex.org/T11954,2,Smart Grid Energy Management,Energy Efficiency and Management,Engineering,Energy
+https://openalex.org/T10603,https://openalex.org/T13183,2,Smart Grid Energy Management,Islanding Detection in Power Systems,Engineering,Engineering
+https://openalex.org/T10581,https://openalex.org/T10429,2,Neural dynamics and brain function,EEG and Brain-Computer Interfaces,Neuroscience,Neuroscience
+https://openalex.org/T10917,https://openalex.org/T11102,2,Smart Grid Security and Resilience,HVDC Systems and Fault Protection,Engineering,Engineering
+https://openalex.org/T10972,https://openalex.org/T13183,5,Power Systems Fault Detection,Islanding Detection in Power Systems,Engineering,Engineering
+https://openalex.org/T10972,https://openalex.org/T11941,2,Power Systems Fault Detection,Power System Reliability and Maintenance,Engineering,Engineering
+https://openalex.org/T10972,https://openalex.org/T11102,3,Power Systems Fault Detection,HVDC Systems and Fault Protection,Engineering,Engineering
+https://openalex.org/T10876,https://openalex.org/T11236,4,Fault Detection and Control Systems,Control Systems and Identification,Engineering,Engineering
+https://openalex.org/T10028,https://openalex.org/T10181,4,Topic Modeling,Natural Language Processing Techniques,Computer Science,Computer Science
+https://openalex.org/T14246,https://openalex.org/T12395,2,E-Learning and Knowledge Management,Educational Innovations and Technology,Computer Science,Computer Science
+https://openalex.org/T10887,https://openalex.org/T10885,3,Bioinformatics and Genomic Networks,Gene expression and cancer classification,"Biochemistry, Genetics and Molecular Biology","Biochemistry, Genetics and Molecular Biology"
+https://openalex.org/T11609,https://openalex.org/T11757,3,Geophysical Methods and Applications,Seismic Waves and Analysis,Engineering,Earth and Planetary Sciences
+https://openalex.org/T11609,https://openalex.org/T10271,4,Geophysical Methods and Applications,Seismic Imaging and Inversion Techniques,Engineering,Earth and Planetary Sciences
+https://openalex.org/T10175,https://openalex.org/T10228,9,Advanced DC-DC Converters,Multilevel Inverters and Converters,Engineering,Engineering
+https://openalex.org/T11102,https://openalex.org/T13183,2,HVDC Systems and Fault Protection,Islanding Detection in Power Systems,Engineering,Engineering
+https://openalex.org/T11102,https://openalex.org/T10228,2,HVDC Systems and Fault Protection,Multilevel Inverters and Converters,Engineering,Engineering
+https://openalex.org/T10100,https://openalex.org/T11975,5,Metaheuristic Optimization Algorithms Research,Evolutionary Algorithms and Applications,Computer Science,Computer Science
+https://openalex.org/T10228,https://openalex.org/T13183,2,Multilevel Inverters and Converters,Islanding Detection in Power Systems,Engineering,Engineering
+https://openalex.org/T10271,https://openalex.org/T11757,4,Seismic Imaging and Inversion Techniques,Seismic Waves and Analysis,Earth and Planetary Sciences,Earth and Planetary Sciences
+https://openalex.org/T10046,https://openalex.org/T10040,4,Stability and Control of Uncertain Systems,Adaptive Control of Nonlinear Systems,Engineering,Engineering
+https://openalex.org/T12422,https://openalex.org/T12702,3,Radiomics and Machine Learning in Medical Imaging,Brain Tumor Detection and Classification,Medicine,Neuroscience
+https://openalex.org/T10057,https://openalex.org/T10637,5,Face and Expression Recognition,Advanced Clustering Algorithms Research,Computer Science,Computer Science

@@ -1,0 +1,15 @@
+{
+  "model": "A3TGCN",
+  "task": "dissolution",
+  "threshold": 0.5,
+  "auc_roc": 0.4523437853490792,
+  "precision": 0.6745283018867925,
+  "recall": 0.89937106918239,
+  "f1_score": 0.77088948787062,
+  "confusion_matrix": {
+    "tn": 1,
+    "fp": 138,
+    "fn": 32,
+    "tp": 286
+  }
+}

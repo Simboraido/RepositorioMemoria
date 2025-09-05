@@ -1,0 +1,14 @@
+{
+  "period_pair": "2020-2021_to_2022-2023",
+  "algorithm": "common_neighbors",
+  "threshold": 1.0,
+  "auc_roc": 0.818125,
+  "f1": 0.7567567567567568,
+  "task": "appearance",
+  "confusion_matrix": {
+    "tn": 37,
+    "fp": 3,
+    "fn": 6,
+    "tp": 14
+  }
+}

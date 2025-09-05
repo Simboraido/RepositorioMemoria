@@ -1,0 +1,15 @@
+{
+  "model": "EvolveGCN-H",
+  "task": "dissolution",
+  "threshold": 0.5,
+  "auc_roc": 0.4285778924030587,
+  "precision": 0.6828703703703703,
+  "recall": 0.9276729559748428,
+  "f1_score": 0.7866666666666666,
+  "confusion_matrix": {
+    "tn": 2,
+    "fp": 137,
+    "fn": 23,
+    "tp": 295
+  }
+}

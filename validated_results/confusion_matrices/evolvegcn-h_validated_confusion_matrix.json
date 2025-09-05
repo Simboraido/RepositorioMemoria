@@ -1,0 +1,12 @@
+{
+  "model": "EvolveGCN-H",
+  "threshold": 0.5,
+  "auc_roc": 0.927025,
+  "f1_score": 0.8501228501228502,
+  "confusion_matrix": {
+    "tn": 166,
+    "fp": 34,
+    "fn": 27,
+    "tp": 173
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "model": "TDGNN",
+  "task": "dissolution",
+  "threshold": 0.5,
+  "auc_roc": 0.39365865797927696,
+  "precision": 0.6784037558685446,
+  "recall": 0.9088050314465409,
+  "f1_score": 0.7768817204301075,
+  "confusion_matrix": {
+    "tn": 2,
+    "fp": 137,
+    "fn": 29,
+    "tp": 289
+  }
+}

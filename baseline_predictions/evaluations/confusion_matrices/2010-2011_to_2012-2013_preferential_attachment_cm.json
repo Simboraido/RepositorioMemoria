@@ -1,0 +1,14 @@
+{
+  "period_pair": "2010-2011_to_2012-2013",
+  "algorithm": "preferential_attachment",
+  "threshold": 48.0,
+  "auc_roc": 0.4795918367346938,
+  "f1": 0.25,
+  "task": "appearance",
+  "confusion_matrix": {
+    "tn": 14,
+    "fp": 0,
+    "fn": 6,
+    "tp": 1
+  }
+}

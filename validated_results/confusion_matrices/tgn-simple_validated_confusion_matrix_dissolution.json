@@ -1,0 +1,15 @@
+{
+  "model": "TGN-Simple",
+  "task": "dissolution",
+  "threshold": 0.5,
+  "auc_roc": 0.48055517849871043,
+  "precision": 0.6821345707656613,
+  "recall": 0.9245283018867925,
+  "f1_score": 0.7850467289719626,
+  "confusion_matrix": {
+    "tn": 2,
+    "fp": 137,
+    "fn": 24,
+    "tp": 294
+  }
+}
