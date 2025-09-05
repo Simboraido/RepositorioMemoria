@@ -41,6 +41,9 @@ External_repos/*_backup_*/
 !/scripts/compare_tops.py
 !/scripts/data_quality_check.py
 !/scripts/build_graphs_from_metadatos.py
+!/scripts/optimize_threshold.py
+!/scripts/compute_confusion_from_best_configs.py
+!/scripts/rebuild_confusion_from_scores.py
 
 # validated_results
 !/validated_results/REPORTE_F1_CORREGIDO.md

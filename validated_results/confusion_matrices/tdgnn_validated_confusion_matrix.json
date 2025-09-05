@@ -1,12 +1,14 @@
 {
   "model": "TDGNN",
   "threshold": 0.5,
-  "auc_roc": 0.92475,
-  "f1_score": 0.837772397094431,
+  "auc_roc": 0.9008125,
+  "f1_score": 0.855036855036855,
+  "precision": 0.8405797101449275,
+  "recall": 0.87,
   "confusion_matrix": {
-    "tn": 160,
-    "fp": 40,
-    "fn": 27,
-    "tp": 173
+    "tn": 167,
+    "fp": 33,
+    "fn": 26,
+    "tp": 174
   }
 }

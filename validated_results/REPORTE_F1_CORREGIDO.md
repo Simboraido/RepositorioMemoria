@@ -4,10 +4,10 @@
 
 | Modelo | AUC-ROC | Threshold | Precision | Recall | F1 real | F1 original | TN | FP | FN | TP |
 |---|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|
-| EvolveGCN-H | 0.9270 | 0.50 | 0.8357 | 0.8650 | 0.8501 | 0.8501 | 166 | 34 | 27 | 173 |
-| A3TGCN | 0.9176 | 0.50 | 0.8140 | 0.8750 | 0.8434 | 0.8434 | 160 | 40 | 25 | 175 |
-| TDGNN | 0.9247 | 0.50 | 0.8122 | 0.8650 | 0.8378 | 0.8378 | 160 | 40 | 27 | 173 |
-| TGN-Simple | 0.9063 | 0.50 | 0.8028 | 0.8550 | 0.8281 | 0.8281 | 158 | 42 | 29 | 171 |
+| TDGNN | 0.9008 | 0.50 | 0.8406 | 0.8700 | 0.8550 | 0.8550 | 167 | 33 | 26 | 174 |
+| EvolveGCN-H | 0.8979 | 0.50 | 0.8084 | 0.8650 | 0.8357 | 0.8357 | 159 | 41 | 27 | 173 |
+| TGN-Simple | 0.9046 | 0.50 | 0.8104 | 0.8550 | 0.8321 | 0.8321 | 160 | 40 | 29 | 171 |
+| A3TGCN | 0.8875 | 0.50 | 0.7945 | 0.8700 | 0.8305 | 0.8305 | 155 | 45 | 26 | 174 |
 
 ### Matrices de confusión (modelos validados)
 ![A3TGCN_validated_cm](validated_results/confusion_matrices/plots/A3TGCN_validated_cm.png)
@@ -65,3 +65,15 @@
 ![2006-2007_to_2008-2009_preferential_attachment_dissolution_cm](baseline_predictions/evaluations/confusion_matrices/plots/2006-2007_to_2008-2009_preferential_attachment_dissolution_cm.png)
 ![2006-2007_to_2008-2009_resource_allocation_dissolution_cm](baseline_predictions/evaluations/confusion_matrices/plots/2006-2007_to_2008-2009_resource_allocation_dissolution_cm.png)
 ![2008-2009_to_2010-2011_adamic_adar_dissolution_cm](baseline_predictions/evaluations/confusion_matrices/plots/2008-2009_to_2010-2011_adamic_adar_dissolution_cm.png)
+
+## Thresholds óptimos usados
+
+### Apariciones
+- A3TGCN: thr=0.9821895482876133 | F1=0.8629441624365483
+- TGN-Simple: thr=0.7285757572522829 | F1=0.855
+
+### Disolución
+- A3TGCN: thr=0.0 | F1=0.9974160206718347
+- EvolveGCN-H: thr=0.0 | F1=0.9974160206718347
+- TDGNN: thr=0.0 | F1=0.9974160206718347
+- TGN-Simple: thr=0.0 | F1=0.9974160206718347

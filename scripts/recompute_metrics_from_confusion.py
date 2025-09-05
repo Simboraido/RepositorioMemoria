@@ -208,6 +208,37 @@ def main():
             rel = p.relative_to(VALIDATED_DIR.parent)
             lines.append(f"![{p.stem}]({rel.as_posix()})")
 
+    # Thresholds óptimos (si existen)
+    try:
+        lines.append('')
+        lines.append('## Thresholds óptimos usados')
+        th_map = {
+            'Apariciones': [
+                ('A3TGCN', VALIDATED_DIR / 'thresholds' / 'a3tgcn' / 'best_threshold.json'),
+                ('EvolveGCN-H', VALIDATED_DIR / 'thresholds' / 'evolvegcn-h' / 'best_threshold.json'),
+                ('TDGNN', VALIDATED_DIR / 'thresholds' / 'tdgnn' / 'best_threshold.json'),
+                ('TGN-Simple', VALIDATED_DIR / 'thresholds' / 'tgn-simple' / 'best_threshold.json'),
+            ],
+            'Disolución': [
+                ('A3TGCN', VALIDATED_DIR / 'thresholds' / 'dissolution' / 'a3tgcn' / 'best_threshold.json'),
+                ('EvolveGCN-H', VALIDATED_DIR / 'thresholds' / 'dissolution' / 'evolvegcn-h' / 'best_threshold.json'),
+                ('TDGNN', VALIDATED_DIR / 'thresholds' / 'dissolution' / 'tdgnn' / 'best_threshold.json'),
+                ('TGN-Simple', VALIDATED_DIR / 'thresholds' / 'dissolution' / 'tgn-simple' / 'best_threshold.json'),
+            ]
+        }
+        for section, items in th_map.items():
+            found = []
+            for model_name, p in items:
+                if p.exists():
+                    with open(p, 'r', encoding='utf-8') as f:
+                        jd = json.load(f)
+                    found.append(f"- {model_name}: thr={jd.get('best_threshold')} | F1={jd.get('f1')}")
+            if found:
+                lines.append(f"\n### {section}")
+                lines.extend(found)
+    except Exception:
+        pass
+
     OUTPUT_MD.write_text('\n'.join(lines), encoding='utf-8')
     print(f"Reporte generado: {OUTPUT_MD}")
 
