@@ -26,6 +26,7 @@
 # External submodules
 !/External_repos/
 !/External_repos/**
+External_repos/*_backup_*/
 
 # scripts (solo los finales)
 !/scripts/train_validated_ai_models.py
