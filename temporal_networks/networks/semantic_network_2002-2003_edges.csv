@@ -1,27 +1,7 @@
-source,target,weight,source_name,target_name,source_field,target_field
-https://openalex.org/T10791,https://openalex.org/T11236,4,Advanced Control Systems Optimization,Control Systems and Identification,Engineering,Engineering
-https://openalex.org/T10791,https://openalex.org/T11749,4,Advanced Control Systems Optimization,Iterative Learning Control Systems,Engineering,Engineering
-https://openalex.org/T10791,https://openalex.org/T11081,2,Advanced Control Systems Optimization,Advanced Control Systems Design,Engineering,Engineering
-https://openalex.org/T10791,https://openalex.org/T10876,3,Advanced Control Systems Optimization,Fault Detection and Control Systems,Engineering,Engineering
-https://openalex.org/T10791,https://openalex.org/T10046,2,Advanced Control Systems Optimization,Stability and Control of Uncertain Systems,Engineering,Engineering
-https://openalex.org/T10791,https://openalex.org/T10040,3,Advanced Control Systems Optimization,Adaptive Control of Nonlinear Systems,Engineering,Engineering
-https://openalex.org/T12772,https://openalex.org/T10040,3,Control and Stability of Dynamical Systems,Adaptive Control of Nonlinear Systems,Engineering,Engineering
-https://openalex.org/T10305,https://openalex.org/T10223,2,Power System Optimization and Stability,Microgrid Control and Optimization,Engineering,Engineering
-https://openalex.org/T11081,https://openalex.org/T11749,2,Advanced Control Systems Design,Iterative Learning Control Systems,Engineering,Engineering
-https://openalex.org/T11081,https://openalex.org/T10040,3,Advanced Control Systems Design,Adaptive Control of Nonlinear Systems,Engineering,Engineering
-https://openalex.org/T11520,https://openalex.org/T11513,3,Advanced Thermodynamics and Statistical Mechanics,stochastic dynamics and bifurcation,Physics and Astronomy,Physics and Astronomy
-https://openalex.org/T10040,https://openalex.org/T10320,4,Adaptive Control of Nonlinear Systems,Neural Networks and Applications,Engineering,Computer Science
-https://openalex.org/T10040,https://openalex.org/T10820,2,Adaptive Control of Nonlinear Systems,Fuzzy Logic and Control Systems,Engineering,Computer Science
-https://openalex.org/T10040,https://openalex.org/T11236,2,Adaptive Control of Nonlinear Systems,Control Systems and Identification,Engineering,Engineering
-https://openalex.org/T10040,https://openalex.org/T10876,2,Adaptive Control of Nonlinear Systems,Fault Detection and Control Systems,Engineering,Engineering
-https://openalex.org/T10040,https://openalex.org/T10046,2,Adaptive Control of Nonlinear Systems,Stability and Control of Uncertain Systems,Engineering,Engineering
-https://openalex.org/T10040,https://openalex.org/T11749,3,Adaptive Control of Nonlinear Systems,Iterative Learning Control Systems,Engineering,Engineering
-https://openalex.org/T10040,https://openalex.org/T10504,4,Adaptive Control of Nonlinear Systems,Sensorless Control of Electric Motors,Engineering,Engineering
-https://openalex.org/T11236,https://openalex.org/T10876,3,Control Systems and Identification,Fault Detection and Control Systems,Engineering,Engineering
-https://openalex.org/T10820,https://openalex.org/T10876,2,Fuzzy Logic and Control Systems,Fault Detection and Control Systems,Computer Science,Engineering
-https://openalex.org/T10820,https://openalex.org/T10320,2,Fuzzy Logic and Control Systems,Neural Networks and Applications,Computer Science,Computer Science
-https://openalex.org/T10278,https://openalex.org/T10504,2,Electric Motor Design and Analysis,Sensorless Control of Electric Motors,Engineering,Engineering
-https://openalex.org/T10278,https://openalex.org/T11749,2,Electric Motor Design and Analysis,Iterative Learning Control Systems,Engineering,Engineering
-https://openalex.org/T10848,https://openalex.org/T10100,3,Advanced Multi-Objective Optimization Algorithms,Metaheuristic Optimization Algorithms Research,Computer Science,Computer Science
-https://openalex.org/T10876,https://openalex.org/T10320,2,Fault Detection and Control Systems,Neural Networks and Applications,Engineering,Computer Science
-https://openalex.org/T11749,https://openalex.org/T10504,3,Iterative Learning Control Systems,Sensorless Control of Electric Motors,Engineering,Engineering
+source,target,weight
+https://openalex.org/T11187,https://openalex.org/T10244,1
+https://openalex.org/T11187,https://openalex.org/T12206,1
+https://openalex.org/T10244,https://openalex.org/T12206,1
+https://openalex.org/T10689,https://openalex.org/T11659,1
+https://openalex.org/T10689,https://openalex.org/T12157,1
+https://openalex.org/T12157,https://openalex.org/T11659,1

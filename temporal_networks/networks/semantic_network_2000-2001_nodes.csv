@@ -1,3 +1,2 @@
-id,name,frequency,field,subfield,domain,degree,degree_centrality,betweenness_centrality,closeness_centrality
-https://openalex.org/T10791,Advanced Control Systems Optimization,7,Engineering,Control and Systems Engineering,Physical Sciences,1,1.0,0.0,1.0
-https://openalex.org/T10040,Adaptive Control of Nonlinear Systems,6,Engineering,Control and Systems Engineering,Physical Sciences,1,1.0,0.0,1.0
+id,name,frequency,field,subfield,domain
+https://openalex.org/T10057,Face and Expression Recognition,1,Computer Science,Computer Vision and Pattern Recognition,Physical Sciences

@@ -1,1863 +1,790 @@
 <?xml version='1.0' encoding='utf-8'?>
-<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
-  <key id="d5" for="edge" attr.name="weight" attr.type="long" />
-  <key id="d4" for="node" attr.name="domain" attr.type="string" />
-  <key id="d3" for="node" attr.name="subfield" attr.type="string" />
-  <key id="d2" for="node" attr.name="field" attr.type="string" />
-  <key id="d1" for="node" attr.name="frequency" attr.type="long" />
-  <key id="d0" for="node" attr.name="name" attr.type="string" />
-  <graph edgedefault="undirected">
-    <node id="https://openalex.org/T10531">
-      <data key="d0">Advanced Vision and Imaging</data>
-      <data key="d1">10</data>
-      <data key="d2">Computer Science</data>
-      <data key="d3">Computer Vision and Pattern Recognition</data>
-      <data key="d4">Physical Sciences</data>
-    </node>
-    <node id="https://openalex.org/T11996">
-      <data key="d0">Random lasers and scattering media</data>
-      <data key="d1">5</data>
-      <data key="d2">Physics and Astronomy</data>
-      <data key="d3">Acoustics and Ultrasonics</data>
-      <data key="d4">Physical Sciences</data>
-    </node>
-    <node id="https://openalex.org/T10454">
-      <data key="d0">Optimal Power Flow Distribution</data>
-      <data key="d1">4</data>
-      <data key="d2">Engineering</data>
-      <data key="d3">Electrical and Electronic Engineering</data>
-      <data key="d4">Physical Sciences</data>
-    </node>
-    <node id="https://openalex.org/T10862">
-      <data key="d0">AI in cancer detection</data>
-      <data key="d1">9</data>
-      <data key="d2">Computer Science</data>
-      <data key="d3">Artificial Intelligence</data>
-      <data key="d4">Physical Sciences</data>
-    </node>
-    <node id="https://openalex.org/T10410">
-      <data key="d0">COVID-19 epidemiological studies</data>
-      <data key="d1">9</data>
-      <data key="d2">Mathematics</data>
-      <data key="d3">Modeling and Simulation</data>
-      <data key="d4">Physical Sciences</data>
-    </node>
-    <node id="https://openalex.org/T11707">
-      <data key="d0">Gaze Tracking and Assistive Technology</data>
-      <data key="d1">4</data>
-      <data key="d2">Computer Science</data>
-      <data key="d3">Human-Computer Interaction</data>
-      <data key="d4">Physical Sciences</data>
-    </node>
-    <node id="https://openalex.org/T10029">
-      <data key="d0">Climate variability and models</data>
-      <data key="d1">3</data>
-      <data key="d2">Environmental Science</data>
-      <data key="d3">Global and Planetary Change</data>
-      <data key="d4">Physical Sciences</data>
-    </node>
-    <node id="https://openalex.org/T11372">
-      <data key="d0">Hydraulic and Pneumatic Systems</data>
-      <data key="d1">4</data>
-      <data key="d2">Engineering</data>
-      <data key="d3">Mechanical Engineering</data>
-      <data key="d4">Physical Sciences</data>
-    </node>
-    <node id="https://openalex.org/T10124">
-      <data key="d0">Prostate Cancer Diagnosis and Treatment</data>
-      <data key="d1">3</data>
-      <data key="d2">Medicine</data>
-      <data key="d3">Pulmonary and Respiratory Medicine</data>
-      <data key="d4">Health Sciences</data>
-    </node>
-    <node id="https://openalex.org/T11394">
-      <data key="d0">Dynamics and Control of Mechanical Systems</data>
-      <data key="d1">4</data>
-      <data key="d2">Engineering</data>
-      <data key="d3">Control and Systems Engineering</data>
-      <data key="d4">Physical Sciences</data>
-    </node>
-    <node id="https://openalex.org/T11739">
-      <data key="d0">Microwave Imaging and Scattering Analysis</data>
-      <data key="d1">3</data>
-      <data key="d2">Engineering</data>
-      <data key="d3">Biomedical Engineering</data>
-      <data key="d4">Physical Sciences</data>
-    </node>
-    <node id="https://openalex.org/T10711">
-      <data key="d0">Target Tracking and Data Fusion in Sensor Networks</data>
-      <data key="d1">4</data>
-      <data key="d2">Computer Science</data>
-      <data key="d3">Artificial Intelligence</data>
-      <data key="d4">Physical Sciences</data>
-    </node>
-    <node id="https://openalex.org/T10215">
-      <data key="d0">Semantic Web and Ontologies</data>
-      <data key="d1">4</data>
-      <data key="d2">Computer Science</data>
-      <data key="d3">Artificial Intelligence</data>
-      <data key="d4">Physical Sciences</data>
-    </node>
-    <node id="https://openalex.org/T10298">
-      <data key="d0">Urban Transport and Accessibility</data>
-      <data key="d1">3</data>
-      <data key="d2">Social Sciences</data>
-      <data key="d3">Transportation</data>
-      <data key="d4">Social Sciences</data>
-    </node>
-    <node id="https://openalex.org/T10361">
-      <data key="d0">Silicon Carbide Semiconductor Technologies</data>
-      <data key="d1">3</data>
-      <data key="d2">Engineering</data>
-      <data key="d3">Electrical and Electronic Engineering</data>
-      <data key="d4">Physical Sciences</data>
-    </node>
-    <node id="https://openalex.org/T10468">
-      <data key="d0">Photovoltaic System Optimization Techniques</data>
-      <data key="d1">3</data>
-      <data key="d2">Energy</data>
-      <data key="d3">Renewable Energy, Sustainability and the Environment</data>
-      <data key="d4">Physical Sciences</data>
-    </node>
-    <node id="https://openalex.org/T11520">
-      <data key="d0">Advanced Thermodynamics and Statistical Mechanics</data>
-      <data key="d1">5</data>
-      <data key="d2">Physics and Astronomy</data>
-      <data key="d3">Statistical and Nonlinear Physics</data>
-      <data key="d4">Physical Sciences</data>
-    </node>
-    <node id="https://openalex.org/T10278">
-      <data key="d0">Electric Motor Design and Analysis</data>
-      <data key="d1">9</data>
-      <data key="d2">Engineering</data>
-      <data key="d3">Electrical and Electronic Engineering</data>
-      <data key="d4">Physical Sciences</data>
-    </node>
-    <node id="https://openalex.org/T10775">
-      <data key="d0">Generative Adversarial Networks and Image Synthesis</data>
-      <data key="d1">3</data>
-      <data key="d2">Computer Science</data>
-      <data key="d3">Computer Vision and Pattern Recognition</data>
-      <data key="d4">Physical Sciences</data>
-    </node>
-    <node id="https://openalex.org/T10005">
-      <data key="d0">Ecology and Vegetation Dynamics Studies</data>
-      <data key="d1">3</data>
-      <data key="d2">Environmental Science</data>
-      <data key="d3">Nature and Landscape Conservation</data>
-      <data key="d4">Physical Sciences</data>
-    </node>
-    <node id="https://openalex.org/T11749">
-      <data key="d0">Iterative Learning Control Systems</data>
-      <data key="d1">12</data>
-      <data key="d2">Engineering</data>
-      <data key="d3">Control and Systems Engineering</data>
-      <data key="d4">Physical Sciences</data>
-    </node>
-    <node id="https://openalex.org/T11192">
-      <data key="d0">Underwater Vehicles and Communication Systems</data>
-      <data key="d1">5</data>
-      <data key="d2">Engineering</data>
-      <data key="d3">Ocean Engineering</data>
-      <data key="d4">Physical Sciences</data>
-    </node>
-    <node id="https://openalex.org/T10482">
-      <data key="d0">Mathematical and Theoretical Epidemiology and Ecology Models</data>
-      <data key="d1">3</data>
-      <data key="d2">Medicine</data>
-      <data key="d3">Public Health, Environmental and Occupational Health</data>
-      <data key="d4">Health Sciences</data>
-    </node>
-    <node id="https://openalex.org/T10320">
-      <data key="d0">Neural Networks and Applications</data>
-      <data key="d1">21</data>
-      <data key="d2">Computer Science</data>
-      <data key="d3">Artificial Intelligence</data>
-      <data key="d4">Physical Sciences</data>
-    </node>
-    <node id="https://openalex.org/T13126">
-      <data key="d0">Scientific Research and Discoveries</data>
-      <data key="d1">4</data>
-      <data key="d2">Physics and Astronomy</data>
-      <data key="d3">Statistical and Nonlinear Physics</data>
-      <data key="d4">Physical Sciences</data>
-    </node>
-    <node id="https://openalex.org/T10191">
-      <data key="d0">Robotics and Sensor-Based Localization</data>
-      <data key="d1">5</data>
-      <data key="d2">Engineering</data>
-      <data key="d3">Aerospace Engineering</data>
-      <data key="d4">Physical Sciences</data>
-    </node>
-    <node id="https://openalex.org/T11447">
-      <data key="d0">Blind Source Separation Techniques</data>
-      <data key="d1">9</data>
-      <data key="d2">Computer Science</data>
-      <data key="d3">Signal Processing</data>
-      <data key="d4">Physical Sciences</data>
-    </node>
-    <node id="https://openalex.org/T10688">
-      <data key="d0">Image and Signal Denoising Methods</data>
-      <data key="d1">13</data>
-      <data key="d2">Computer Science</data>
-      <data key="d3">Computer Vision and Pattern Recognition</data>
-      <data key="d4">Physical Sciences</data>
-    </node>
-    <node id="https://openalex.org/T11309">
-      <data key="d0">Music and Audio Processing</data>
-      <data key="d1">4</data>
-      <data key="d2">Computer Science</data>
-      <data key="d3">Signal Processing</data>
-      <data key="d4">Physical Sciences</data>
-    </node>
-    <node id="https://openalex.org/T11261">
-      <data key="d0">Quantum chaos and dynamical systems</data>
-      <data key="d1">8</data>
-      <data key="d2">Physics and Astronomy</data>
-      <data key="d3">Statistical and Nonlinear Physics</data>
-      <data key="d4">Physical Sciences</data>
-    </node>
-    <node id="https://openalex.org/T10768">
-      <data key="d0">Electric Vehicles and Infrastructure</data>
-      <data key="d1">3</data>
-      <data key="d2">Engineering</data>
-      <data key="d3">Electrical and Electronic Engineering</data>
-      <data key="d4">Physical Sciences</data>
-    </node>
-    <node id="https://openalex.org/T10836">
-      <data key="d0">Metabolomics and Mass Spectrometry Studies</data>
-      <data key="d1">5</data>
-      <data key="d2">Biochemistry, Genetics and Molecular Biology</data>
-      <data key="d3">Molecular Biology</data>
-      <data key="d4">Life Sciences</data>
-    </node>
-    <node id="https://openalex.org/T10538">
-      <data key="d0">Data Mining Algorithms and Applications</data>
-      <data key="d1">4</data>
-      <data key="d2">Computer Science</data>
-      <data key="d3">Information Systems</data>
-      <data key="d4">Physical Sciences</data>
-    </node>
-    <node id="https://openalex.org/T10036">
-      <data key="d0">Advanced Neural Network Applications</data>
-      <data key="d1">13</data>
-      <data key="d2">Computer Science</data>
-      <data key="d3">Computer Vision and Pattern Recognition</data>
-      <data key="d4">Physical Sciences</data>
-    </node>
-    <node id="https://openalex.org/T12015">
-      <data key="d0">Photoacoustic and Ultrasonic Imaging</data>
-      <data key="d1">9</data>
-      <data key="d2">Engineering</data>
-      <data key="d3">Biomedical Engineering</data>
-      <data key="d4">Physical Sciences</data>
-    </node>
-    <node id="https://openalex.org/T11187">
-      <data key="d0">Nonlinear Dynamics and Pattern Formation</data>
-      <data key="d1">8</data>
-      <data key="d2">Computer Science</data>
-      <data key="d3">Computer Networks and Communications</data>
-      <data key="d4">Physical Sciences</data>
-    </node>
-    <node id="https://openalex.org/T12535">
-      <data key="d0">Machine Learning and Data Classification</data>
-      <data key="d1">11</data>
-      <data key="d2">Computer Science</data>
-      <data key="d3">Artificial Intelligence</data>
-      <data key="d4">Physical Sciences</data>
-    </node>
-    <node id="https://openalex.org/T12859">
-      <data key="d0">Cell Image Analysis Techniques</data>
-      <data key="d1">6</data>
-      <data key="d2">Biochemistry, Genetics and Molecular Biology</data>
-      <data key="d3">Biophysics</data>
-      <data key="d4">Life Sciences</data>
-    </node>
-    <node id="https://openalex.org/T10026">
-      <data key="d0">Galaxies: Formation, Evolution, Phenomena</data>
-      <data key="d1">7</data>
-      <data key="d2">Physics and Astronomy</data>
-      <data key="d3">Astronomy and Astrophysics</data>
-      <data key="d4">Physical Sciences</data>
-    </node>
-    <node id="https://openalex.org/T10533">
-      <data key="d0">Teaching and Learning Programming</data>
-      <data key="d1">4</data>
-      <data key="d2">Computer Science</data>
-      <data key="d3">Computer Science Applications</data>
-      <data key="d4">Physical Sciences</data>
-    </node>
-    <node id="https://openalex.org/T12205">
-      <data key="d0">Time Series Analysis and Forecasting</data>
-      <data key="d1">5</data>
-      <data key="d2">Computer Science</data>
-      <data key="d3">Signal Processing</data>
-      <data key="d4">Physical Sciences</data>
-    </node>
-    <node id="https://openalex.org/T11814">
-      <data key="d0">Advanced Manufacturing and Logistics Optimization</data>
-      <data key="d1">8</data>
-      <data key="d2">Engineering</data>
-      <data key="d3">Industrial and Manufacturing Engineering</data>
-      <data key="d4">Physical Sciences</data>
-    </node>
-    <node id="https://openalex.org/T12676">
-      <data key="d0">Machine Learning and ELM</data>
-      <data key="d1">6</data>
-      <data key="d2">Computer Science</data>
-      <data key="d3">Artificial Intelligence</data>
-      <data key="d4">Physical Sciences</data>
-    </node>
-    <node id="https://openalex.org/T10502">
-      <data key="d0">Advanced Memory and Neural Computing</data>
-      <data key="d1">8</data>
-      <data key="d2">Engineering</data>
-      <data key="d3">Electrical and Electronic Engineering</data>
-      <data key="d4">Physical Sciences</data>
-    </node>
-    <node id="https://openalex.org/T12338">
-      <data key="d0">Digital literacy in education</data>
-      <data key="d1">3</data>
-      <data key="d2">Computer Science</data>
-      <data key="d3">Information Systems</data>
-      <data key="d4">Physical Sciences</data>
-    </node>
-    <node id="https://openalex.org/T11147">
-      <data key="d0">Misinformation and Its Impacts</data>
-      <data key="d1">3</data>
-      <data key="d2">Social Sciences</data>
-      <data key="d3">Sociology and Political Science</data>
-      <data key="d4">Social Sciences</data>
-    </node>
-    <node id="https://openalex.org/T10839">
-      <data key="d0">Pancreatic function and diabetes</data>
-      <data key="d1">3</data>
-      <data key="d2">Medicine</data>
-      <data key="d3">Surgery</data>
-      <data key="d4">Health Sciences</data>
-    </node>
-    <node id="https://openalex.org/T10252">
-      <data key="d0">Microbial Natural Products and Biosynthesis</data>
-      <data key="d1">3</data>
-      <data key="d2">Medicine</data>
-      <data key="d3">Pharmacology</data>
-      <data key="d4">Health Sciences</data>
-    </node>
-    <node id="https://openalex.org/T10510">
-      <data key="d0">Stroke Rehabilitation and Recovery</data>
-      <data key="d1">7</data>
-      <data key="d2">Medicine</data>
-      <data key="d3">Rehabilitation</data>
-      <data key="d4">Health Sciences</data>
-    </node>
-    <node id="https://openalex.org/T10378">
-      <data key="d0">Advanced MRI Techniques and Applications</data>
-      <data key="d1">6</data>
-      <data key="d2">Medicine</data>
-      <data key="d3">Radiology, Nuclear Medicine and Imaging</data>
-      <data key="d4">Health Sciences</data>
-    </node>
-    <node id="https://openalex.org/T10791">
-      <data key="d0">Advanced Control Systems Optimization</data>
-      <data key="d1">14</data>
-      <data key="d2">Engineering</data>
-      <data key="d3">Control and Systems Engineering</data>
-      <data key="d4">Physical Sciences</data>
-    </node>
-    <node id="https://openalex.org/T11130">
-      <data key="d0">Coding theory and cryptography</data>
-      <data key="d1">4</data>
-      <data key="d2">Computer Science</data>
-      <data key="d3">Artificial Intelligence</data>
-      <data key="d4">Physical Sciences</data>
-    </node>
-    <node id="https://openalex.org/T11222">
-      <data key="d0">Magnetic Properties and Applications</data>
-      <data key="d1">4</data>
-      <data key="d2">Materials Science</data>
-      <data key="d3">Electronic, Optical and Magnetic Materials</data>
-      <data key="d4">Physical Sciences</data>
-    </node>
-    <node id="https://openalex.org/T11270">
-      <data key="d0">Complex Systems and Time Series Analysis</data>
-      <data key="d1">7</data>
-      <data key="d2">Economics, Econometrics and Finance</data>
-      <data key="d3">Economics and Econometrics</data>
-      <data key="d4">Social Sciences</data>
-    </node>
-    <node id="https://openalex.org/T11797">
-      <data key="d0">graph theory and CDMA systems</data>
-      <data key="d1">4</data>
-      <data key="d2">Engineering</data>
-      <data key="d3">Electrical and Electronic Engineering</data>
-      <data key="d4">Physical Sciences</data>
-    </node>
-    <node id="https://openalex.org/T10220">
-      <data key="d0">Machine Fault Diagnosis Techniques</data>
-      <data key="d1">7</data>
-      <data key="d2">Engineering</data>
-      <data key="d3">Control and Systems Engineering</data>
-      <data key="d4">Physical Sciences</data>
-    </node>
-    <node id="https://openalex.org/T10121">
-      <data key="d0">Building Energy and Comfort Optimization</data>
-      <data key="d1">4</data>
-      <data key="d2">Engineering</data>
-      <data key="d3">Building and Construction</data>
-      <data key="d4">Physical Sciences</data>
-    </node>
-    <node id="https://openalex.org/T11513">
-      <data key="d0">stochastic dynamics and bifurcation</data>
-      <data key="d1">4</data>
-      <data key="d2">Physics and Astronomy</data>
-      <data key="d3">Statistical and Nonlinear Physics</data>
-      <data key="d4">Physical Sciences</data>
-    </node>
-    <node id="https://openalex.org/T12072">
-      <data key="d0">Machine Learning and Algorithms</data>
-      <data key="d1">5</data>
-      <data key="d2">Computer Science</data>
-      <data key="d3">Artificial Intelligence</data>
-      <data key="d4">Physical Sciences</data>
-    </node>
-    <node id="https://openalex.org/T11326">
-      <data key="d0">Stock Market Forecasting Methods</data>
-      <data key="d1">4</data>
-      <data key="d2">Decision Sciences</data>
-      <data key="d3">Management Science and Operations Research</data>
-      <data key="d4">Social Sciences</data>
-    </node>
-    <node id="https://openalex.org/T11252">
-      <data key="d0">Evolutionary Game Theory and Cooperation</data>
-      <data key="d1">3</data>
-      <data key="d2">Social Sciences</data>
-      <data key="d3">Sociology and Political Science</data>
-      <data key="d4">Social Sciences</data>
-    </node>
-    <node id="https://openalex.org/T13083">
-      <data key="d0">Advanced Text Analysis Techniques</data>
-      <data key="d1">9</data>
-      <data key="d2">Computer Science</data>
-      <data key="d3">Artificial Intelligence</data>
-      <data key="d4">Physical Sciences</data>
-    </node>
-    <node id="https://openalex.org/T10504">
-      <data key="d0">Sensorless Control of Electric Motors</data>
-      <data key="d1">6</data>
-      <data key="d2">Engineering</data>
-      <data key="d3">Electrical and Electronic Engineering</data>
-      <data key="d4">Physical Sciences</data>
-    </node>
-    <node id="https://openalex.org/T11081">
-      <data key="d0">Advanced Control Systems Design</data>
-      <data key="d1">5</data>
-      <data key="d2">Engineering</data>
-      <data key="d3">Control and Systems Engineering</data>
-      <data key="d4">Physical Sciences</data>
-    </node>
-    <node id="https://openalex.org/T11105">
-      <data key="d0">Advanced Image Processing Techniques</data>
-      <data key="d1">7</data>
-      <data key="d2">Computer Science</data>
-      <data key="d3">Computer Vision and Pattern Recognition</data>
-      <data key="d4">Physical Sciences</data>
-    </node>
-    <node id="https://openalex.org/T11615">
-      <data key="d0">Control and Dynamics of Mobile Robots</data>
-      <data key="d1">8</data>
-      <data key="d2">Engineering</data>
-      <data key="d3">Control and Systems Engineering</data>
-      <data key="d4">Physical Sciences</data>
-    </node>
-    <node id="https://openalex.org/T10709">
-      <data key="d0">Social Robot Interaction and HRI</data>
-      <data key="d1">3</data>
-      <data key="d2">Psychology</data>
-      <data key="d3">Social Psychology</data>
-      <data key="d4">Social Sciences</data>
-    </node>
-    <node id="https://openalex.org/T11017">
-      <data key="d0">Chaos-based Image/Signal Encryption</data>
-      <data key="d1">5</data>
-      <data key="d2">Computer Science</data>
-      <data key="d3">Computer Vision and Pattern Recognition</data>
-      <data key="d4">Physical Sciences</data>
-    </node>
-    <node id="https://openalex.org/T11525">
-      <data key="d0">Piezoelectric Actuators and Control</data>
-      <data key="d1">3</data>
-      <data key="d2">Engineering</data>
-      <data key="d3">Control and Systems Engineering</data>
-      <data key="d4">Physical Sciences</data>
-    </node>
-    <node id="https://openalex.org/T10621">
-      <data key="d0">Gene Regulatory Network Analysis</data>
-      <data key="d1">6</data>
-      <data key="d2">Biochemistry, Genetics and Molecular Biology</data>
-      <data key="d3">Molecular Biology</data>
-      <data key="d4">Life Sciences</data>
-    </node>
-    <node id="https://openalex.org/T11304">
-      <data key="d0">Advanced Neuroimaging Techniques and Applications</data>
-      <data key="d1">4</data>
-      <data key="d2">Medicine</data>
-      <data key="d3">Radiology, Nuclear Medicine and Imaging</data>
-      <data key="d4">Health Sciences</data>
-    </node>
-    <node id="https://openalex.org/T10044">
-      <data key="d0">Protein Structure and Dynamics</data>
-      <data key="d1">4</data>
-      <data key="d2">Biochemistry, Genetics and Molecular Biology</data>
-      <data key="d3">Molecular Biology</data>
-      <data key="d4">Life Sciences</data>
-    </node>
-    <node id="https://openalex.org/T13643">
-      <data key="d0">Artificial Intelligence in Law</data>
-      <data key="d1">3</data>
-      <data key="d2">Social Sciences</data>
-      <data key="d3">Political Science and International Relations</data>
-      <data key="d4">Social Sciences</data>
-    </node>
-    <node id="https://openalex.org/T11052">
-      <data key="d0">Energy Load and Power Forecasting</data>
-      <data key="d1">5</data>
-      <data key="d2">Engineering</data>
-      <data key="d3">Electrical and Electronic Engineering</data>
-      <data key="d4">Physical Sciences</data>
-    </node>
-    <node id="https://openalex.org/T12162">
-      <data key="d0">Cellular Automata and Applications</data>
-      <data key="d1">5</data>
-      <data key="d2">Computer Science</data>
-      <data key="d3">Computational Theory and Mathematics</data>
-      <data key="d4">Physical Sciences</data>
-    </node>
-    <node id="https://openalex.org/T12254">
-      <data key="d0">Machine Learning in Bioinformatics</data>
-      <data key="d1">3</data>
-      <data key="d2">Biochemistry, Genetics and Molecular Biology</data>
-      <data key="d3">Molecular Biology</data>
-      <data key="d4">Life Sciences</data>
-    </node>
-    <node id="https://openalex.org/T10868">
-      <data key="d0">Soft Robotics and Applications</data>
-      <data key="d1">4</data>
-      <data key="d2">Engineering</data>
-      <data key="d3">Biomedical Engineering</data>
-      <data key="d4">Physical Sciences</data>
-    </node>
-    <node id="https://openalex.org/T10586">
-      <data key="d0">Robotic Path Planning Algorithms</data>
-      <data key="d1">13</data>
-      <data key="d2">Computer Science</data>
-      <data key="d3">Computer Vision and Pattern Recognition</data>
-      <data key="d4">Physical Sciences</data>
-    </node>
-    <node id="https://openalex.org/T10664">
-      <data key="d0">Sentiment Analysis and Opinion Mining</data>
-      <data key="d1">8</data>
-      <data key="d2">Computer Science</data>
-      <data key="d3">Artificial Intelligence</data>
-      <data key="d4">Physical Sciences</data>
-    </node>
-    <node id="https://openalex.org/T12282">
-      <data key="d0">Mineral Processing and Grinding</data>
-      <data key="d1">5</data>
-      <data key="d2">Engineering</data>
-      <data key="d3">Mechanical Engineering</data>
-      <data key="d4">Physical Sciences</data>
-    </node>
-    <node id="https://openalex.org/T12153">
-      <data key="d0">Advanced Optical Sensing Technologies</data>
-      <data key="d1">6</data>
-      <data key="d2">Physics and Astronomy</data>
-      <data key="d3">Instrumentation</data>
-      <data key="d4">Physical Sciences</data>
-    </node>
-    <node id="https://openalex.org/T10848">
-      <data key="d0">Advanced Multi-Objective Optimization Algorithms</data>
-      <data key="d1">6</data>
-      <data key="d2">Computer Science</data>
-      <data key="d3">Computational Theory and Mathematics</data>
-      <data key="d4">Physical Sciences</data>
-    </node>
-    <node id="https://openalex.org/T12176">
-      <data key="d0">Optimization and Packing Problems</data>
-      <data key="d1">4</data>
-      <data key="d2">Engineering</data>
-      <data key="d3">Industrial and Manufacturing Engineering</data>
-      <data key="d4">Physical Sciences</data>
-    </node>
-    <node id="https://openalex.org/T10540">
-      <data key="d0">Advanced Fluorescence Microscopy Techniques</data>
-      <data key="d1">3</data>
-      <data key="d2">Biochemistry, Genetics and Molecular Biology</data>
-      <data key="d3">Biophysics</data>
-      <data key="d4">Life Sciences</data>
-    </node>
-    <node id="https://openalex.org/T10500">
-      <data key="d0">Sparse and Compressive Sensing Techniques</data>
-      <data key="d1">13</data>
-      <data key="d2">Engineering</data>
-      <data key="d3">Computational Mechanics</data>
-      <data key="d4">Physical Sciences</data>
-    </node>
-    <node id="https://openalex.org/T11659">
-      <data key="d0">Advanced Image Fusion Techniques</data>
-      <data key="d1">3</data>
-      <data key="d2">Engineering</data>
-      <data key="d3">Media Technology</data>
-      <data key="d4">Physical Sciences</data>
-    </node>
-    <node id="https://openalex.org/T12748">
-      <data key="d0">Molecular spectroscopy and chirality</data>
-      <data key="d1">3</data>
-      <data key="d2">Chemistry</data>
-      <data key="d3">Spectroscopy</data>
-      <data key="d4">Physical Sciences</data>
-    </node>
-    <node id="https://openalex.org/T10908">
-      <data key="d0">Analytical Chemistry and Chromatography</data>
-      <data key="d1">3</data>
-      <data key="d2">Chemistry</data>
-      <data key="d3">Spectroscopy</data>
-      <data key="d4">Physical Sciences</data>
-    </node>
-    <node id="https://openalex.org/T10680">
-      <data key="d0">Wind Energy Research and Development</data>
-      <data key="d1">4</data>
-      <data key="d2">Engineering</data>
-      <data key="d3">Aerospace Engineering</data>
-      <data key="d4">Physical Sciences</data>
-    </node>
-    <node id="https://openalex.org/T10594">
-      <data key="d0">Genetic and phenotypic traits in livestock</data>
-      <data key="d1">6</data>
-      <data key="d2">Biochemistry, Genetics and Molecular Biology</data>
-      <data key="d3">Genetics</data>
-      <data key="d4">Life Sciences</data>
-    </node>
-    <node id="https://openalex.org/T13377">
-      <data key="d0">Ecosystem dynamics and resilience</data>
-      <data key="d1">4</data>
-      <data key="d2">Environmental Science</data>
-      <data key="d3">Global and Planetary Change</data>
-      <data key="d4">Physical Sciences</data>
-    </node>
-    <node id="https://openalex.org/T11396">
-      <data key="d0">Artificial Intelligence in Healthcare</data>
-      <data key="d1">7</data>
-      <data key="d2">Health Professions</data>
-      <data key="d3">Health Information Management</data>
-      <data key="d4">Health Sciences</data>
-    </node>
-    <node id="https://openalex.org/T11897">
-      <data key="d0">Digital Holography and Microscopy</data>
-      <data key="d1">3</data>
-      <data key="d2">Physics and Astronomy</data>
-      <data key="d3">Atomic and Molecular Physics, and Optics</data>
-      <data key="d4">Physical Sciences</data>
-    </node>
-    <node id="https://openalex.org/T10305">
-      <data key="d0">Power System Optimization and Stability</data>
-      <data key="d1">5</data>
-      <data key="d2">Engineering</data>
-      <data key="d3">Electrical and Electronic Engineering</data>
-      <data key="d4">Physical Sciences</data>
-    </node>
-    <node id="https://openalex.org/T10638">
-      <data key="d0">Optical measurement and interference techniques</data>
-      <data key="d1">7</data>
-      <data key="d2">Computer Science</data>
-      <data key="d3">Computer Vision and Pattern Recognition</data>
-      <data key="d4">Physical Sciences</data>
-    </node>
-    <node id="https://openalex.org/T10860">
-      <data key="d0">Speech and Audio Processing</data>
-      <data key="d1">5</data>
-      <data key="d2">Computer Science</data>
-      <data key="d3">Signal Processing</data>
-      <data key="d4">Physical Sciences</data>
-    </node>
-    <node id="https://openalex.org/T10698">
-      <data key="d0">Transportation Planning and Optimization</data>
-      <data key="d1">6</data>
-      <data key="d2">Social Sciences</data>
-      <data key="d3">Transportation</data>
-      <data key="d4">Social Sciences</data>
-    </node>
-    <node id="https://openalex.org/T11569">
-      <data key="d0">Optical Coherence Tomography Applications</data>
-      <data key="d1">6</data>
-      <data key="d2">Engineering</data>
-      <data key="d3">Biomedical Engineering</data>
-      <data key="d4">Physical Sciences</data>
-    </node>
-    <node id="https://openalex.org/T11010">
-      <data key="d0">Logic, Reasoning, and Knowledge</data>
-      <data key="d1">7</data>
-      <data key="d2">Computer Science</data>
-      <data key="d3">Artificial Intelligence</data>
-      <data key="d4">Physical Sciences</data>
-    </node>
-    <node id="https://openalex.org/T11023">
-      <data key="d0">Prosthetics and Rehabilitation Robotics</data>
-      <data key="d1">9</data>
-      <data key="d2">Engineering</data>
-      <data key="d3">Biomedical Engineering</data>
-      <data key="d4">Physical Sciences</data>
-    </node>
-    <node id="https://openalex.org/T10012">
-      <data key="d0">Genetic diversity and population structure</data>
-      <data key="d1">3</data>
-      <data key="d2">Biochemistry, Genetics and Molecular Biology</data>
-      <data key="d3">Genetics</data>
-      <data key="d4">Life Sciences</data>
-    </node>
-    <node id="https://openalex.org/T10560">
-      <data key="d0">Diabetes Management and Research</data>
-      <data key="d1">4</data>
-      <data key="d2">Medicine</data>
-      <data key="d3">Endocrinology, Diabetes and Metabolism</data>
-      <data key="d4">Health Sciences</data>
-    </node>
-    <node id="https://openalex.org/T10463">
-      <data key="d0">Pulsars and Gravitational Waves Research</data>
-      <data key="d1">3</data>
-      <data key="d2">Physics and Astronomy</data>
-      <data key="d3">Astronomy and Astrophysics</data>
-      <data key="d4">Physical Sciences</data>
-    </node>
-    <node id="https://openalex.org/T11324">
-      <data key="d0">Spectroscopy Techniques in Biomedical and Chemical Research</data>
-      <data key="d1">7</data>
-      <data key="d2">Biochemistry, Genetics and Molecular Biology</data>
-      <data key="d3">Biophysics</data>
-      <data key="d4">Life Sciences</data>
-    </node>
-    <node id="https://openalex.org/T10640">
-      <data key="d0">Spectroscopy and Chemometric Analyses</data>
-      <data key="d1">12</data>
-      <data key="d2">Chemistry</data>
-      <data key="d3">Analytical Chemistry</data>
-      <data key="d4">Physical Sciences</data>
-    </node>
-    <node id="https://openalex.org/T10648">
-      <data key="d0">Virtual Reality Applications and Impacts</data>
-      <data key="d1">4</data>
-      <data key="d2">Computer Science</data>
-      <data key="d3">Human-Computer Interaction</data>
-      <data key="d4">Physical Sciences</data>
-    </node>
-    <node id="https://openalex.org/T10241">
-      <data key="d0">Functional Brain Connectivity Studies</data>
-      <data key="d1">9</data>
-      <data key="d2">Neuroscience</data>
-      <data key="d3">Cognitive Neuroscience</data>
-      <data key="d4">Life Sciences</data>
-    </node>
-    <node id="https://openalex.org/T10784">
-      <data key="d0">Muscle activation and electromyography studies</data>
-      <data key="d1">15</data>
-      <data key="d2">Engineering</data>
-      <data key="d3">Biomedical Engineering</data>
-      <data key="d4">Physical Sciences</data>
-    </node>
-    <node id="https://openalex.org/T11133">
-      <data key="d0">UAV Applications and Optimization</data>
-      <data key="d1">4</data>
-      <data key="d2">Engineering</data>
-      <data key="d3">Aerospace Engineering</data>
-      <data key="d4">Physical Sciences</data>
-    </node>
-    <node id="https://openalex.org/T11512">
-      <data key="d0">Anomaly Detection Techniques and Applications</data>
-      <data key="d1">11</data>
-      <data key="d2">Computer Science</data>
-      <data key="d3">Artificial Intelligence</data>
-      <data key="d4">Physical Sciences</data>
-    </node>
-    <node id="https://openalex.org/T12917">
-      <data key="d0">Astronomy and Astrophysical Research</data>
-      <data key="d1">3</data>
-      <data key="d2">Physics and Astronomy</data>
-      <data key="d3">Instrumentation</data>
-      <data key="d4">Physical Sciences</data>
-    </node>
-    <node id="https://openalex.org/T11211">
-      <data key="d0">3D Surveying and Cultural Heritage</data>
-      <data key="d1">3</data>
-      <data key="d2">Earth and Planetary Sciences</data>
-      <data key="d3">Geology</data>
-      <data key="d4">Physical Sciences</data>
-    </node>
-    <node id="https://openalex.org/T10025">
-      <data key="d0">Black Holes and Theoretical Physics</data>
-      <data key="d1">4</data>
-      <data key="d2">Physics and Astronomy</data>
-      <data key="d3">Nuclear and High Energy Physics</data>
-      <data key="d4">Physical Sciences</data>
-    </node>
-    <node id="https://openalex.org/T12772">
-      <data key="d0">Control and Stability of Dynamical Systems</data>
-      <data key="d1">6</data>
-      <data key="d2">Engineering</data>
-      <data key="d3">Control and Systems Engineering</data>
-      <data key="d4">Physical Sciences</data>
-    </node>
-    <node id="https://openalex.org/T11110">
-      <data key="d0">Stability and Controllability of Differential Equations</data>
-      <data key="d1">3</data>
-      <data key="d2">Engineering</data>
-      <data key="d3">Control and Systems Engineering</data>
-      <data key="d4">Physical Sciences</data>
-    </node>
-    <node id="https://openalex.org/T10456">
-      <data key="d0">Multi-Agent Systems and Negotiation</data>
-      <data key="d1">6</data>
-      <data key="d2">Computer Science</data>
-      <data key="d3">Artificial Intelligence</data>
-      <data key="d4">Physical Sciences</data>
-    </node>
-    <node id="https://openalex.org/T10223">
-      <data key="d0">Microgrid Control and Optimization</data>
-      <data key="d1">25</data>
-      <data key="d2">Engineering</data>
-      <data key="d3">Control and Systems Engineering</data>
-      <data key="d4">Physical Sciences</data>
-    </node>
-    <node id="https://openalex.org/T10689">
-      <data key="d0">Remote-Sensing Image Classification</data>
-      <data key="d1">4</data>
-      <data key="d2">Engineering</data>
-      <data key="d3">Media Technology</data>
-      <data key="d4">Physical Sciences</data>
-    </node>
-    <node id="https://openalex.org/T11775">
-      <data key="d0">COVID-19 diagnosis using AI</data>
-      <data key="d1">8</data>
-      <data key="d2">Medicine</data>
-      <data key="d3">Radiology, Nuclear Medicine and Imaging</data>
-      <data key="d4">Health Sciences</data>
-    </node>
-    <node id="https://openalex.org/T10603">
-      <data key="d0">Smart Grid Energy Management</data>
-      <data key="d1">10</data>
-      <data key="d2">Engineering</data>
-      <data key="d3">Electrical and Electronic Engineering</data>
-      <data key="d4">Physical Sciences</data>
-    </node>
-    <node id="https://openalex.org/T11448">
-      <data key="d0">Face recognition and analysis</data>
-      <data key="d1">3</data>
-      <data key="d2">Computer Science</data>
-      <data key="d3">Computer Vision and Pattern Recognition</data>
-      <data key="d4">Physical Sciences</data>
-    </node>
-    <node id="https://openalex.org/T11122">
-      <data key="d0">Online Learning and Analytics</data>
-      <data key="d1">6</data>
-      <data key="d2">Computer Science</data>
-      <data key="d3">Computer Science Applications</data>
-      <data key="d4">Physical Sciences</data>
-    </node>
-    <node id="https://openalex.org/T11667">
-      <data key="d0">Advanced Chemical Sensor Technologies</data>
-      <data key="d1">3</data>
-      <data key="d2">Engineering</data>
-      <data key="d3">Biomedical Engineering</data>
-      <data key="d4">Physical Sciences</data>
-    </node>
-    <node id="https://openalex.org/T10581">
-      <data key="d0">Neural dynamics and brain function</data>
-      <data key="d1">9</data>
-      <data key="d2">Neuroscience</data>
-      <data key="d3">Cognitive Neuroscience</data>
-      <data key="d4">Life Sciences</data>
-    </node>
-    <node id="https://openalex.org/T11343">
-      <data key="d0">Power Transformer Diagnostics and Insulation</data>
-      <data key="d1">3</data>
-      <data key="d2">Engineering</data>
-      <data key="d3">Electrical and Electronic Engineering</data>
-      <data key="d4">Physical Sciences</data>
-    </node>
-    <node id="https://openalex.org/T11490">
-      <data key="d0">Hydrological Forecasting Using AI</data>
-      <data key="d1">3</data>
-      <data key="d2">Environmental Science</data>
-      <data key="d3">Environmental Engineering</data>
-      <data key="d4">Physical Sciences</data>
-    </node>
-    <node id="https://openalex.org/T10888">
-      <data key="d0">Augmented Reality Applications</data>
-      <data key="d1">6</data>
-      <data key="d2">Computer Science</data>
-      <data key="d3">Computer Vision and Pattern Recognition</data>
-      <data key="d4">Physical Sciences</data>
-    </node>
-    <node id="https://openalex.org/T10429">
-      <data key="d0">EEG and Brain-Computer Interfaces</data>
-      <data key="d1">12</data>
-      <data key="d2">Neuroscience</data>
-      <data key="d3">Cognitive Neuroscience</data>
-      <data key="d4">Life Sciences</data>
-    </node>
-    <node id="https://openalex.org/T10917">
-      <data key="d0">Smart Grid Security and Resilience</data>
-      <data key="d1">5</data>
-      <data key="d2">Engineering</data>
-      <data key="d3">Control and Systems Engineering</data>
-      <data key="d4">Physical Sciences</data>
-    </node>
-    <node id="https://openalex.org/T11307">
-      <data key="d0">Domain Adaptation and Few-Shot Learning</data>
-      <data key="d1">5</data>
-      <data key="d2">Computer Science</data>
-      <data key="d3">Artificial Intelligence</data>
-      <data key="d4">Physical Sciences</data>
-    </node>
-    <node id="https://openalex.org/T11227">
-      <data key="d0">Diabetic Foot Ulcer Assessment and Management</data>
-      <data key="d1">4</data>
-      <data key="d2">Medicine</data>
-      <data key="d3">Endocrinology, Diabetes and Metabolism</data>
-      <data key="d4">Health Sciences</data>
-    </node>
-    <node id="https://openalex.org/T10972">
-      <data key="d0">Power Systems Fault Detection</data>
-      <data key="d1">8</data>
-      <data key="d2">Engineering</data>
-      <data key="d3">Control and Systems Engineering</data>
-      <data key="d4">Physical Sciences</data>
-    </node>
-    <node id="https://openalex.org/T10106">
-      <data key="d0">Autism Spectrum Disorder Research</data>
-      <data key="d1">3</data>
-      <data key="d2">Neuroscience</data>
-      <data key="d3">Cognitive Neuroscience</data>
-      <data key="d4">Life Sciences</data>
-    </node>
-    <node id="https://openalex.org/T10052">
-      <data key="d0">Medical Image Segmentation Techniques</data>
-      <data key="d1">4</data>
-      <data key="d2">Computer Science</data>
-      <data key="d3">Computer Vision and Pattern Recognition</data>
-      <data key="d4">Physical Sciences</data>
-    </node>
-    <node id="https://openalex.org/T10876">
-      <data key="d0">Fault Detection and Control Systems</data>
-      <data key="d1">13</data>
-      <data key="d2">Engineering</data>
-      <data key="d3">Control and Systems Engineering</data>
-      <data key="d4">Physical Sciences</data>
-    </node>
-    <node id="https://openalex.org/T10015">
-      <data key="d0">Genomics and Phylogenetic Studies</data>
-      <data key="d1">7</data>
-      <data key="d2">Biochemistry, Genetics and Molecular Biology</data>
-      <data key="d3">Molecular Biology</data>
-      <data key="d4">Life Sciences</data>
-    </node>
-    <node id="https://openalex.org/T10028">
-      <data key="d0">Topic Modeling</data>
-      <data key="d1">9</data>
-      <data key="d2">Computer Science</data>
-      <data key="d3">Artificial Intelligence</data>
-      <data key="d4">Physical Sciences</data>
-    </node>
-    <node id="https://openalex.org/T10211">
-      <data key="d0">Computational Drug Discovery Methods</data>
-      <data key="d1">7</data>
-      <data key="d2">Computer Science</data>
-      <data key="d3">Computational Theory and Mathematics</data>
-      <data key="d4">Physical Sciences</data>
-    </node>
-    <node id="https://openalex.org/T14246">
-      <data key="d0">E-Learning and Knowledge Management</data>
-      <data key="d1">7</data>
-      <data key="d2">Computer Science</data>
-      <data key="d3">Computer Science Applications</data>
-      <data key="d4">Physical Sciences</data>
-    </node>
-    <node id="https://openalex.org/T10887">
-      <data key="d0">Bioinformatics and Genomic Networks</data>
-      <data key="d1">5</data>
-      <data key="d2">Biochemistry, Genetics and Molecular Biology</data>
-      <data key="d3">Molecular Biology</data>
-      <data key="d4">Life Sciences</data>
-    </node>
-    <node id="https://openalex.org/T11954">
-      <data key="d0">Energy Efficiency and Management</data>
-      <data key="d1">3</data>
-      <data key="d2">Energy</data>
-      <data key="d3">Renewable Energy, Sustainability and the Environment</data>
-      <data key="d4">Physical Sciences</data>
-    </node>
-    <node id="https://openalex.org/T10400">
-      <data key="d0">Network Security and Intrusion Detection</data>
-      <data key="d1">4</data>
-      <data key="d2">Computer Science</data>
-      <data key="d3">Computer Networks and Communications</data>
-      <data key="d4">Physical Sciences</data>
-    </node>
-    <node id="https://openalex.org/T10487">
-      <data key="d0">Plant and animal studies</data>
-      <data key="d1">4</data>
-      <data key="d2">Agricultural and Biological Sciences</data>
-      <data key="d3">Ecology, Evolution, Behavior and Systematics</data>
-      <data key="d4">Life Sciences</data>
-    </node>
-    <node id="https://openalex.org/T10885">
-      <data key="d0">Gene expression and cancer classification</data>
-      <data key="d1">9</data>
-      <data key="d2">Biochemistry, Genetics and Molecular Biology</data>
-      <data key="d3">Molecular Biology</data>
-      <data key="d4">Life Sciences</data>
-    </node>
-    <node id="https://openalex.org/T11609">
-      <data key="d0">Geophysical Methods and Applications</data>
-      <data key="d1">7</data>
-      <data key="d2">Engineering</data>
-      <data key="d3">Ocean Engineering</data>
-      <data key="d4">Physical Sciences</data>
-    </node>
-    <node id="https://openalex.org/T10181">
-      <data key="d0">Natural Language Processing Techniques</data>
-      <data key="d1">9</data>
-      <data key="d2">Computer Science</data>
-      <data key="d3">Artificial Intelligence</data>
-      <data key="d4">Physical Sciences</data>
-    </node>
-    <node id="https://openalex.org/T10175">
-      <data key="d0">Advanced DC-DC Converters</data>
-      <data key="d1">11</data>
-      <data key="d2">Engineering</data>
-      <data key="d3">Electrical and Electronic Engineering</data>
-      <data key="d4">Physical Sciences</data>
-    </node>
-    <node id="https://openalex.org/T13114">
-      <data key="d0">Image Processing Techniques and Applications</data>
-      <data key="d1">9</data>
-      <data key="d2">Engineering</data>
-      <data key="d3">Media Technology</data>
-      <data key="d4">Physical Sciences</data>
-    </node>
-    <node id="https://openalex.org/T11102">
-      <data key="d0">HVDC Systems and Fault Protection</data>
-      <data key="d1">11</data>
-      <data key="d2">Engineering</data>
-      <data key="d3">Electrical and Electronic Engineering</data>
-      <data key="d4">Physical Sciences</data>
-    </node>
-    <node id="https://openalex.org/T10805">
-      <data key="d0">Vehicle Dynamics and Control Systems</data>
-      <data key="d1">5</data>
-      <data key="d2">Engineering</data>
-      <data key="d3">Automotive Engineering</data>
-      <data key="d4">Physical Sciences</data>
-    </node>
-    <node id="https://openalex.org/T10100">
-      <data key="d0">Metaheuristic Optimization Algorithms Research</data>
-      <data key="d1">8</data>
-      <data key="d2">Computer Science</data>
-      <data key="d3">Artificial Intelligence</data>
-      <data key="d4">Physical Sciences</data>
-    </node>
-    <node id="https://openalex.org/T10228">
-      <data key="d0">Multilevel Inverters and Converters</data>
-      <data key="d1">17</data>
-      <data key="d2">Engineering</data>
-      <data key="d3">Electrical and Electronic Engineering</data>
-      <data key="d4">Physical Sciences</data>
-    </node>
-    <node id="https://openalex.org/T10271">
-      <data key="d0">Seismic Imaging and Inversion Techniques</data>
-      <data key="d1">5</data>
-      <data key="d2">Earth and Planetary Sciences</data>
-      <data key="d3">Geophysics</data>
-      <data key="d4">Physical Sciences</data>
-    </node>
-    <node id="https://openalex.org/T12395">
-      <data key="d0">Educational Innovations and Technology</data>
-      <data key="d1">7</data>
-      <data key="d2">Computer Science</data>
-      <data key="d3">Information Systems</data>
-      <data key="d4">Physical Sciences</data>
-    </node>
-    <node id="https://openalex.org/T13702">
-      <data key="d0">Machine Learning in Healthcare</data>
-      <data key="d1">5</data>
-      <data key="d2">Computer Science</data>
-      <data key="d3">Artificial Intelligence</data>
-      <data key="d4">Physical Sciences</data>
-    </node>
-    <node id="https://openalex.org/T11236">
-      <data key="d0">Control Systems and Identification</data>
-      <data key="d1">9</data>
-      <data key="d2">Engineering</data>
-      <data key="d3">Control and Systems Engineering</data>
-      <data key="d4">Physical Sciences</data>
-    </node>
-    <node id="https://openalex.org/T10244">
-      <data key="d0">Chaos control and synchronization</data>
-      <data key="d1">8</data>
-      <data key="d2">Physics and Astronomy</data>
-      <data key="d3">Statistical and Nonlinear Physics</data>
-      <data key="d4">Physical Sciences</data>
-    </node>
-    <node id="https://openalex.org/T11941">
-      <data key="d0">Power System Reliability and Maintenance</data>
-      <data key="d1">4</data>
-      <data key="d2">Engineering</data>
-      <data key="d3">Safety, Risk, Reliability and Quality</data>
-      <data key="d4">Physical Sciences</data>
-    </node>
-    <node id="https://openalex.org/T10046">
-      <data key="d0">Stability and Control of Uncertain Systems</data>
-      <data key="d1">9</data>
-      <data key="d2">Engineering</data>
-      <data key="d3">Control and Systems Engineering</data>
-      <data key="d4">Physical Sciences</data>
-    </node>
-    <node id="https://openalex.org/T12549">
-      <data key="d0">Image and Object Detection Techniques</data>
-      <data key="d1">3</data>
-      <data key="d2">Computer Science</data>
-      <data key="d3">Computer Vision and Pattern Recognition</data>
-      <data key="d4">Physical Sciences</data>
-    </node>
-    <node id="https://openalex.org/T12422">
-      <data key="d0">Radiomics and Machine Learning in Medical Imaging</data>
-      <data key="d1">12</data>
-      <data key="d2">Medicine</data>
-      <data key="d3">Radiology, Nuclear Medicine and Imaging</data>
-      <data key="d4">Health Sciences</data>
-    </node>
-    <node id="https://openalex.org/T11468">
-      <data key="d0">Genetic Mapping and Diversity in Plants and Animals</data>
-      <data key="d1">3</data>
-      <data key="d2">Biochemistry, Genetics and Molecular Biology</data>
-      <data key="d3">Genetics</data>
-      <data key="d4">Life Sciences</data>
-    </node>
-    <node id="https://openalex.org/T10571">
-      <data key="d0">Robotic Mechanisms and Dynamics</data>
-      <data key="d1">6</data>
-      <data key="d2">Engineering</data>
-      <data key="d3">Control and Systems Engineering</data>
-      <data key="d4">Physical Sciences</data>
-    </node>
-    <node id="https://openalex.org/T10095">
-      <data key="d0">Cosmology and Gravitation Theories</data>
-      <data key="d1">5</data>
-      <data key="d2">Physics and Astronomy</data>
-      <data key="d3">Astronomy and Astrophysics</data>
-      <data key="d4">Physical Sciences</data>
-    </node>
-    <node id="https://openalex.org/T11757">
-      <data key="d0">Seismic Waves and Analysis</data>
-      <data key="d1">5</data>
-      <data key="d2">Earth and Planetary Sciences</data>
-      <data key="d3">Geophysics</data>
-      <data key="d4">Physical Sciences</data>
-    </node>
-    <node id="https://openalex.org/T10057">
-      <data key="d0">Face and Expression Recognition</data>
-      <data key="d1">8</data>
-      <data key="d2">Computer Science</data>
-      <data key="d3">Computer Vision and Pattern Recognition</data>
-      <data key="d4">Physical Sciences</data>
-    </node>
-    <node id="https://openalex.org/T10740">
-      <data key="d0">Wind Turbine Control Systems</data>
-      <data key="d1">5</data>
-      <data key="d2">Engineering</data>
-      <data key="d3">Electrical and Electronic Engineering</data>
-      <data key="d4">Physical Sciences</data>
-    </node>
-    <node id="https://openalex.org/T10770">
-      <data key="d0">Soil Geostatistics and Mapping</data>
-      <data key="d1">5</data>
-      <data key="d2">Environmental Science</data>
-      <data key="d3">Environmental Engineering</data>
-      <data key="d4">Physical Sciences</data>
-    </node>
-    <node id="https://openalex.org/T13183">
-      <data key="d0">Islanding Detection in Power Systems</data>
-      <data key="d1">10</data>
-      <data key="d2">Engineering</data>
-      <data key="d3">Electrical and Electronic Engineering</data>
-      <data key="d4">Physical Sciences</data>
-    </node>
-    <node id="https://openalex.org/T10637">
-      <data key="d0">Advanced Clustering Algorithms Research</data>
-      <data key="d1">7</data>
-      <data key="d2">Computer Science</data>
-      <data key="d3">Artificial Intelligence</data>
-      <data key="d4">Physical Sciences</data>
-    </node>
-    <node id="https://openalex.org/T12169">
-      <data key="d0">Non-Destructive Testing Techniques</data>
-      <data key="d1">3</data>
-      <data key="d2">Engineering</data>
-      <data key="d3">Mechanical Engineering</data>
-      <data key="d4">Physical Sciences</data>
-    </node>
-    <node id="https://openalex.org/T10040">
-      <data key="d0">Adaptive Control of Nonlinear Systems</data>
-      <data key="d1">19</data>
-      <data key="d2">Engineering</data>
-      <data key="d3">Control and Systems Engineering</data>
-      <data key="d4">Physical Sciences</data>
-    </node>
-    <node id="https://openalex.org/T12874">
-      <data key="d0">Digital Imaging for Blood Diseases</data>
-      <data key="d1">6</data>
-      <data key="d2">Computer Science</data>
-      <data key="d3">Computer Vision and Pattern Recognition</data>
-      <data key="d4">Physical Sciences</data>
-    </node>
-    <node id="https://openalex.org/T12702">
-      <data key="d0">Brain Tumor Detection and Classification</data>
-      <data key="d1">10</data>
-      <data key="d2">Neuroscience</data>
-      <data key="d3">Neurology</data>
-      <data key="d4">Life Sciences</data>
-    </node>
-    <node id="https://openalex.org/T12261">
-      <data key="d0">Statistical Mechanics and Entropy</data>
-      <data key="d1">3</data>
-      <data key="d2">Physics and Astronomy</data>
-      <data key="d3">Statistical and Nonlinear Physics</data>
-      <data key="d4">Physical Sciences</data>
-    </node>
-    <node id="https://openalex.org/T10249">
-      <data key="d0">Distributed Control Multi-Agent Systems</data>
-      <data key="d1">6</data>
-      <data key="d2">Computer Science</data>
-      <data key="d3">Computer Networks and Communications</data>
-      <data key="d4">Physical Sciences</data>
-    </node>
-    <node id="https://openalex.org/T11602">
-      <data key="d0">Magnetic Bearings and Levitation Dynamics</data>
-      <data key="d1">8</data>
-      <data key="d2">Engineering</data>
-      <data key="d3">Control and Systems Engineering</data>
-      <data key="d4">Physical Sciences</data>
-    </node>
-    <node id="https://openalex.org/T11975">
-      <data key="d0">Evolutionary Algorithms and Applications</data>
-      <data key="d1">8</data>
-      <data key="d2">Computer Science</data>
-      <data key="d3">Artificial Intelligence</data>
-      <data key="d4">Physical Sciences</data>
-    </node>
-    <edge source="https://openalex.org/T10531" target="https://openalex.org/T12549">
-      <data key="d5">3</data>
-    </edge>
-    <edge source="https://openalex.org/T10531" target="https://openalex.org/T13114">
-      <data key="d5">3</data>
-    </edge>
-    <edge source="https://openalex.org/T10531" target="https://openalex.org/T10638">
-      <data key="d5">2</data>
-    </edge>
-    <edge source="https://openalex.org/T10531" target="https://openalex.org/T10191">
-      <data key="d5">3</data>
-    </edge>
-    <edge source="https://openalex.org/T11996" target="https://openalex.org/T12153">
-      <data key="d5">2</data>
-    </edge>
-    <edge source="https://openalex.org/T11996" target="https://openalex.org/T10500">
-      <data key="d5">3</data>
-    </edge>
-    <edge source="https://openalex.org/T10454" target="https://openalex.org/T10603">
-      <data key="d5">2</data>
-    </edge>
-    <edge source="https://openalex.org/T10454" target="https://openalex.org/T10223">
-      <data key="d5">2</data>
-    </edge>
-    <edge source="https://openalex.org/T10862" target="https://openalex.org/T12422">
-      <data key="d5">5</data>
-    </edge>
-    <edge source="https://openalex.org/T10862" target="https://openalex.org/T12874">
-      <data key="d5">3</data>
-    </edge>
-    <edge source="https://openalex.org/T10862" target="https://openalex.org/T12859">
-      <data key="d5">3</data>
-    </edge>
-    <edge source="https://openalex.org/T10410" target="https://openalex.org/T11512">
-      <data key="d5">2</data>
-    </edge>
-    <edge source="https://openalex.org/T11707" target="https://openalex.org/T10429">
-      <data key="d5">2</data>
-    </edge>
-    <edge source="https://openalex.org/T10029" target="https://openalex.org/T13377">
-      <data key="d5">2</data>
-    </edge>
-    <edge source="https://openalex.org/T10029" target="https://openalex.org/T11270">
-      <data key="d5">2</data>
-    </edge>
-    <edge source="https://openalex.org/T11372" target="https://openalex.org/T10805">
-      <data key="d5">3</data>
-    </edge>
-    <edge source="https://openalex.org/T10124" target="https://openalex.org/T12422">
-      <data key="d5">2</data>
-    </edge>
-    <edge source="https://openalex.org/T10124" target="https://openalex.org/T10036">
-      <data key="d5">2</data>
-    </edge>
-    <edge source="https://openalex.org/T11394" target="https://openalex.org/T10571">
-      <data key="d5">2</data>
-    </edge>
-    <edge source="https://openalex.org/T11739" target="https://openalex.org/T10500">
-      <data key="d5">2</data>
-    </edge>
-    <edge source="https://openalex.org/T10711" target="https://openalex.org/T11236">
-      <data key="d5">2</data>
-    </edge>
-    <edge source="https://openalex.org/T10711" target="https://openalex.org/T10876">
-      <data key="d5">2</data>
-    </edge>
-    <edge source="https://openalex.org/T10215" target="https://openalex.org/T11010">
-      <data key="d5">3</data>
-    </edge>
-    <edge source="https://openalex.org/T10215" target="https://openalex.org/T10456">
-      <data key="d5">3</data>
-    </edge>
-    <edge source="https://openalex.org/T10298" target="https://openalex.org/T10698">
-      <data key="d5">3</data>
-    </edge>
-    <edge source="https://openalex.org/T10361" target="https://openalex.org/T11102">
-      <data key="d5">2</data>
-    </edge>
-    <edge source="https://openalex.org/T10361" target="https://openalex.org/T10228">
-      <data key="d5">2</data>
-    </edge>
-    <edge source="https://openalex.org/T10468" target="https://openalex.org/T10175">
-      <data key="d5">2</data>
-    </edge>
-    <edge source="https://openalex.org/T11520" target="https://openalex.org/T12261">
-      <data key="d5">2</data>
-    </edge>
-    <edge source="https://openalex.org/T10278" target="https://openalex.org/T11602">
-      <data key="d5">5</data>
-    </edge>
-    <edge source="https://openalex.org/T10278" target="https://openalex.org/T10504">
-      <data key="d5">4</data>
-    </edge>
-    <edge source="https://openalex.org/T10278" target="https://openalex.org/T11222">
-      <data key="d5">4</data>
-    </edge>
-    <edge source="https://openalex.org/T10775" target="https://openalex.org/T11448">
-      <data key="d5">2</data>
-    </edge>
-    <edge source="https://openalex.org/T10775" target="https://openalex.org/T11105">
-      <data key="d5">2</data>
-    </edge>
-    <edge source="https://openalex.org/T10005" target="https://openalex.org/T10487">
-      <data key="d5">2</data>
-    </edge>
-    <edge source="https://openalex.org/T11749" target="https://openalex.org/T10791">
-      <data key="d5">6</data>
-    </edge>
-    <edge source="https://openalex.org/T11749" target="https://openalex.org/T10504">
-      <data key="d5">2</data>
-    </edge>
-    <edge source="https://openalex.org/T11749" target="https://openalex.org/T11081">
-      <data key="d5">2</data>
-    </edge>
-    <edge source="https://openalex.org/T11749" target="https://openalex.org/T11236">
-      <data key="d5">2</data>
-    </edge>
-    <edge source="https://openalex.org/T11749" target="https://openalex.org/T10040">
-      <data key="d5">5</data>
-    </edge>
-    <edge source="https://openalex.org/T11192" target="https://openalex.org/T10586">
-      <data key="d5">4</data>
-    </edge>
-    <edge source="https://openalex.org/T11192" target="https://openalex.org/T10040">
-      <data key="d5">2</data>
-    </edge>
-    <edge source="https://openalex.org/T10482" target="https://openalex.org/T11252">
-      <data key="d5">2</data>
-    </edge>
-    <edge source="https://openalex.org/T10320" target="https://openalex.org/T10876">
-      <data key="d5">4</data>
-    </edge>
-    <edge source="https://openalex.org/T10320" target="https://openalex.org/T12676">
-      <data key="d5">3</data>
-    </edge>
-    <edge source="https://openalex.org/T10320" target="https://openalex.org/T11270">
-      <data key="d5">2</data>
-    </edge>
-    <edge source="https://openalex.org/T10320" target="https://openalex.org/T12205">
-      <data key="d5">2</data>
-    </edge>
-    <edge source="https://openalex.org/T10320" target="https://openalex.org/T11236">
-      <data key="d5">3</data>
-    </edge>
-    <edge source="https://openalex.org/T10320" target="https://openalex.org/T12535">
-      <data key="d5">2</data>
-    </edge>
-    <edge source="https://openalex.org/T10320" target="https://openalex.org/T11512">
-      <data key="d5">3</data>
-    </edge>
-    <edge source="https://openalex.org/T10320" target="https://openalex.org/T10429">
-      <data key="d5">2</data>
-    </edge>
-    <edge source="https://openalex.org/T10320" target="https://openalex.org/T10581">
-      <data key="d5">2</data>
-    </edge>
-    <edge source="https://openalex.org/T13126" target="https://openalex.org/T10026">
-      <data key="d5">3</data>
-    </edge>
-    <edge source="https://openalex.org/T13126" target="https://openalex.org/T12917">
-      <data key="d5">2</data>
-    </edge>
-    <edge source="https://openalex.org/T10191" target="https://openalex.org/T10586">
-      <data key="d5">2</data>
-    </edge>
-    <edge source="https://openalex.org/T11447" target="https://openalex.org/T10688">
-      <data key="d5">2</data>
-    </edge>
-    <edge source="https://openalex.org/T11447" target="https://openalex.org/T10500">
-      <data key="d5">4</data>
-    </edge>
-    <edge source="https://openalex.org/T10688" target="https://openalex.org/T11105">
-      <data key="d5">3</data>
-    </edge>
-    <edge source="https://openalex.org/T10688" target="https://openalex.org/T12015">
-      <data key="d5">2</data>
-    </edge>
-    <edge source="https://openalex.org/T10688" target="https://openalex.org/T10220">
-      <data key="d5">2</data>
-    </edge>
-    <edge source="https://openalex.org/T10688" target="https://openalex.org/T10500">
-      <data key="d5">5</data>
-    </edge>
-    <edge source="https://openalex.org/T11309" target="https://openalex.org/T10860">
-      <data key="d5">3</data>
-    </edge>
-    <edge source="https://openalex.org/T11261" target="https://openalex.org/T12772">
-      <data key="d5">2</data>
-    </edge>
-    <edge source="https://openalex.org/T11261" target="https://openalex.org/T11187">
-      <data key="d5">3</data>
-    </edge>
-    <edge source="https://openalex.org/T11261" target="https://openalex.org/T10244">
-      <data key="d5">3</data>
-    </edge>
-    <edge source="https://openalex.org/T10768" target="https://openalex.org/T10603">
-      <data key="d5">2</data>
-    </edge>
-    <edge source="https://openalex.org/T10836" target="https://openalex.org/T12748">
-      <data key="d5">2</data>
-    </edge>
-    <edge source="https://openalex.org/T10836" target="https://openalex.org/T10908">
-      <data key="d5">2</data>
-    </edge>
-    <edge source="https://openalex.org/T10538" target="https://openalex.org/T10637">
-      <data key="d5">3</data>
-    </edge>
-    <edge source="https://openalex.org/T10538" target="https://openalex.org/T10057">
-      <data key="d5">3</data>
-    </edge>
-    <edge source="https://openalex.org/T10036" target="https://openalex.org/T12422">
-      <data key="d5">2</data>
-    </edge>
-    <edge source="https://openalex.org/T10036" target="https://openalex.org/T12702">
-      <data key="d5">3</data>
-    </edge>
-    <edge source="https://openalex.org/T10036" target="https://openalex.org/T10052">
-      <data key="d5">2</data>
-    </edge>
-    <edge source="https://openalex.org/T12015" target="https://openalex.org/T12153">
-      <data key="d5">2</data>
-    </edge>
-    <edge source="https://openalex.org/T12015" target="https://openalex.org/T10500">
-      <data key="d5">5</data>
-    </edge>
-    <edge source="https://openalex.org/T11187" target="https://openalex.org/T11513">
-      <data key="d5">2</data>
-    </edge>
-    <edge source="https://openalex.org/T11187" target="https://openalex.org/T10244">
-      <data key="d5">3</data>
-    </edge>
-    <edge source="https://openalex.org/T12535" target="https://openalex.org/T12072">
-      <data key="d5">4</data>
-    </edge>
-    <edge source="https://openalex.org/T12535" target="https://openalex.org/T11512">
-      <data key="d5">2</data>
-    </edge>
-    <edge source="https://openalex.org/T12535" target="https://openalex.org/T11307">
-      <data key="d5">2</data>
-    </edge>
-    <edge source="https://openalex.org/T12535" target="https://openalex.org/T10057">
-      <data key="d5">2</data>
-    </edge>
-    <edge source="https://openalex.org/T12859" target="https://openalex.org/T12874">
-      <data key="d5">2</data>
-    </edge>
-    <edge source="https://openalex.org/T10026" target="https://openalex.org/T12917">
-      <data key="d5">2</data>
-    </edge>
-    <edge source="https://openalex.org/T10026" target="https://openalex.org/T10095">
-      <data key="d5">2</data>
-    </edge>
-    <edge source="https://openalex.org/T10533" target="https://openalex.org/T11122">
-      <data key="d5">2</data>
-    </edge>
-    <edge source="https://openalex.org/T10533" target="https://openalex.org/T14246">
-      <data key="d5">2</data>
-    </edge>
-    <edge source="https://openalex.org/T11814" target="https://openalex.org/T12176">
-      <data key="d5">3</data>
-    </edge>
-    <edge source="https://openalex.org/T12676" target="https://openalex.org/T10057">
-      <data key="d5">2</data>
-    </edge>
-    <edge source="https://openalex.org/T10502" target="https://openalex.org/T10581">
-      <data key="d5">3</data>
-    </edge>
-    <edge source="https://openalex.org/T10502" target="https://openalex.org/T10429">
-      <data key="d5">2</data>
-    </edge>
-    <edge source="https://openalex.org/T12338" target="https://openalex.org/T12395">
-      <data key="d5">2</data>
-    </edge>
-    <edge source="https://openalex.org/T11147" target="https://openalex.org/T10664">
-      <data key="d5">3</data>
-    </edge>
-    <edge source="https://openalex.org/T10839" target="https://openalex.org/T10560">
-      <data key="d5">3</data>
-    </edge>
-    <edge source="https://openalex.org/T10252" target="https://openalex.org/T10211">
-      <data key="d5">2</data>
-    </edge>
-    <edge source="https://openalex.org/T10510" target="https://openalex.org/T10784">
-      <data key="d5">6</data>
-    </edge>
-    <edge source="https://openalex.org/T10510" target="https://openalex.org/T11023">
-      <data key="d5">5</data>
-    </edge>
-    <edge source="https://openalex.org/T10378" target="https://openalex.org/T10500">
-      <data key="d5">2</data>
-    </edge>
-    <edge source="https://openalex.org/T10378" target="https://openalex.org/T10241">
-      <data key="d5">2</data>
-    </edge>
-    <edge source="https://openalex.org/T10791" target="https://openalex.org/T11081">
-      <data key="d5">3</data>
-    </edge>
-    <edge source="https://openalex.org/T10791" target="https://openalex.org/T10876">
-      <data key="d5">3</data>
-    </edge>
-    <edge source="https://openalex.org/T10791" target="https://openalex.org/T11236">
-      <data key="d5">3</data>
-    </edge>
-    <edge source="https://openalex.org/T10791" target="https://openalex.org/T10040">
-      <data key="d5">4</data>
-    </edge>
-    <edge source="https://openalex.org/T11130" target="https://openalex.org/T11797">
-      <data key="d5">2</data>
-    </edge>
-    <edge source="https://openalex.org/T11222" target="https://openalex.org/T11602">
-      <data key="d5">2</data>
-    </edge>
-    <edge source="https://openalex.org/T11270" target="https://openalex.org/T11326">
-      <data key="d5">2</data>
-    </edge>
-    <edge source="https://openalex.org/T11270" target="https://openalex.org/T13377">
-      <data key="d5">2</data>
-    </edge>
-    <edge source="https://openalex.org/T10220" target="https://openalex.org/T10876">
-      <data key="d5">2</data>
-    </edge>
-    <edge source="https://openalex.org/T10220" target="https://openalex.org/T11343">
-      <data key="d5">2</data>
-    </edge>
-    <edge source="https://openalex.org/T10220" target="https://openalex.org/T12169">
-      <data key="d5">2</data>
-    </edge>
-    <edge source="https://openalex.org/T10121" target="https://openalex.org/T11954">
-      <data key="d5">2</data>
-    </edge>
-    <edge source="https://openalex.org/T10121" target="https://openalex.org/T10603">
-      <data key="d5">2</data>
-    </edge>
-    <edge source="https://openalex.org/T11513" target="https://openalex.org/T10244">
-      <data key="d5">2</data>
-    </edge>
-    <edge source="https://openalex.org/T12072" target="https://openalex.org/T11307">
-      <data key="d5">2</data>
-    </edge>
-    <edge source="https://openalex.org/T13083" target="https://openalex.org/T10664">
-      <data key="d5">5</data>
-    </edge>
-    <edge source="https://openalex.org/T13083" target="https://openalex.org/T10028">
-      <data key="d5">4</data>
-    </edge>
-    <edge source="https://openalex.org/T13083" target="https://openalex.org/T10181">
-      <data key="d5">3</data>
-    </edge>
-    <edge source="https://openalex.org/T10504" target="https://openalex.org/T11602">
-      <data key="d5">2</data>
-    </edge>
-    <edge source="https://openalex.org/T10504" target="https://openalex.org/T10228">
-      <data key="d5">2</data>
-    </edge>
-    <edge source="https://openalex.org/T11081" target="https://openalex.org/T10040">
-      <data key="d5">3</data>
-    </edge>
-    <edge source="https://openalex.org/T11105" target="https://openalex.org/T11569">
-      <data key="d5">2</data>
-    </edge>
-    <edge source="https://openalex.org/T11615" target="https://openalex.org/T10586">
-      <data key="d5">4</data>
-    </edge>
-    <edge source="https://openalex.org/T11615" target="https://openalex.org/T10805">
-      <data key="d5">2</data>
-    </edge>
-    <edge source="https://openalex.org/T11615" target="https://openalex.org/T10040">
-      <data key="d5">2</data>
-    </edge>
-    <edge source="https://openalex.org/T10709" target="https://openalex.org/T10106">
-      <data key="d5">2</data>
-    </edge>
-    <edge source="https://openalex.org/T11017" target="https://openalex.org/T12162">
-      <data key="d5">2</data>
-    </edge>
-    <edge source="https://openalex.org/T11017" target="https://openalex.org/T10244">
-      <data key="d5">2</data>
-    </edge>
-    <edge source="https://openalex.org/T11525" target="https://openalex.org/T10571">
-      <data key="d5">2</data>
-    </edge>
-    <edge source="https://openalex.org/T10621" target="https://openalex.org/T10885">
-      <data key="d5">2</data>
-    </edge>
-    <edge source="https://openalex.org/T10621" target="https://openalex.org/T10887">
-      <data key="d5">2</data>
-    </edge>
-    <edge source="https://openalex.org/T11304" target="https://openalex.org/T10241">
-      <data key="d5">4</data>
-    </edge>
-    <edge source="https://openalex.org/T10044" target="https://openalex.org/T12748">
-      <data key="d5">2</data>
-    </edge>
-    <edge source="https://openalex.org/T13643" target="https://openalex.org/T10456">
-      <data key="d5">2</data>
-    </edge>
-    <edge source="https://openalex.org/T11052" target="https://openalex.org/T11490">
-      <data key="d5">2</data>
-    </edge>
-    <edge source="https://openalex.org/T12254" target="https://openalex.org/T10015">
-      <data key="d5">2</data>
-    </edge>
-    <edge source="https://openalex.org/T10868" target="https://openalex.org/T10784">
-      <data key="d5">2</data>
-    </edge>
-    <edge source="https://openalex.org/T10586" target="https://openalex.org/T11133">
-      <data key="d5">2</data>
-    </edge>
-    <edge source="https://openalex.org/T10586" target="https://openalex.org/T10571">
-      <data key="d5">2</data>
-    </edge>
-    <edge source="https://openalex.org/T10586" target="https://openalex.org/T10040">
-      <data key="d5">5</data>
-    </edge>
-    <edge source="https://openalex.org/T10664" target="https://openalex.org/T10028">
-      <data key="d5">2</data>
-    </edge>
-    <edge source="https://openalex.org/T12282" target="https://openalex.org/T10876">
-      <data key="d5">2</data>
-    </edge>
-    <edge source="https://openalex.org/T12153" target="https://openalex.org/T11324">
-      <data key="d5">2</data>
-    </edge>
-    <edge source="https://openalex.org/T10848" target="https://openalex.org/T11975">
-      <data key="d5">4</data>
-    </edge>
-    <edge source="https://openalex.org/T10848" target="https://openalex.org/T10100">
-      <data key="d5">6</data>
-    </edge>
-    <edge source="https://openalex.org/T10540" target="https://openalex.org/T11569">
-      <data key="d5">2</data>
-    </edge>
-    <edge source="https://openalex.org/T11659" target="https://openalex.org/T10689">
-      <data key="d5">3</data>
-    </edge>
-    <edge source="https://openalex.org/T10680" target="https://openalex.org/T10740">
-      <data key="d5">2</data>
-    </edge>
-    <edge source="https://openalex.org/T10594" target="https://openalex.org/T11468">
-      <data key="d5">3</data>
-    </edge>
-    <edge source="https://openalex.org/T11396" target="https://openalex.org/T13702">
-      <data key="d5">3</data>
-    </edge>
-    <edge source="https://openalex.org/T11897" target="https://openalex.org/T13114">
-      <data key="d5">2</data>
-    </edge>
-    <edge source="https://openalex.org/T11897" target="https://openalex.org/T10638">
-      <data key="d5">2</data>
-    </edge>
-    <edge source="https://openalex.org/T10305" target="https://openalex.org/T10740">
-      <data key="d5">2</data>
-    </edge>
-    <edge source="https://openalex.org/T10305" target="https://openalex.org/T10972">
-      <data key="d5">2</data>
-    </edge>
-    <edge source="https://openalex.org/T10638" target="https://openalex.org/T13114">
-      <data key="d5">3</data>
-    </edge>
-    <edge source="https://openalex.org/T10638" target="https://openalex.org/T11569">
-      <data key="d5">2</data>
-    </edge>
-    <edge source="https://openalex.org/T11010" target="https://openalex.org/T10456">
-      <data key="d5">4</data>
-    </edge>
-    <edge source="https://openalex.org/T11023" target="https://openalex.org/T10784">
-      <data key="d5">7</data>
-    </edge>
-    <edge source="https://openalex.org/T10012" target="https://openalex.org/T10015">
-      <data key="d5">2</data>
-    </edge>
-    <edge source="https://openalex.org/T10463" target="https://openalex.org/T10025">
-      <data key="d5">2</data>
-    </edge>
-    <edge source="https://openalex.org/T10463" target="https://openalex.org/T10095">
-      <data key="d5">2</data>
-    </edge>
-    <edge source="https://openalex.org/T11324" target="https://openalex.org/T10640">
-      <data key="d5">2</data>
-    </edge>
-    <edge source="https://openalex.org/T11324" target="https://openalex.org/T11227">
-      <data key="d5">2</data>
-    </edge>
-    <edge source="https://openalex.org/T10640" target="https://openalex.org/T10770">
-      <data key="d5">3</data>
-    </edge>
-    <edge source="https://openalex.org/T10640" target="https://openalex.org/T11667">
-      <data key="d5">3</data>
-    </edge>
-    <edge source="https://openalex.org/T10648" target="https://openalex.org/T10888">
-      <data key="d5">2</data>
-    </edge>
-    <edge source="https://openalex.org/T10241" target="https://openalex.org/T10429">
-      <data key="d5">3</data>
-    </edge>
-    <edge source="https://openalex.org/T10784" target="https://openalex.org/T10429">
-      <data key="d5">3</data>
-    </edge>
-    <edge source="https://openalex.org/T11133" target="https://openalex.org/T10249">
-      <data key="d5">2</data>
-    </edge>
-    <edge source="https://openalex.org/T11512" target="https://openalex.org/T10876">
-      <data key="d5">2</data>
-    </edge>
-    <edge source="https://openalex.org/T11512" target="https://openalex.org/T10400">
-      <data key="d5">2</data>
-    </edge>
-    <edge source="https://openalex.org/T11211" target="https://openalex.org/T10888">
-      <data key="d5">2</data>
-    </edge>
-    <edge source="https://openalex.org/T10025" target="https://openalex.org/T10095">
-      <data key="d5">3</data>
-    </edge>
-    <edge source="https://openalex.org/T12772" target="https://openalex.org/T10046">
-      <data key="d5">3</data>
-    </edge>
-    <edge source="https://openalex.org/T12772" target="https://openalex.org/T10040">
-      <data key="d5">2</data>
-    </edge>
-    <edge source="https://openalex.org/T11110" target="https://openalex.org/T10046">
-      <data key="d5">2</data>
-    </edge>
-    <edge source="https://openalex.org/T10223" target="https://openalex.org/T11102">
-      <data key="d5">3</data>
-    </edge>
-    <edge source="https://openalex.org/T10223" target="https://openalex.org/T10603">
-      <data key="d5">7</data>
-    </edge>
-    <edge source="https://openalex.org/T10223" target="https://openalex.org/T10228">
-      <data key="d5">11</data>
-    </edge>
-    <edge source="https://openalex.org/T10223" target="https://openalex.org/T13183">
-      <data key="d5">5</data>
-    </edge>
-    <edge source="https://openalex.org/T10223" target="https://openalex.org/T10175">
-      <data key="d5">9</data>
-    </edge>
-    <edge source="https://openalex.org/T11775" target="https://openalex.org/T12422">
-      <data key="d5">2</data>
-    </edge>
-    <edge source="https://openalex.org/T10603" target="https://openalex.org/T11954">
-      <data key="d5">2</data>
-    </edge>
-    <edge source="https://openalex.org/T10603" target="https://openalex.org/T13183">
-      <data key="d5">2</data>
-    </edge>
-    <edge source="https://openalex.org/T10581" target="https://openalex.org/T10429">
-      <data key="d5">2</data>
-    </edge>
-    <edge source="https://openalex.org/T10917" target="https://openalex.org/T11102">
-      <data key="d5">2</data>
-    </edge>
-    <edge source="https://openalex.org/T10972" target="https://openalex.org/T13183">
-      <data key="d5">5</data>
-    </edge>
-    <edge source="https://openalex.org/T10972" target="https://openalex.org/T11941">
-      <data key="d5">2</data>
-    </edge>
-    <edge source="https://openalex.org/T10972" target="https://openalex.org/T11102">
-      <data key="d5">3</data>
-    </edge>
-    <edge source="https://openalex.org/T10876" target="https://openalex.org/T11236">
-      <data key="d5">4</data>
-    </edge>
-    <edge source="https://openalex.org/T10028" target="https://openalex.org/T10181">
-      <data key="d5">4</data>
-    </edge>
-    <edge source="https://openalex.org/T14246" target="https://openalex.org/T12395">
-      <data key="d5">2</data>
-    </edge>
-    <edge source="https://openalex.org/T10887" target="https://openalex.org/T10885">
-      <data key="d5">3</data>
-    </edge>
-    <edge source="https://openalex.org/T11609" target="https://openalex.org/T11757">
-      <data key="d5">3</data>
-    </edge>
-    <edge source="https://openalex.org/T11609" target="https://openalex.org/T10271">
-      <data key="d5">4</data>
-    </edge>
-    <edge source="https://openalex.org/T10175" target="https://openalex.org/T10228">
-      <data key="d5">9</data>
-    </edge>
-    <edge source="https://openalex.org/T11102" target="https://openalex.org/T13183">
-      <data key="d5">2</data>
-    </edge>
-    <edge source="https://openalex.org/T11102" target="https://openalex.org/T10228">
-      <data key="d5">2</data>
-    </edge>
-    <edge source="https://openalex.org/T10100" target="https://openalex.org/T11975">
-      <data key="d5">5</data>
-    </edge>
-    <edge source="https://openalex.org/T10228" target="https://openalex.org/T13183">
-      <data key="d5">2</data>
-    </edge>
-    <edge source="https://openalex.org/T10271" target="https://openalex.org/T11757">
-      <data key="d5">4</data>
-    </edge>
-    <edge source="https://openalex.org/T10046" target="https://openalex.org/T10040">
-      <data key="d5">4</data>
-    </edge>
-    <edge source="https://openalex.org/T12422" target="https://openalex.org/T12702">
-      <data key="d5">3</data>
-    </edge>
-    <edge source="https://openalex.org/T10057" target="https://openalex.org/T10637">
-      <data key="d5">5</data>
-    </edge>
-  </graph>
-</graphml>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><key id="d5" for="edge" attr.name="weight" attr.type="long"/>
+<key id="d4" for="node" attr.name="domain" attr.type="string"/>
+<key id="d3" for="node" attr.name="subfield" attr.type="string"/>
+<key id="d2" for="node" attr.name="field" attr.type="string"/>
+<key id="d1" for="node" attr.name="frequency" attr.type="long"/>
+<key id="d0" for="node" attr.name="name" attr.type="string"/>
+<graph edgedefault="undirected"><node id="https://openalex.org/T11636">
+  <data key="d0">Artificial Intelligence in Healthcare and Education</data>
+  <data key="d1">2</data>
+  <data key="d2">Medicine</data>
+  <data key="d3">Health Informatics</data>
+  <data key="d4">Health Sciences</data>
+</node>
+<node id="https://openalex.org/T10028">
+  <data key="d0">Topic Modeling</data>
+  <data key="d1">1</data>
+  <data key="d2">Computer Science</data>
+  <data key="d3">Artificial Intelligence</data>
+  <data key="d4">Physical Sciences</data>
+</node>
+<node id="https://openalex.org/T12128">
+  <data key="d0">AI in Service Interactions</data>
+  <data key="d1">1</data>
+  <data key="d2">Computer Science</data>
+  <data key="d3">Artificial Intelligence</data>
+  <data key="d4">Physical Sciences</data>
+</node>
+<node id="https://openalex.org/T12422">
+  <data key="d0">Radiomics and Machine Learning in Medical Imaging</data>
+  <data key="d1">2</data>
+  <data key="d2">Medicine</data>
+  <data key="d3">Radiology, Nuclear Medicine and Imaging</data>
+  <data key="d4">Health Sciences</data>
+</node>
+<node id="https://openalex.org/T10036">
+  <data key="d0">Advanced Neural Network Applications</data>
+  <data key="d1">1</data>
+  <data key="d2">Computer Science</data>
+  <data key="d3">Computer Vision and Pattern Recognition</data>
+  <data key="d4">Physical Sciences</data>
+</node>
+<node id="https://openalex.org/T10278">
+  <data key="d0">Electric Motor Design and Analysis</data>
+  <data key="d1">1</data>
+  <data key="d2">Engineering</data>
+  <data key="d3">Electrical and Electronic Engineering</data>
+  <data key="d4">Physical Sciences</data>
+</node>
+<node id="https://openalex.org/T11602">
+  <data key="d0">Magnetic Bearings and Levitation Dynamics</data>
+  <data key="d1">1</data>
+  <data key="d2">Engineering</data>
+  <data key="d3">Control and Systems Engineering</data>
+  <data key="d4">Physical Sciences</data>
+</node>
+<node id="https://openalex.org/T10504">
+  <data key="d0">Sensorless Control of Electric Motors</data>
+  <data key="d1">1</data>
+  <data key="d2">Engineering</data>
+  <data key="d3">Electrical and Electronic Engineering</data>
+  <data key="d4">Physical Sciences</data>
+</node>
+<node id="https://openalex.org/T13274">
+  <data key="d0">Expert finding and Q&amp;A systems</data>
+  <data key="d1">1</data>
+  <data key="d2">Computer Science</data>
+  <data key="d3">Information Systems</data>
+  <data key="d4">Physical Sciences</data>
+</node>
+<node id="https://openalex.org/T10584">
+  <data key="d0">Reproductive Physiology in Livestock</data>
+  <data key="d1">1</data>
+  <data key="d2">Agricultural and Biological Sciences</data>
+  <data key="d3">Agronomy and Crop Science</data>
+  <data key="d4">Life Sciences</data>
+</node>
+<node id="https://openalex.org/T10594">
+  <data key="d0">Genetic and phenotypic traits in livestock</data>
+  <data key="d1">1</data>
+  <data key="d2">Biochemistry, Genetics and Molecular Biology</data>
+  <data key="d3">Genetics</data>
+  <data key="d4">Life Sciences</data>
+</node>
+<node id="https://openalex.org/T12365">
+  <data key="d0">Effects of Environmental Stressors on Livestock</data>
+  <data key="d1">1</data>
+  <data key="d2">Agricultural and Biological Sciences</data>
+  <data key="d3">Animal Science and Zoology</data>
+  <data key="d4">Life Sciences</data>
+</node>
+<node id="https://openalex.org/T10895">
+  <data key="d0">Species Distribution and Climate Change</data>
+  <data key="d1">1</data>
+  <data key="d2">Environmental Science</data>
+  <data key="d3">Ecological Modeling</data>
+  <data key="d4">Physical Sciences</data>
+</node>
+<node id="https://openalex.org/T13435">
+  <data key="d0">Animal and Plant Science Education</data>
+  <data key="d1">1</data>
+  <data key="d2">Psychology</data>
+  <data key="d3">Social Psychology</data>
+  <data key="d4">Social Sciences</data>
+</node>
+<node id="https://openalex.org/T12478">
+  <data key="d0">Wikis in Education and Collaboration</data>
+  <data key="d1">1</data>
+  <data key="d2">Social Sciences</data>
+  <data key="d3">Communication</data>
+  <data key="d4">Social Sciences</data>
+</node>
+<node id="https://openalex.org/T12157">
+  <data key="d0">Geochemistry and Geologic Mapping</data>
+  <data key="d1">1</data>
+  <data key="d2">Computer Science</data>
+  <data key="d3">Artificial Intelligence</data>
+  <data key="d4">Physical Sciences</data>
+</node>
+<node id="https://openalex.org/T10689">
+  <data key="d0">Remote-Sensing Image Classification</data>
+  <data key="d1">1</data>
+  <data key="d2">Engineering</data>
+  <data key="d3">Media Technology</data>
+  <data key="d4">Physical Sciences</data>
+</node>
+<node id="https://openalex.org/T11659">
+  <data key="d0">Advanced Image Fusion Techniques</data>
+  <data key="d1">1</data>
+  <data key="d2">Engineering</data>
+  <data key="d3">Media Technology</data>
+  <data key="d4">Physical Sciences</data>
+</node>
+<node id="https://openalex.org/T11431">
+  <data key="d0">Action Observation and Synchronization</data>
+  <data key="d1">1</data>
+  <data key="d2">Psychology</data>
+  <data key="d3">Social Psychology</data>
+  <data key="d4">Social Sciences</data>
+</node>
+<node id="https://openalex.org/T11334">
+  <data key="d0">Psychosomatic Disorders and Their Treatments</data>
+  <data key="d1">1</data>
+  <data key="d2">Medicine</data>
+  <data key="d3">Psychiatry and Mental health</data>
+  <data key="d4">Health Sciences</data>
+</node>
+<node id="https://openalex.org/T12035">
+  <data key="d0">Pain Management and Placebo Effect</data>
+  <data key="d1">2</data>
+  <data key="d2">Neuroscience</data>
+  <data key="d3">Cognitive Neuroscience</data>
+  <data key="d4">Life Sciences</data>
+</node>
+<node id="https://openalex.org/T10531">
+  <data key="d0">Advanced Vision and Imaging</data>
+  <data key="d1">2</data>
+  <data key="d2">Computer Science</data>
+  <data key="d3">Computer Vision and Pattern Recognition</data>
+  <data key="d4">Physical Sciences</data>
+</node>
+<node id="https://openalex.org/T10191">
+  <data key="d0">Robotics and Sensor-Based Localization</data>
+  <data key="d1">2</data>
+  <data key="d2">Engineering</data>
+  <data key="d3">Aerospace Engineering</data>
+  <data key="d4">Physical Sciences</data>
+</node>
+<node id="https://openalex.org/T12549">
+  <data key="d0">Image and Object Detection Techniques</data>
+  <data key="d1">1</data>
+  <data key="d2">Computer Science</data>
+  <data key="d3">Computer Vision and Pattern Recognition</data>
+  <data key="d4">Physical Sciences</data>
+</node>
+<node id="https://openalex.org/T10627">
+  <data key="d0">Advanced Image and Video Retrieval Techniques</data>
+  <data key="d1">1</data>
+  <data key="d2">Computer Science</data>
+  <data key="d3">Computer Vision and Pattern Recognition</data>
+  <data key="d4">Physical Sciences</data>
+</node>
+<node id="https://openalex.org/T10465">
+  <data key="d0">Neurobiology of Language and Bilingualism</data>
+  <data key="d1">2</data>
+  <data key="d2">Neuroscience</data>
+  <data key="d3">Cognitive Neuroscience</data>
+  <data key="d4">Life Sciences</data>
+</node>
+<node id="https://openalex.org/T10009">
+  <data key="d0">Dementia and Cognitive Impairment Research</data>
+  <data key="d1">1</data>
+  <data key="d2">Medicine</data>
+  <data key="d3">Psychiatry and Mental health</data>
+  <data key="d4">Health Sciences</data>
+</node>
+<node id="https://openalex.org/T10103">
+  <data key="d0">Reading and Literacy Development</data>
+  <data key="d1">1</data>
+  <data key="d2">Psychology</data>
+  <data key="d3">Developmental and Educational Psychology</data>
+  <data key="d4">Social Sciences</data>
+</node>
+<node id="https://openalex.org/T11192">
+  <data key="d0">Underwater Vehicles and Communication Systems</data>
+  <data key="d1">1</data>
+  <data key="d2">Engineering</data>
+  <data key="d3">Ocean Engineering</data>
+  <data key="d4">Physical Sciences</data>
+</node>
+<node id="https://openalex.org/T10040">
+  <data key="d0">Adaptive Control of Nonlinear Systems</data>
+  <data key="d1">2</data>
+  <data key="d2">Engineering</data>
+  <data key="d3">Control and Systems Engineering</data>
+  <data key="d4">Physical Sciences</data>
+</node>
+<node id="https://openalex.org/T10586">
+  <data key="d0">Robotic Path Planning Algorithms</data>
+  <data key="d1">1</data>
+  <data key="d2">Computer Science</data>
+  <data key="d3">Computer Vision and Pattern Recognition</data>
+  <data key="d4">Physical Sciences</data>
+</node>
+<node id="https://openalex.org/T10244">
+  <data key="d0">Chaos control and synchronization</data>
+  <data key="d1">1</data>
+  <data key="d2">Physics and Astronomy</data>
+  <data key="d3">Statistical and Nonlinear Physics</data>
+  <data key="d4">Physical Sciences</data>
+</node>
+<node id="https://openalex.org/T12162">
+  <data key="d0">Cellular Automata and Applications</data>
+  <data key="d1">1</data>
+  <data key="d2">Computer Science</data>
+  <data key="d3">Computational Theory and Mathematics</data>
+  <data key="d4">Physical Sciences</data>
+</node>
+<node id="https://openalex.org/T11017">
+  <data key="d0">Chaos-based Image/Signal Encryption</data>
+  <data key="d1">1</data>
+  <data key="d2">Computer Science</data>
+  <data key="d3">Computer Vision and Pattern Recognition</data>
+  <data key="d4">Physical Sciences</data>
+</node>
+<node id="https://openalex.org/T11665">
+  <data key="d0">Animal Vocal Communication and Behavior</data>
+  <data key="d1">1</data>
+  <data key="d2">Biochemistry, Genetics and Molecular Biology</data>
+  <data key="d3">Developmental Biology</data>
+  <data key="d4">Life Sciences</data>
+</node>
+<node id="https://openalex.org/T12644">
+  <data key="d0">Wildlife-Road Interactions and Conservation</data>
+  <data key="d1">1</data>
+  <data key="d2">Environmental Science</data>
+  <data key="d3">Ecology</data>
+  <data key="d4">Physical Sciences</data>
+</node>
+<node id="https://openalex.org/T10659">
+  <data key="d0">Marine animal studies overview</data>
+  <data key="d1">1</data>
+  <data key="d2">Environmental Science</data>
+  <data key="d3">Ecology</data>
+  <data key="d4">Physical Sciences</data>
+</node>
+<node id="https://openalex.org/T10410">
+  <data key="d0">COVID-19 epidemiological studies</data>
+  <data key="d1">1</data>
+  <data key="d2">Mathematics</data>
+  <data key="d3">Modeling and Simulation</data>
+  <data key="d4">Physical Sciences</data>
+</node>
+<node id="https://openalex.org/T10041">
+  <data key="d0">COVID-19 Clinical Research Studies</data>
+  <data key="d1">1</data>
+  <data key="d2">Medicine</data>
+  <data key="d3">Infectious Diseases</data>
+  <data key="d4">Health Sciences</data>
+</node>
+<node id="https://openalex.org/T11296">
+  <data key="d0">COVID-19 and healthcare impacts</data>
+  <data key="d1">1</data>
+  <data key="d2">Medicine</data>
+  <data key="d3">Oncology</data>
+  <data key="d4">Health Sciences</data>
+</node>
+<node id="https://openalex.org/T10888">
+  <data key="d0">Augmented Reality Applications</data>
+  <data key="d1">1</data>
+  <data key="d2">Computer Science</data>
+  <data key="d3">Computer Vision and Pattern Recognition</data>
+  <data key="d4">Physical Sciences</data>
+</node>
+<node id="https://openalex.org/T10789">
+  <data key="d0">Interactive and Immersive Displays</data>
+  <data key="d1">1</data>
+  <data key="d2">Computer Science</data>
+  <data key="d3">Human-Computer Interaction</data>
+  <data key="d4">Physical Sciences</data>
+</node>
+<node id="https://openalex.org/T11211">
+  <data key="d0">3D Surveying and Cultural Heritage</data>
+  <data key="d1">1</data>
+  <data key="d2">Earth and Planetary Sciences</data>
+  <data key="d3">Geology</data>
+  <data key="d4">Physical Sciences</data>
+</node>
+<node id="https://openalex.org/T10567">
+  <data key="d0">Vehicle Routing Optimization Methods</data>
+  <data key="d1">1</data>
+  <data key="d2">Engineering</data>
+  <data key="d3">Industrial and Manufacturing Engineering</data>
+  <data key="d4">Physical Sciences</data>
+</node>
+<node id="https://openalex.org/T13402">
+  <data key="d0">Business Strategy and Innovation</data>
+  <data key="d1">1</data>
+  <data key="d2">Business, Management and Accounting</data>
+  <data key="d3">Strategy and Management</data>
+  <data key="d4">Social Sciences</data>
+</node>
+<node id="https://openalex.org/T11223">
+  <data key="d0">Maritime Ports and Logistics</data>
+  <data key="d1">1</data>
+  <data key="d2">Engineering</data>
+  <data key="d3">Industrial and Manufacturing Engineering</data>
+  <data key="d4">Physical Sciences</data>
+</node>
+<node id="https://openalex.org/T11236">
+  <data key="d0">Control Systems and Identification</data>
+  <data key="d1">1</data>
+  <data key="d2">Engineering</data>
+  <data key="d3">Control and Systems Engineering</data>
+  <data key="d4">Physical Sciences</data>
+</node>
+<node id="https://openalex.org/T11749">
+  <data key="d0">Iterative Learning Control Systems</data>
+  <data key="d1">1</data>
+  <data key="d2">Engineering</data>
+  <data key="d3">Control and Systems Engineering</data>
+  <data key="d4">Physical Sciences</data>
+</node>
+<node id="https://openalex.org/T10429">
+  <data key="d0">EEG and Brain-Computer Interfaces</data>
+  <data key="d1">1</data>
+  <data key="d2">Neuroscience</data>
+  <data key="d3">Cognitive Neuroscience</data>
+  <data key="d4">Life Sciences</data>
+</node>
+<node id="https://openalex.org/T10241">
+  <data key="d0">Functional Brain Connectivity Studies</data>
+  <data key="d1">1</data>
+  <data key="d2">Neuroscience</data>
+  <data key="d3">Cognitive Neuroscience</data>
+  <data key="d4">Life Sciences</data>
+</node>
+<node id="https://openalex.org/T11273">
+  <data key="d0">Advanced Graph Neural Networks</data>
+  <data key="d1">1</data>
+  <data key="d2">Computer Science</data>
+  <data key="d3">Artificial Intelligence</data>
+  <data key="d4">Physical Sciences</data>
+</node>
+<node id="https://openalex.org/T10545">
+  <data key="d0">Optimization and Variational Analysis</data>
+  <data key="d1">1</data>
+  <data key="d2">Computer Science</data>
+  <data key="d3">Computational Theory and Mathematics</data>
+  <data key="d4">Physical Sciences</data>
+</node>
+<node id="https://openalex.org/T13855">
+  <data key="d0">Aerospace Engineering and Control Systems</data>
+  <data key="d1">1</data>
+  <data key="d2">Engineering</data>
+  <data key="d3">Aerospace Engineering</data>
+  <data key="d4">Physical Sciences</data>
+</node>
+<node id="https://openalex.org/T12809">
+  <data key="d0">Contact Mechanics and Variational Inequalities</data>
+  <data key="d1">1</data>
+  <data key="d2">Computer Science</data>
+  <data key="d3">Computational Theory and Mathematics</data>
+  <data key="d4">Physical Sciences</data>
+</node>
+<node id="https://openalex.org/T10862">
+  <data key="d0">AI in cancer detection</data>
+  <data key="d1">1</data>
+  <data key="d2">Computer Science</data>
+  <data key="d3">Artificial Intelligence</data>
+  <data key="d4">Physical Sciences</data>
+</node>
+<node id="https://openalex.org/T12874">
+  <data key="d0">Digital Imaging for Blood Diseases</data>
+  <data key="d1">1</data>
+  <data key="d2">Computer Science</data>
+  <data key="d3">Computer Vision and Pattern Recognition</data>
+  <data key="d4">Physical Sciences</data>
+</node>
+<node id="https://openalex.org/T10730">
+  <data key="d0">Language Development and Disorders</data>
+  <data key="d1">1</data>
+  <data key="d2">Psychology</data>
+  <data key="d3">Developmental and Educational Psychology</data>
+  <data key="d4">Social Sciences</data>
+</node>
+<node id="https://openalex.org/T10106">
+  <data key="d0">Autism Spectrum Disorder Research</data>
+  <data key="d1">1</data>
+  <data key="d2">Neuroscience</data>
+  <data key="d3">Cognitive Neuroscience</data>
+  <data key="d4">Life Sciences</data>
+</node>
+<node id="https://openalex.org/T10708">
+  <data key="d0">Mindfulness and Compassion Interventions</data>
+  <data key="d1">1</data>
+  <data key="d2">Psychology</data>
+  <data key="d3">Clinical Psychology</data>
+  <data key="d4">Social Sciences</data>
+</node>
+<node id="https://openalex.org/T10084">
+  <data key="d0">Musculoskeletal pain and rehabilitation</data>
+  <data key="d1">1</data>
+  <data key="d2">Medicine</data>
+  <data key="d3">Pharmacology</data>
+  <data key="d4">Health Sciences</data>
+</node>
+<node id="https://openalex.org/T10692">
+  <data key="d0">Urban Green Space and Health</data>
+  <data key="d1">1</data>
+  <data key="d2">Environmental Science</data>
+  <data key="d3">Health, Toxicology and Mutagenesis</data>
+  <data key="d4">Physical Sciences</data>
+</node>
+<node id="https://openalex.org/T12950">
+  <data key="d0">Educational Environments and Student Outcomes</data>
+  <data key="d1">1</data>
+  <data key="d2">Social Sciences</data>
+  <data key="d3">Education</data>
+  <data key="d4">Social Sciences</data>
+</node>
+<node id="https://openalex.org/T11692">
+  <data key="d0">Noise Effects and Management</data>
+  <data key="d1">1</data>
+  <data key="d2">Health Professions</data>
+  <data key="d3">Speech and Hearing</data>
+  <data key="d4">Health Sciences</data>
+</node>
+<node id="https://openalex.org/T10851">
+  <data key="d0">Optical Wireless Communication Technologies</data>
+  <data key="d1">1</data>
+  <data key="d2">Engineering</data>
+  <data key="d3">Electrical and Electronic Engineering</data>
+  <data key="d4">Physical Sciences</data>
+</node>
+<node id="https://openalex.org/T10767">
+  <data key="d0">Advanced Photonic Communication Systems</data>
+  <data key="d1">1</data>
+  <data key="d2">Engineering</data>
+  <data key="d3">Electrical and Electronic Engineering</data>
+  <data key="d4">Physical Sciences</data>
+</node>
+<node id="https://openalex.org/T10205">
+  <data key="d0">Advanced Fiber Optic Sensors</data>
+  <data key="d1">1</data>
+  <data key="d2">Engineering</data>
+  <data key="d3">Electrical and Electronic Engineering</data>
+  <data key="d4">Physical Sciences</data>
+</node>
+<node id="https://openalex.org/T11689">
+  <data key="d0">Adversarial Robustness in Machine Learning</data>
+  <data key="d1">1</data>
+  <data key="d2">Computer Science</data>
+  <data key="d3">Artificial Intelligence</data>
+  <data key="d4">Physical Sciences</data>
+</node>
+<node id="https://openalex.org/T10502">
+  <data key="d0">Advanced Memory and Neural Computing</data>
+  <data key="d1">1</data>
+  <data key="d2">Engineering</data>
+  <data key="d3">Electrical and Electronic Engineering</data>
+  <data key="d4">Physical Sciences</data>
+</node>
+<node id="https://openalex.org/T10025">
+  <data key="d0">Black Holes and Theoretical Physics</data>
+  <data key="d1">1</data>
+  <data key="d2">Physics and Astronomy</data>
+  <data key="d3">Nuclear and High Energy Physics</data>
+  <data key="d4">Physical Sciences</data>
+</node>
+<node id="https://openalex.org/T10229">
+  <data key="d0">Geometric Analysis and Curvature Flows</data>
+  <data key="d1">1</data>
+  <data key="d2">Mathematics</data>
+  <data key="d3">Applied Mathematics</data>
+  <data key="d4">Physical Sciences</data>
+</node>
+<node id="https://openalex.org/T13080">
+  <data key="d0">Advanced Differential Geometry Research</data>
+  <data key="d1">1</data>
+  <data key="d2">Physics and Astronomy</data>
+  <data key="d3">Astronomy and Astrophysics</data>
+  <data key="d4">Physical Sciences</data>
+</node>
+<node id="https://openalex.org/T10916">
+  <data key="d0">Surgical Simulation and Training</data>
+  <data key="d1">1</data>
+  <data key="d2">Medicine</data>
+  <data key="d3">Surgery</data>
+  <data key="d4">Health Sciences</data>
+</node>
+<node id="https://openalex.org/T11984">
+  <data key="d0">Anatomy and Medical Technology</data>
+  <data key="d1">1</data>
+  <data key="d2">Engineering</data>
+  <data key="d3">Biomedical Engineering</data>
+  <data key="d4">Physical Sciences</data>
+</node>
+<node id="https://openalex.org/T13953">
+  <data key="d0">Digital Imaging in Medicine</data>
+  <data key="d1">1</data>
+  <data key="d2">Medicine</data>
+  <data key="d3">Public Health, Environmental and Occupational Health</data>
+  <data key="d4">Health Sciences</data>
+</node>
+<node id="https://openalex.org/T12153">
+  <data key="d0">Advanced Optical Sensing Technologies</data>
+  <data key="d1">1</data>
+  <data key="d2">Physics and Astronomy</data>
+  <data key="d3">Instrumentation</data>
+  <data key="d4">Physical Sciences</data>
+</node>
+<node id="https://openalex.org/T12015">
+  <data key="d0">Photoacoustic and Ultrasonic Imaging</data>
+  <data key="d1">1</data>
+  <data key="d2">Engineering</data>
+  <data key="d3">Biomedical Engineering</data>
+  <data key="d4">Physical Sciences</data>
+</node>
+<node id="https://openalex.org/T11324">
+  <data key="d0">Spectroscopy Techniques in Biomedical and Chemical Research</data>
+  <data key="d1">1</data>
+  <data key="d2">Biochemistry, Genetics and Molecular Biology</data>
+  <data key="d3">Biophysics</data>
+  <data key="d4">Life Sciences</data>
+</node>
+<edge source="https://openalex.org/T11636" target="https://openalex.org/T10028">
+  <data key="d5">1</data>
+</edge>
+<edge source="https://openalex.org/T11636" target="https://openalex.org/T12128">
+  <data key="d5">1</data>
+</edge>
+<edge source="https://openalex.org/T11636" target="https://openalex.org/T10036">
+  <data key="d5">1</data>
+</edge>
+<edge source="https://openalex.org/T11636" target="https://openalex.org/T12422">
+  <data key="d5">1</data>
+</edge>
+<edge source="https://openalex.org/T10028" target="https://openalex.org/T12128">
+  <data key="d5">1</data>
+</edge>
+<edge source="https://openalex.org/T12422" target="https://openalex.org/T10036">
+  <data key="d5">1</data>
+</edge>
+<edge source="https://openalex.org/T12422" target="https://openalex.org/T10862">
+  <data key="d5">1</data>
+</edge>
+<edge source="https://openalex.org/T12422" target="https://openalex.org/T12874">
+  <data key="d5">1</data>
+</edge>
+<edge source="https://openalex.org/T10278" target="https://openalex.org/T10504">
+  <data key="d5">1</data>
+</edge>
+<edge source="https://openalex.org/T10278" target="https://openalex.org/T11602">
+  <data key="d5">1</data>
+</edge>
+<edge source="https://openalex.org/T11602" target="https://openalex.org/T10504">
+  <data key="d5">1</data>
+</edge>
+<edge source="https://openalex.org/T10584" target="https://openalex.org/T10594">
+  <data key="d5">1</data>
+</edge>
+<edge source="https://openalex.org/T10584" target="https://openalex.org/T12365">
+  <data key="d5">1</data>
+</edge>
+<edge source="https://openalex.org/T10594" target="https://openalex.org/T12365">
+  <data key="d5">1</data>
+</edge>
+<edge source="https://openalex.org/T10895" target="https://openalex.org/T12478">
+  <data key="d5">1</data>
+</edge>
+<edge source="https://openalex.org/T10895" target="https://openalex.org/T13435">
+  <data key="d5">1</data>
+</edge>
+<edge source="https://openalex.org/T13435" target="https://openalex.org/T12478">
+  <data key="d5">1</data>
+</edge>
+<edge source="https://openalex.org/T12157" target="https://openalex.org/T10689">
+  <data key="d5">1</data>
+</edge>
+<edge source="https://openalex.org/T12157" target="https://openalex.org/T11659">
+  <data key="d5">1</data>
+</edge>
+<edge source="https://openalex.org/T10689" target="https://openalex.org/T11659">
+  <data key="d5">1</data>
+</edge>
+<edge source="https://openalex.org/T11431" target="https://openalex.org/T11334">
+  <data key="d5">1</data>
+</edge>
+<edge source="https://openalex.org/T11431" target="https://openalex.org/T12035">
+  <data key="d5">1</data>
+</edge>
+<edge source="https://openalex.org/T11334" target="https://openalex.org/T12035">
+  <data key="d5">1</data>
+</edge>
+<edge source="https://openalex.org/T12035" target="https://openalex.org/T10084">
+  <data key="d5">1</data>
+</edge>
+<edge source="https://openalex.org/T12035" target="https://openalex.org/T10708">
+  <data key="d5">1</data>
+</edge>
+<edge source="https://openalex.org/T10531" target="https://openalex.org/T10191">
+  <data key="d5">2</data>
+</edge>
+<edge source="https://openalex.org/T10531" target="https://openalex.org/T12549">
+  <data key="d5">1</data>
+</edge>
+<edge source="https://openalex.org/T10531" target="https://openalex.org/T10627">
+  <data key="d5">1</data>
+</edge>
+<edge source="https://openalex.org/T10191" target="https://openalex.org/T12549">
+  <data key="d5">1</data>
+</edge>
+<edge source="https://openalex.org/T10191" target="https://openalex.org/T10627">
+  <data key="d5">1</data>
+</edge>
+<edge source="https://openalex.org/T10465" target="https://openalex.org/T10009">
+  <data key="d5">1</data>
+</edge>
+<edge source="https://openalex.org/T10465" target="https://openalex.org/T10103">
+  <data key="d5">1</data>
+</edge>
+<edge source="https://openalex.org/T10465" target="https://openalex.org/T10106">
+  <data key="d5">1</data>
+</edge>
+<edge source="https://openalex.org/T10465" target="https://openalex.org/T10730">
+  <data key="d5">1</data>
+</edge>
+<edge source="https://openalex.org/T10009" target="https://openalex.org/T10103">
+  <data key="d5">1</data>
+</edge>
+<edge source="https://openalex.org/T11192" target="https://openalex.org/T10040">
+  <data key="d5">1</data>
+</edge>
+<edge source="https://openalex.org/T11192" target="https://openalex.org/T10586">
+  <data key="d5">1</data>
+</edge>
+<edge source="https://openalex.org/T10040" target="https://openalex.org/T10586">
+  <data key="d5">1</data>
+</edge>
+<edge source="https://openalex.org/T10040" target="https://openalex.org/T11236">
+  <data key="d5">1</data>
+</edge>
+<edge source="https://openalex.org/T10040" target="https://openalex.org/T11749">
+  <data key="d5">1</data>
+</edge>
+<edge source="https://openalex.org/T10244" target="https://openalex.org/T11017">
+  <data key="d5">1</data>
+</edge>
+<edge source="https://openalex.org/T10244" target="https://openalex.org/T12162">
+  <data key="d5">1</data>
+</edge>
+<edge source="https://openalex.org/T12162" target="https://openalex.org/T11017">
+  <data key="d5">1</data>
+</edge>
+<edge source="https://openalex.org/T11665" target="https://openalex.org/T10659">
+  <data key="d5">1</data>
+</edge>
+<edge source="https://openalex.org/T11665" target="https://openalex.org/T12644">
+  <data key="d5">1</data>
+</edge>
+<edge source="https://openalex.org/T12644" target="https://openalex.org/T10659">
+  <data key="d5">1</data>
+</edge>
+<edge source="https://openalex.org/T10410" target="https://openalex.org/T10041">
+  <data key="d5">1</data>
+</edge>
+<edge source="https://openalex.org/T10410" target="https://openalex.org/T11296">
+  <data key="d5">1</data>
+</edge>
+<edge source="https://openalex.org/T10041" target="https://openalex.org/T11296">
+  <data key="d5">1</data>
+</edge>
+<edge source="https://openalex.org/T10888" target="https://openalex.org/T10789">
+  <data key="d5">1</data>
+</edge>
+<edge source="https://openalex.org/T10888" target="https://openalex.org/T11211">
+  <data key="d5">1</data>
+</edge>
+<edge source="https://openalex.org/T10789" target="https://openalex.org/T11211">
+  <data key="d5">1</data>
+</edge>
+<edge source="https://openalex.org/T10567" target="https://openalex.org/T11223">
+  <data key="d5">1</data>
+</edge>
+<edge source="https://openalex.org/T10567" target="https://openalex.org/T13402">
+  <data key="d5">1</data>
+</edge>
+<edge source="https://openalex.org/T13402" target="https://openalex.org/T11223">
+  <data key="d5">1</data>
+</edge>
+<edge source="https://openalex.org/T11236" target="https://openalex.org/T11749">
+  <data key="d5">1</data>
+</edge>
+<edge source="https://openalex.org/T10429" target="https://openalex.org/T10241">
+  <data key="d5">1</data>
+</edge>
+<edge source="https://openalex.org/T10429" target="https://openalex.org/T11273">
+  <data key="d5">1</data>
+</edge>
+<edge source="https://openalex.org/T10241" target="https://openalex.org/T11273">
+  <data key="d5">1</data>
+</edge>
+<edge source="https://openalex.org/T10545" target="https://openalex.org/T12809">
+  <data key="d5">1</data>
+</edge>
+<edge source="https://openalex.org/T10545" target="https://openalex.org/T13855">
+  <data key="d5">1</data>
+</edge>
+<edge source="https://openalex.org/T13855" target="https://openalex.org/T12809">
+  <data key="d5">1</data>
+</edge>
+<edge source="https://openalex.org/T10862" target="https://openalex.org/T12874">
+  <data key="d5">1</data>
+</edge>
+<edge source="https://openalex.org/T10730" target="https://openalex.org/T10106">
+  <data key="d5">1</data>
+</edge>
+<edge source="https://openalex.org/T10708" target="https://openalex.org/T10084">
+  <data key="d5">1</data>
+</edge>
+<edge source="https://openalex.org/T10692" target="https://openalex.org/T11692">
+  <data key="d5">1</data>
+</edge>
+<edge source="https://openalex.org/T10692" target="https://openalex.org/T12950">
+  <data key="d5">1</data>
+</edge>
+<edge source="https://openalex.org/T12950" target="https://openalex.org/T11692">
+  <data key="d5">1</data>
+</edge>
+<edge source="https://openalex.org/T10851" target="https://openalex.org/T10205">
+  <data key="d5">1</data>
+</edge>
+<edge source="https://openalex.org/T10851" target="https://openalex.org/T10767">
+  <data key="d5">1</data>
+</edge>
+<edge source="https://openalex.org/T10767" target="https://openalex.org/T10205">
+  <data key="d5">1</data>
+</edge>
+<edge source="https://openalex.org/T11689" target="https://openalex.org/T10502">
+  <data key="d5">1</data>
+</edge>
+<edge source="https://openalex.org/T10025" target="https://openalex.org/T10229">
+  <data key="d5">1</data>
+</edge>
+<edge source="https://openalex.org/T10025" target="https://openalex.org/T13080">
+  <data key="d5">1</data>
+</edge>
+<edge source="https://openalex.org/T10229" target="https://openalex.org/T13080">
+  <data key="d5">1</data>
+</edge>
+<edge source="https://openalex.org/T10916" target="https://openalex.org/T11984">
+  <data key="d5">1</data>
+</edge>
+<edge source="https://openalex.org/T10916" target="https://openalex.org/T13953">
+  <data key="d5">1</data>
+</edge>
+<edge source="https://openalex.org/T11984" target="https://openalex.org/T13953">
+  <data key="d5">1</data>
+</edge>
+<edge source="https://openalex.org/T12153" target="https://openalex.org/T11324">
+  <data key="d5">1</data>
+</edge>
+<edge source="https://openalex.org/T12153" target="https://openalex.org/T12015">
+  <data key="d5">1</data>
+</edge>
+<edge source="https://openalex.org/T12015" target="https://openalex.org/T11324">
+  <data key="d5">1</data>
+</edge>
+</graph></graphml>

@@ -1,63 +1,18 @@
-id,name,frequency,field,subfield,domain,degree,degree_centrality,betweenness_centrality,closeness_centrality
-https://openalex.org/T10531,Advanced Vision and Imaging,5,Computer Science,Computer Vision and Pattern Recognition,Physical Sciences,2,0.03278688524590164,0.0,0.08832673827020915
-https://openalex.org/T10581,Neural dynamics and brain function,7,Neuroscience,Cognitive Neuroscience,Life Sciences,3,0.04918032786885246,0.00273224043715847,0.05245901639344263
-https://openalex.org/T10500,Sparse and Compressive Sensing Techniques,4,Engineering,Computational Mechanics,Physical Sciences,1,0.01639344262295082,0.0,0.01639344262295082
-https://openalex.org/T11659,Advanced Image Fusion Techniques,3,Engineering,Media Technology,Physical Sciences,1,0.01639344262295082,0.0,0.01639344262295082
-https://openalex.org/T10050,Multi-Criteria Decision Making,4,Decision Sciences,Management Science and Operations Research,Social Sciences,1,0.01639344262295082,0.0,0.01639344262295082
-https://openalex.org/T10824,Image Retrieval and Classification Techniques,4,Computer Science,Computer Vision and Pattern Recognition,Physical Sciences,2,0.03278688524590164,0.0,0.07478760320689243
-https://openalex.org/T12205,Time Series Analysis and Forecasting,4,Computer Science,Signal Processing,Physical Sciences,1,0.01639344262295082,0.0,0.01639344262295082
-https://openalex.org/T11687,Teleoperation and Haptic Systems,7,Engineering,Mechanical Engineering,Physical Sciences,5,0.0819672131147541,0.053551912568306013,0.1600922131147541
-https://openalex.org/T10429,EEG and Brain-Computer Interfaces,5,Neuroscience,Cognitive Neuroscience,Life Sciences,1,0.01639344262295082,0.0,0.03278688524590164
-https://openalex.org/T11372,Hydraulic and Pneumatic Systems,5,Engineering,Mechanical Engineering,Physical Sciences,1,0.01639344262295082,0.0,0.10455001672800268
-https://openalex.org/T11394,Dynamics and Control of Mechanical Systems,8,Engineering,Control and Systems Engineering,Physical Sciences,3,0.04918032786885246,0.019398907103825136,0.14849132810643859
-https://openalex.org/T10028,Topic Modeling,4,Computer Science,Artificial Intelligence,Physical Sciences,2,0.03278688524590164,0.0,0.03278688524590164
-https://openalex.org/T10876,Fault Detection and Control Systems,6,Engineering,Control and Systems Engineering,Physical Sciences,3,0.04918032786885246,0.000546448087431694,0.13845813026140896
-https://openalex.org/T10052,Medical Image Segmentation Techniques,3,Computer Science,Computer Vision and Pattern Recognition,Physical Sciences,2,0.03278688524590164,0.0,0.07478760320689243
-https://openalex.org/T14246,E-Learning and Knowledge Management,6,Computer Science,Computer Science Applications,Physical Sciences,1,0.01639344262295082,0.0,0.01639344262295082
-https://openalex.org/T10400,Network Security and Intrusion Detection,4,Computer Science,Computer Networks and Communications,Physical Sciences,2,0.03278688524590164,0.000546448087431694,0.03278688524590164
-https://openalex.org/T10887,Bioinformatics and Genomic Networks,3,"Biochemistry, Genetics and Molecular Biology",Molecular Biology,Life Sciences,1,0.01639344262295082,0.0,0.01639344262295082
-https://openalex.org/T12380,Authorship Attribution and Profiling,4,Computer Science,Artificial Intelligence,Physical Sciences,2,0.03278688524590164,0.0,0.03278688524590164
-https://openalex.org/T10378,Advanced MRI Techniques and Applications,4,Medicine,"Radiology, Nuclear Medicine and Imaging",Health Sciences,1,0.01639344262295082,0.0,0.029143897996357013
-https://openalex.org/T10791,Advanced Control Systems Optimization,8,Engineering,Control and Systems Engineering,Physical Sciences,4,0.06557377049180328,0.000819672131147541,0.13845813026140896
-https://openalex.org/T10522,Medical Imaging Techniques and Applications,4,Medicine,"Radiology, Nuclear Medicine and Imaging",Health Sciences,1,0.01639344262295082,0.0,0.01639344262295082
-https://openalex.org/T10181,Natural Language Processing Techniques,4,Computer Science,Artificial Intelligence,Physical Sciences,2,0.03278688524590164,0.0,0.03278688524590164
-https://openalex.org/T12592,Opinion Dynamics and Social Influence,4,Physics and Astronomy,Statistical and Nonlinear Physics,Physical Sciences,1,0.01639344262295082,0.0,0.01639344262295082
-https://openalex.org/T10220,Machine Fault Diagnosis Techniques,4,Engineering,Control and Systems Engineering,Physical Sciences,1,0.01639344262295082,0.0,0.01639344262295082
-https://openalex.org/T10444,Context-Aware Activity Recognition Systems,3,Computer Science,Computer Vision and Pattern Recognition,Physical Sciences,1,0.01639344262295082,0.0,0.01639344262295082
-https://openalex.org/T10175,Advanced DC-DC Converters,4,Engineering,Electrical and Electronic Engineering,Physical Sciences,2,0.03278688524590164,0.0,0.03278688524590164
-https://openalex.org/T10860,Speech and Audio Processing,5,Computer Science,Signal Processing,Physical Sciences,1,0.01639344262295082,0.0,0.01639344262295082
-https://openalex.org/T10820,Fuzzy Logic and Control Systems,5,Computer Science,Artificial Intelligence,Physical Sciences,1,0.01639344262295082,0.0,0.01639344262295082
-https://openalex.org/T13114,Image Processing Techniques and Applications,5,Engineering,Media Technology,Physical Sciences,1,0.01639344262295082,0.0,0.01639344262295082
-https://openalex.org/T11749,Iterative Learning Control Systems,5,Engineering,Control and Systems Engineering,Physical Sciences,2,0.03278688524590164,0.0,0.14035481697731866
-https://openalex.org/T11023,Prosthetics and Rehabilitation Robotics,8,Engineering,Biomedical Engineering,Physical Sciences,3,0.04918032786885246,0.013934426229508197,0.10349395595297235
-https://openalex.org/T10228,Multilevel Inverters and Converters,6,Engineering,Electrical and Electronic Engineering,Physical Sciences,2,0.03278688524590164,0.0,0.03278688524590164
-https://openalex.org/T14498,Educational Technology in Learning,3,Computer Science,Information Systems,Physical Sciences,1,0.01639344262295082,0.0,0.01639344262295082
-https://openalex.org/T10320,Neural Networks and Applications,8,Computer Science,Artificial Intelligence,Physical Sciences,1,0.01639344262295082,0.0,0.03278688524590164
-https://openalex.org/T10627,Advanced Image and Video Retrieval Techniques,7,Computer Science,Computer Vision and Pattern Recognition,Physical Sciences,4,0.06557377049180328,0.025136612021857924,0.0898763301696865
-https://openalex.org/T12386,Advanced X-ray and CT Imaging,3,Engineering,Biomedical Engineering,Physical Sciences,1,0.01639344262295082,0.0,0.01639344262295082
-https://openalex.org/T10191,Robotics and Sensor-Based Localization,9,Engineering,Aerospace Engineering,Physical Sciences,3,0.04918032786885246,0.04590163934426229,0.1078515962036238
-https://openalex.org/T10879,Robotic Locomotion and Control,5,Engineering,Biomedical Engineering,Physical Sciences,1,0.01639344262295082,0.0,0.08330001332800213
-https://openalex.org/T11081,Advanced Control Systems Design,5,Engineering,Control and Systems Engineering,Physical Sciences,2,0.03278688524590164,0.0,0.1348144952545298
-https://openalex.org/T11236,Control Systems and Identification,5,Engineering,Control and Systems Engineering,Physical Sciences,3,0.04918032786885246,0.013114754098360656,0.13845813026140896
-https://openalex.org/T10653,Robot Manipulation and Learning,5,Engineering,Control and Systems Engineering,Physical Sciences,2,0.03278688524590164,0.001639344262295082,0.12344459806438872
-https://openalex.org/T10046,Stability and Control of Uncertain Systems,6,Engineering,Control and Systems Engineering,Physical Sciences,2,0.03278688524590164,0.0,0.1348144952545298
-https://openalex.org/T12549,Image and Object Detection Techniques,5,Computer Science,Computer Vision and Pattern Recognition,Physical Sciences,1,0.01639344262295082,0.0,0.01639344262295082
-https://openalex.org/T10571,Robotic Mechanisms and Dynamics,7,Engineering,Control and Systems Engineering,Physical Sciences,3,0.04918032786885246,0.013114754098360656,0.1249500199920032
-https://openalex.org/T10241,Functional Brain Connectivity Studies,3,Neuroscience,Cognitive Neuroscience,Life Sciences,2,0.03278688524590164,0.001639344262295082,0.04371584699453552
-https://openalex.org/T10784,Muscle activation and electromyography studies,6,Engineering,Biomedical Engineering,Physical Sciences,2,0.03278688524590164,0.012021857923497269,0.12344459806438872
-https://openalex.org/T13382,Robotics and Automated Systems,3,Engineering,Control and Systems Engineering,Physical Sciences,1,0.01639344262295082,0.0,0.1164307004470939
-https://openalex.org/T11512,Anomaly Detection Techniques and Applications,4,Computer Science,Artificial Intelligence,Physical Sciences,1,0.01639344262295082,0.0,0.02185792349726776
-https://openalex.org/T11309,Music and Audio Processing,5,Computer Science,Signal Processing,Physical Sciences,1,0.01639344262295082,0.0,0.01639344262295082
-https://openalex.org/T12794,Adaptive Dynamic Programming Control,3,Computer Science,Computational Theory and Mathematics,Physical Sciences,1,0.01639344262295082,0.0,0.13306365765382158
-https://openalex.org/T12389,Infrared Target Detection Methodologies,3,Engineering,Aerospace Engineering,Physical Sciences,1,0.01639344262295082,0.0,0.01639344262295082
-https://openalex.org/T12772,Control and Stability of Dynamical Systems,5,Engineering,Control and Systems Engineering,Physical Sciences,1,0.01639344262295082,0.0,0.13306365765382158
-https://openalex.org/T11062,Gear and Bearing Dynamics Analysis,3,Engineering,Mechanical Engineering,Physical Sciences,1,0.01639344262295082,0.0,0.01639344262295082
-https://openalex.org/T10223,Microgrid Control and Optimization,7,Engineering,Control and Systems Engineering,Physical Sciences,2,0.03278688524590164,0.0,0.03278688524590164
-https://openalex.org/T10040,Adaptive Control of Nonlinear Systems,19,Engineering,Control and Systems Engineering,Physical Sciences,11,0.18032786885245902,0.12759562841530053,0.19331889885555212
-https://openalex.org/T12254,Machine Learning in Bioinformatics,3,"Biochemistry, Genetics and Molecular Biology",Molecular Biology,Life Sciences,1,0.01639344262295082,0.0,0.01639344262295082
-https://openalex.org/T10868,Soft Robotics and Applications,3,Engineering,Biomedical Engineering,Physical Sciences,1,0.01639344262295082,0.0,0.1164307004470939
-https://openalex.org/T10586,Robotic Path Planning Algorithms,9,Computer Science,Computer Vision and Pattern Recognition,Physical Sciences,2,0.03278688524590164,0.0546448087431694,0.12969495746005397
-https://openalex.org/T10064,Complex Network Analysis Techniques,4,Physics and Astronomy,Statistical and Nonlinear Physics,Physical Sciences,1,0.01639344262295082,0.0,0.01639344262295082
-https://openalex.org/T11241,Advanced Malware Detection Techniques,3,Computer Science,Signal Processing,Physical Sciences,1,0.01639344262295082,0.0,0.02185792349726776
-https://openalex.org/T10249,Distributed Control Multi-Agent Systems,7,Computer Science,Computer Networks and Communications,Physical Sciences,2,0.03278688524590164,0.06229508196721312,0.15762925598991173
-https://openalex.org/T12015,Photoacoustic and Ultrasonic Imaging,3,Engineering,Biomedical Engineering,Physical Sciences,1,0.01639344262295082,0.0,0.01639344262295082
+id,name,frequency,field,subfield,domain
+https://openalex.org/T11506,Children's Rights and Participation,1,Social Sciences,Sociology and Political Science,Social Sciences
+https://openalex.org/T12714,Youth Education and Societal Dynamics,1,Social Sciences,Sociology and Political Science,Social Sciences
+https://openalex.org/T11998,Youth Development and Social Support,1,Social Sciences,Safety Research,Social Sciences
+https://openalex.org/T10260,Software Engineering Research,1,Computer Science,Information Systems,Physical Sciences
+https://openalex.org/T10181,Natural Language Processing Techniques,1,Computer Science,Artificial Intelligence,Physical Sciences
+https://openalex.org/T12254,Machine Learning in Bioinformatics,1,"Biochemistry, Genetics and Molecular Biology",Molecular Biology,Life Sciences
+https://openalex.org/T11017,Chaos-based Image/Signal Encryption,1,Computer Science,Computer Vision and Pattern Recognition,Physical Sciences
+https://openalex.org/T10951,Cryptographic Implementations and Security,1,Computer Science,Artificial Intelligence,Physical Sciences
+https://openalex.org/T11130,Coding theory and cryptography,1,Computer Science,Artificial Intelligence,Physical Sciences
+https://openalex.org/T11416,Numerical methods for differential equations,1,Mathematics,Numerical Analysis,Physical Sciences
+https://openalex.org/T13286,Modeling and Simulation Systems,1,Computer Science,Computational Theory and Mathematics,Physical Sciences
+https://openalex.org/T12772,Control and Stability of Dynamical Systems,1,Engineering,Control and Systems Engineering,Physical Sciences
+https://openalex.org/T14246,E-Learning and Knowledge Management,1,Computer Science,Computer Science Applications,Physical Sciences
+https://openalex.org/T14498,Educational Technology in Learning,1,Computer Science,Information Systems,Physical Sciences
+https://openalex.org/T11111,Spectroscopy and Laser Applications,1,Chemistry,Spectroscopy,Physical Sciences
+https://openalex.org/T12153,Advanced Optical Sensing Technologies,1,Physics and Astronomy,Instrumentation,Physical Sciences
+https://openalex.org/T11992,CCD and CMOS Imaging Sensors,1,Engineering,Electrical and Electronic Engineering,Physical Sciences

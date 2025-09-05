@@ -1,19 +1,7 @@
-id,name,frequency,field,subfield,domain,degree,degree_centrality,betweenness_centrality,closeness_centrality
-https://openalex.org/T10791,Advanced Control Systems Optimization,13,Engineering,Control and Systems Engineering,Physical Sciences,6,0.3529411764705882,0.03676470588235294,0.4448529411764706
-https://openalex.org/T12772,Control and Stability of Dynamical Systems,4,Engineering,Control and Systems Engineering,Physical Sciences,1,0.058823529411764705,0.0,0.3235294117647059
-https://openalex.org/T10305,Power System Optimization and Stability,4,Engineering,Electrical and Electronic Engineering,Physical Sciences,1,0.058823529411764705,0.0,0.058823529411764705
-https://openalex.org/T11081,Advanced Control Systems Design,5,Engineering,Control and Systems Engineering,Physical Sciences,3,0.1764705882352941,0.0,0.3746130030959753
-https://openalex.org/T11520,Advanced Thermodynamics and Statistical Mechanics,5,Physics and Astronomy,Statistical and Nonlinear Physics,Physical Sciences,1,0.058823529411764705,0.0,0.058823529411764705
-https://openalex.org/T10040,Adaptive Control of Nonlinear Systems,19,Engineering,Control and Systems Engineering,Physical Sciences,10,0.5882352941176471,0.2352941176470588,0.5931372549019608
-https://openalex.org/T11236,Control Systems and Identification,8,Engineering,Control and Systems Engineering,Physical Sciences,3,0.1764705882352941,0.0,0.35588235294117654
-https://openalex.org/T10223,Microgrid Control and Optimization,4,Engineering,Control and Systems Engineering,Physical Sciences,1,0.058823529411764705,0.0,0.058823529411764705
-https://openalex.org/T10820,Fuzzy Logic and Control Systems,6,Computer Science,Artificial Intelligence,Physical Sciences,3,0.1764705882352941,0.0,0.35588235294117654
-https://openalex.org/T10278,Electric Motor Design and Analysis,3,Engineering,Electrical and Electronic Engineering,Physical Sciences,2,0.11764705882352941,0.0,0.2737556561085973
-https://openalex.org/T11513,stochastic dynamics and bifurcation,4,Physics and Astronomy,Statistical and Nonlinear Physics,Physical Sciences,1,0.058823529411764705,0.0,0.058823529411764705
-https://openalex.org/T10848,Advanced Multi-Objective Optimization Algorithms,3,Computer Science,Computational Theory and Mathematics,Physical Sciences,1,0.058823529411764705,0.0,0.058823529411764705
-https://openalex.org/T10046,Stability and Control of Uncertain Systems,4,Engineering,Control and Systems Engineering,Physical Sciences,2,0.11764705882352941,0.0,0.3389355742296919
-https://openalex.org/T10876,Fault Detection and Control Systems,7,Engineering,Control and Systems Engineering,Physical Sciences,5,0.29411764705882354,0.014705882352941176,0.39542483660130723
-https://openalex.org/T11749,Iterative Learning Control Systems,9,Engineering,Control and Systems Engineering,Physical Sciences,5,0.29411764705882354,0.051470588235294115,0.41868512110726647
-https://openalex.org/T10100,Metaheuristic Optimization Algorithms Research,3,Computer Science,Artificial Intelligence,Physical Sciences,1,0.058823529411764705,0.0,0.058823529411764705
-https://openalex.org/T10504,Sensorless Control of Electric Motors,7,Engineering,Electrical and Electronic Engineering,Physical Sciences,3,0.1764705882352941,0.022058823529411763,0.3746130030959753
-https://openalex.org/T10320,Neural Networks and Applications,11,Computer Science,Artificial Intelligence,Physical Sciences,3,0.1764705882352941,0.0,0.35588235294117654
+id,name,frequency,field,subfield,domain
+https://openalex.org/T11187,Nonlinear Dynamics and Pattern Formation,1,Computer Science,Computer Networks and Communications,Physical Sciences
+https://openalex.org/T10244,Chaos control and synchronization,1,Physics and Astronomy,Statistical and Nonlinear Physics,Physical Sciences
+https://openalex.org/T12206,Vibration and Dynamic Analysis,1,Engineering,Control and Systems Engineering,Physical Sciences
+https://openalex.org/T10689,Remote-Sensing Image Classification,1,Engineering,Media Technology,Physical Sciences
+https://openalex.org/T12157,Geochemistry and Geologic Mapping,1,Computer Science,Artificial Intelligence,Physical Sciences
+https://openalex.org/T11659,Advanced Image Fusion Techniques,1,Engineering,Media Technology,Physical Sciences

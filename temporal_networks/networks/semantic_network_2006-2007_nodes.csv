@@ -1,25 +1,16 @@
-id,name,frequency,field,subfield,domain,degree,degree_centrality,betweenness_centrality,closeness_centrality
-https://openalex.org/T10876,Fault Detection and Control Systems,8,Engineering,Control and Systems Engineering,Physical Sciences,5,0.21739130434782608,0.01844532279314888,0.28985507246376807
-https://openalex.org/T10502,Advanced Memory and Neural Computing,3,Engineering,Electrical and Electronic Engineering,Physical Sciences,2,0.08695652173913043,0.0,0.20703933747412007
-https://openalex.org/T10215,Semantic Web and Ontologies,6,Computer Science,Artificial Intelligence,Physical Sciences,2,0.08695652173913043,0.0,0.08695652173913043
-https://openalex.org/T10791,Advanced Control Systems Optimization,11,Engineering,Control and Systems Engineering,Physical Sciences,5,0.21739130434782608,0.03820816864295125,0.28985507246376807
-https://openalex.org/T10305,Power System Optimization and Stability,5,Engineering,Electrical and Electronic Engineering,Physical Sciences,1,0.043478260869565216,0.0,0.043478260869565216
-https://openalex.org/T11270,Complex Systems and Time Series Analysis,3,"Economics, Econometrics and Finance",Economics and Econometrics,Social Sciences,1,0.043478260869565216,0.0,0.043478260869565216
-https://openalex.org/T10820,Fuzzy Logic and Control Systems,3,Computer Science,Artificial Intelligence,Physical Sciences,1,0.043478260869565216,0.0,0.1976284584980237
-https://openalex.org/T11347,Neural Networks Stability and Synchronization,4,Computer Science,Computer Networks and Communications,Physical Sciences,2,0.08695652173913043,0.0,0.20703933747412007
-https://openalex.org/T11102,HVDC Systems and Fault Protection,3,Engineering,Electrical and Electronic Engineering,Physical Sciences,1,0.043478260869565216,0.0,0.043478260869565216
-https://openalex.org/T11749,Iterative Learning Control Systems,4,Engineering,Control and Systems Engineering,Physical Sciences,1,0.043478260869565216,0.0,0.18115942028985507
-https://openalex.org/T11010,"Logic, Reasoning, and Knowledge",3,Computer Science,Artificial Intelligence,Physical Sciences,2,0.08695652173913043,0.0,0.08695652173913043
-https://openalex.org/T10228,Multilevel Inverters and Converters,5,Engineering,Electrical and Electronic Engineering,Physical Sciences,1,0.043478260869565216,0.0,0.043478260869565216
-https://openalex.org/T10573,Power Quality and Harmonics,3,Engineering,Electrical and Electronic Engineering,Physical Sciences,1,0.043478260869565216,0.0,0.043478260869565216
-https://openalex.org/T10320,Neural Networks and Applications,15,Computer Science,Artificial Intelligence,Physical Sciences,7,0.30434782608695654,0.09354413702239789,0.33444816053511706
-https://openalex.org/T11236,Control Systems and Identification,7,Engineering,Control and Systems Engineering,Physical Sciences,3,0.13043478260869565,0.0,0.24154589371980675
-https://openalex.org/T10244,Chaos control and synchronization,4,Physics and Astronomy,Statistical and Nonlinear Physics,Physical Sciences,1,0.043478260869565216,0.0,0.043478260869565216
-https://openalex.org/T10046,Stability and Control of Uncertain Systems,6,Engineering,Control and Systems Engineering,Physical Sciences,2,0.08695652173913043,0.0,0.1976284584980237
-https://openalex.org/T10057,Face and Expression Recognition,5,Computer Science,Computer Vision and Pattern Recognition,Physical Sciences,1,0.043478260869565216,0.0,0.043478260869565216
-https://openalex.org/T10564,Wastewater Treatment and Nitrogen Removal,3,Environmental Science,Pollution,Physical Sciences,1,0.043478260869565216,0.0,0.18115942028985507
-https://openalex.org/T10456,Multi-Agent Systems and Negotiation,5,Computer Science,Artificial Intelligence,Physical Sciences,2,0.08695652173913043,0.0,0.08695652173913043
-https://openalex.org/T10040,Adaptive Control of Nonlinear Systems,14,Engineering,Control and Systems Engineering,Physical Sciences,5,0.21739130434782608,0.04743083003952569,0.28985507246376807
-https://openalex.org/T10064,Complex Network Analysis Techniques,4,Physics and Astronomy,Statistical and Nonlinear Physics,Physical Sciences,1,0.043478260869565216,0.0,0.043478260869565216
-https://openalex.org/T11448,Face recognition and analysis,3,Computer Science,Computer Vision and Pattern Recognition,Physical Sciences,1,0.043478260869565216,0.0,0.043478260869565216
-https://openalex.org/T11187,Nonlinear Dynamics and Pattern Formation,5,Computer Science,Computer Networks and Communications,Physical Sciences,1,0.043478260869565216,0.0,0.043478260869565216
+id,name,frequency,field,subfield,domain
+https://openalex.org/T10791,Advanced Control Systems Optimization,1,Engineering,Control and Systems Engineering,Physical Sciences
+https://openalex.org/T14083,Extremum Seeking Control Systems,1,Engineering,Control and Systems Engineering,Physical Sciences
+https://openalex.org/T10564,Wastewater Treatment and Nitrogen Removal,1,Environmental Science,Pollution,Physical Sciences
+https://openalex.org/T10573,Power Quality and Harmonics,1,Engineering,Electrical and Electronic Engineering,Physical Sciences
+https://openalex.org/T11222,Magnetic Properties and Applications,1,Materials Science,"Electronic, Optical and Magnetic Materials",Physical Sciences
+https://openalex.org/T10228,Multilevel Inverters and Converters,1,Engineering,Electrical and Electronic Engineering,Physical Sciences
+https://openalex.org/T11405,Geophysics and Gravity Measurements,1,Earth and Planetary Sciences,Oceanography,Physical Sciences
+https://openalex.org/T10644,Cryospheric studies and observations,1,Earth and Planetary Sciences,Atmospheric Science,Physical Sciences
+https://openalex.org/T13126,Scientific Research and Discoveries,1,Physics and Astronomy,Statistical and Nonlinear Physics,Physical Sciences
+https://openalex.org/T10703,Business Process Modeling and Analysis,1,"Business, Management and Accounting",Management Information Systems,Social Sciences
+https://openalex.org/T10679,Service-Oriented Architecture and Web Services,1,Computer Science,Information Systems,Physical Sciences
+https://openalex.org/T10639,Advanced Software Engineering Methodologies,1,Computer Science,Artificial Intelligence,Physical Sciences
+https://openalex.org/T10700,Metal Forming Simulation Techniques,1,Engineering,Mechanical Engineering,Physical Sciences
+https://openalex.org/T11201,Metallurgy and Material Forming,1,Engineering,Mechanics of Materials,Physical Sciences
+https://openalex.org/T11301,Advanced Surface Polishing Techniques,1,Engineering,Biomedical Engineering,Physical Sciences

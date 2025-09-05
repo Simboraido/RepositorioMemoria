@@ -1,28 +1,14 @@
 <?xml version='1.0' encoding='utf-8'?>
-<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
-  <key id="d5" for="edge" attr.name="weight" attr.type="long" />
-  <key id="d4" for="node" attr.name="domain" attr.type="string" />
-  <key id="d3" for="node" attr.name="subfield" attr.type="string" />
-  <key id="d2" for="node" attr.name="field" attr.type="string" />
-  <key id="d1" for="node" attr.name="frequency" attr.type="long" />
-  <key id="d0" for="node" attr.name="name" attr.type="string" />
-  <graph edgedefault="undirected">
-    <node id="https://openalex.org/T10791">
-      <data key="d0">Advanced Control Systems Optimization</data>
-      <data key="d1">7</data>
-      <data key="d2">Engineering</data>
-      <data key="d3">Control and Systems Engineering</data>
-      <data key="d4">Physical Sciences</data>
-    </node>
-    <node id="https://openalex.org/T10040">
-      <data key="d0">Adaptive Control of Nonlinear Systems</data>
-      <data key="d1">6</data>
-      <data key="d2">Engineering</data>
-      <data key="d3">Control and Systems Engineering</data>
-      <data key="d4">Physical Sciences</data>
-    </node>
-    <edge source="https://openalex.org/T10791" target="https://openalex.org/T10040">
-      <data key="d5">4</data>
-    </edge>
-  </graph>
-</graphml>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><key id="d4" for="node" attr.name="domain" attr.type="string"/>
+<key id="d3" for="node" attr.name="subfield" attr.type="string"/>
+<key id="d2" for="node" attr.name="field" attr.type="string"/>
+<key id="d1" for="node" attr.name="frequency" attr.type="long"/>
+<key id="d0" for="node" attr.name="name" attr.type="string"/>
+<graph edgedefault="undirected"><node id="https://openalex.org/T10057">
+  <data key="d0">Face and Expression Recognition</data>
+  <data key="d1">1</data>
+  <data key="d2">Computer Science</data>
+  <data key="d3">Computer Vision and Pattern Recognition</data>
+  <data key="d4">Physical Sciences</data>
+</node>
+</graph></graphml>
